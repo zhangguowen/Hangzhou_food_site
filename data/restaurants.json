@@ -11961,236 +11961,6 @@
       }
     },
     {
-      "id": "crawl-80292602",
-      "name": "新丰小吃(浣纱路分店)",
-      "category": "快餐与简餐",
-      "district": "杭州",
-      "address": "杭州市湖滨街道浣纱路147号(近解放路)",
-      "price": "¥",
-      "description": "携程美食公开页收录的快餐简餐，人均 ¥18，页面显示 6 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为快餐与简餐的候选。",
-      "reviewSummary": "携程公开页列出 3.3 分及 6 条公开评价。",
-      "mapQuery": "新丰小吃(浣纱路分店) 杭州市湖滨街道浣纱路147号(近解放路)",
-      "sources": [
-        {
-          "name": "携程美食·新丰小吃(浣纱路分店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E6%96%B0%E4%B8%B0%E5%B0%8F%E5%90%83(%E6%B5%A3%E7%BA%B1%E8%B7%AF%E5%88%86%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%B9%96%E6%BB%A8%E8%A1%97%E9%81%93%E6%B5%A3%E7%BA%B1%E8%B7%AF147%E5%8F%B7(%E8%BF%91%E8%A7%A3%E6%94%BE%E8%B7%AF)",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-09-30",
-      "rating": "3.3（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 18,
-        "currency": "CNY",
-        "label": "人均 ¥18",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-        "verifiedAt": "2026-09-30"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 18,
-          "currency": "CNY",
-          "label": "人均 ¥18",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-          "verifiedAt": "2026-09-30"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-09-30",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "千张包",
-          "price": null
-        },
-        {
-          "name": "小馄饨",
-          "price": null
-        },
-        {
-          "name": "萝卜丝饼",
-          "price": null
-        },
-        {
-          "name": "喉口馒头",
-          "price": null
-        },
-        {
-          "name": "鸡粒包",
-          "price": null
-        },
-        {
-          "name": "素烧鹅",
-          "price": null
-        },
-        {
-          "name": "蟹黄小笼",
-          "price": null
-        },
-        {
-          "name": "虾仁馄钝",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 3.3,
-        "count": 6,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-        "verifiedAt": "2026-09-30"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1tx3d12000se7q460C645_D_750_450_Q90.webp?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-        "verifiedAt": "2026-09-30"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-09-30",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-09-30"
-      },
-      "recommendationScore": 63,
-      "recommendationBreakdown": {
-        "rating": 26.4,
-        "reviewSample": 7,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 103
-    },
-    {
-      "id": "crawl-131068688",
-      "name": "新丰小吃(湖墅南路分店)",
-      "category": "快餐与简餐",
-      "district": "杭州",
-      "address": "杭州市湖墅南路212号",
-      "price": "¥",
-      "description": "携程美食公开页收录的快餐简餐，人均 ¥15，页面显示 5 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为快餐与简餐的候选。",
-      "reviewSummary": "携程公开页列出 3 分及 5 条公开评价。",
-      "mapQuery": "新丰小吃(湖墅南路分店) 杭州市湖墅南路212号",
-      "sources": [
-        {
-          "name": "携程美食·新丰小吃(湖墅南路分店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E6%96%B0%E4%B8%B0%E5%B0%8F%E5%90%83(%E6%B9%96%E5%A2%85%E5%8D%97%E8%B7%AF%E5%88%86%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%B9%96%E5%A2%85%E5%8D%97%E8%B7%AF212%E5%8F%B7",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-09-30",
-      "rating": "3（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 15,
-        "currency": "CNY",
-        "label": "人均 ¥15",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-        "verifiedAt": "2026-09-30"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 15,
-          "currency": "CNY",
-          "label": "人均 ¥15",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-          "verifiedAt": "2026-09-30"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-09-30",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "卤蛋",
-          "price": null
-        },
-        {
-          "name": "赤豆汤",
-          "price": null
-        },
-        {
-          "name": "鸭血汤",
-          "price": null
-        },
-        {
-          "name": "香菇菜包",
-          "price": null
-        },
-        {
-          "name": "新丰菜包",
-          "price": null
-        },
-        {
-          "name": "炸酱面",
-          "price": null
-        },
-        {
-          "name": "鸡粒包",
-          "price": null
-        },
-        {
-          "name": "鲜肉锅贴",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 3,
-        "count": 5,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-        "verifiedAt": "2026-09-30"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1tx3d12000se7q460C645_D_750_450_Q90.webp?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-        "verifiedAt": "2026-09-30"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-09-30",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-09-30"
-      },
-      "recommendationScore": 61,
-      "recommendationBreakdown": {
-        "rating": 24,
-        "reviewSample": 6.5,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 104
-    },
-    {
       "id": "xinfeng-hushunan",
       "name": "新丰小吃（湖墅南路店）",
       "category": "早餐与早茶",
@@ -12291,7 +12061,7 @@
         "sources": 5,
         "freshness": 9.9
       },
-      "recommendationRank": 105,
+      "recommendationRank": 103,
       "averageSpendSources": [
         {
           "amount": 15,
@@ -12417,7 +12187,7 @@
         "sources": 5,
         "freshness": 9.9
       },
-      "recommendationRank": 106
+      "recommendationRank": 104
     },
     {
       "id": "crawl-20762923",
@@ -12532,7 +12302,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 107
+      "recommendationRank": 105
     },
     {
       "id": "crawl-22578327",
@@ -12651,7 +12421,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 108
+      "recommendationRank": 106
     }
   ],
   "verifiedRestaurants": [
@@ -24613,236 +24383,6 @@
       }
     },
     {
-      "id": "crawl-80292602",
-      "name": "新丰小吃(浣纱路分店)",
-      "category": "快餐与简餐",
-      "district": "杭州",
-      "address": "杭州市湖滨街道浣纱路147号(近解放路)",
-      "price": "¥",
-      "description": "携程美食公开页收录的快餐简餐，人均 ¥18，页面显示 6 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为快餐与简餐的候选。",
-      "reviewSummary": "携程公开页列出 3.3 分及 6 条公开评价。",
-      "mapQuery": "新丰小吃(浣纱路分店) 杭州市湖滨街道浣纱路147号(近解放路)",
-      "sources": [
-        {
-          "name": "携程美食·新丰小吃(浣纱路分店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E6%96%B0%E4%B8%B0%E5%B0%8F%E5%90%83(%E6%B5%A3%E7%BA%B1%E8%B7%AF%E5%88%86%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%B9%96%E6%BB%A8%E8%A1%97%E9%81%93%E6%B5%A3%E7%BA%B1%E8%B7%AF147%E5%8F%B7(%E8%BF%91%E8%A7%A3%E6%94%BE%E8%B7%AF)",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-09-30",
-      "rating": "3.3（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 18,
-        "currency": "CNY",
-        "label": "人均 ¥18",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-        "verifiedAt": "2026-09-30"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 18,
-          "currency": "CNY",
-          "label": "人均 ¥18",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-          "verifiedAt": "2026-09-30"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-09-30",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "千张包",
-          "price": null
-        },
-        {
-          "name": "小馄饨",
-          "price": null
-        },
-        {
-          "name": "萝卜丝饼",
-          "price": null
-        },
-        {
-          "name": "喉口馒头",
-          "price": null
-        },
-        {
-          "name": "鸡粒包",
-          "price": null
-        },
-        {
-          "name": "素烧鹅",
-          "price": null
-        },
-        {
-          "name": "蟹黄小笼",
-          "price": null
-        },
-        {
-          "name": "虾仁馄钝",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 3.3,
-        "count": 6,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-        "verifiedAt": "2026-09-30"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1tx3d12000se7q460C645_D_750_450_Q90.webp?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-        "verifiedAt": "2026-09-30"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-09-30",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-09-30"
-      },
-      "recommendationScore": 63,
-      "recommendationBreakdown": {
-        "rating": 26.4,
-        "reviewSample": 7,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 103
-    },
-    {
-      "id": "crawl-131068688",
-      "name": "新丰小吃(湖墅南路分店)",
-      "category": "快餐与简餐",
-      "district": "杭州",
-      "address": "杭州市湖墅南路212号",
-      "price": "¥",
-      "description": "携程美食公开页收录的快餐简餐，人均 ¥15，页面显示 5 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为快餐与简餐的候选。",
-      "reviewSummary": "携程公开页列出 3 分及 5 条公开评价。",
-      "mapQuery": "新丰小吃(湖墅南路分店) 杭州市湖墅南路212号",
-      "sources": [
-        {
-          "name": "携程美食·新丰小吃(湖墅南路分店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E6%96%B0%E4%B8%B0%E5%B0%8F%E5%90%83(%E6%B9%96%E5%A2%85%E5%8D%97%E8%B7%AF%E5%88%86%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%B9%96%E5%A2%85%E5%8D%97%E8%B7%AF212%E5%8F%B7",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-09-30",
-      "rating": "3（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 15,
-        "currency": "CNY",
-        "label": "人均 ¥15",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-        "verifiedAt": "2026-09-30"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 15,
-          "currency": "CNY",
-          "label": "人均 ¥15",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-          "verifiedAt": "2026-09-30"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-09-30",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "卤蛋",
-          "price": null
-        },
-        {
-          "name": "赤豆汤",
-          "price": null
-        },
-        {
-          "name": "鸭血汤",
-          "price": null
-        },
-        {
-          "name": "香菇菜包",
-          "price": null
-        },
-        {
-          "name": "新丰菜包",
-          "price": null
-        },
-        {
-          "name": "炸酱面",
-          "price": null
-        },
-        {
-          "name": "鸡粒包",
-          "price": null
-        },
-        {
-          "name": "鲜肉锅贴",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 3,
-        "count": 5,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-        "verifiedAt": "2026-09-30"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1tx3d12000se7q460C645_D_750_450_Q90.webp?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-        "verifiedAt": "2026-09-30"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-09-30",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-09-30"
-      },
-      "recommendationScore": 61,
-      "recommendationBreakdown": {
-        "rating": 24,
-        "reviewSample": 6.5,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 104
-    },
-    {
       "id": "xinfeng-hushunan",
       "name": "新丰小吃（湖墅南路店）",
       "category": "早餐与早茶",
@@ -24943,7 +24483,7 @@
         "sources": 5,
         "freshness": 9.9
       },
-      "recommendationRank": 105,
+      "recommendationRank": 103,
       "averageSpendSources": [
         {
           "amount": 15,
@@ -25069,7 +24609,7 @@
         "sources": 5,
         "freshness": 9.9
       },
-      "recommendationRank": 106
+      "recommendationRank": 104
     },
     {
       "id": "crawl-20762923",
@@ -25184,7 +24724,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 107
+      "recommendationRank": 105
     },
     {
       "id": "crawl-22578327",
@@ -25303,7 +24843,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 108
+      "recommendationRank": 106
     }
   ],
   "pendingRestaurants": [
