@@ -2734,124 +2734,6 @@
       "recommendationRank": 23
     },
     {
-      "id": "crawl-8319539",
-      "name": "肯德基(太和店)",
-      "category": "快餐与简餐",
-      "district": "杭州",
-      "address": "杭州市太和大道中段汇星百货旁171——175号",
-      "price": "¥¥",
-      "description": "携程美食公开页收录的快餐简餐，人均 ¥28，页面显示 208 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为快餐与简餐的候选。",
-      "reviewSummary": "携程公开页列出 4.7 分及 208 条公开评价。",
-      "mapQuery": "肯德基(太和店) 杭州市太和大道中段汇星百货旁171——175号",
-      "sources": [
-        {
-          "name": "携程美食·肯德基(太和店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/8319539.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E8%82%AF%E5%BE%B7%E5%9F%BA(%E5%A4%AA%E5%92%8C%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%A4%AA%E5%92%8C%E5%A4%A7%E9%81%93%E4%B8%AD%E6%AE%B5%E6%B1%87%E6%98%9F%E7%99%BE%E8%B4%A7%E6%97%81171%E2%80%94%E2%80%94175%E5%8F%B7",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-10-06",
-      "rating": "4.7（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 28,
-        "currency": "CNY",
-        "label": "人均 ¥28",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/8319539.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 28,
-          "currency": "CNY",
-          "label": "人均 ¥28",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/8319539.html",
-          "verifiedAt": "2026-10-06"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-06",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "葡式蛋挞(经典)",
-          "price": null
-        },
-        {
-          "name": "全鸡装",
-          "price": null
-        },
-        {
-          "name": "根骨肉相连加",
-          "price": null
-        },
-        {
-          "name": "芙蓉荟蔬汤",
-          "price": null
-        },
-        {
-          "name": "吮指原味鸡(1块装)",
-          "price": null
-        },
-        {
-          "name": "新奥良腿堡土豆泥餐",
-          "price": null
-        },
-        {
-          "name": "香甜粟米棒",
-          "price": null
-        },
-        {
-          "name": "海苔炸鸡风味薯条",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 4.7,
-        "count": 208,
-        "snippets": [
-          "非常不错啦，蛋挞挚爱，嘻嘻嘻嘻嘻",
-          "老北京鸡肉卷，香脆可口"
-        ],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/8319539.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1tx2a12000se5sig8507E_D_750_450_Q90.webp?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/8319539.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-06",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/8319539.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-06"
-      },
-      "recommendationScore": 87,
-      "recommendationBreakdown": {
-        "rating": 37.6,
-        "reviewSample": 19.3,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 24
-    },
-    {
       "id": "crawl-449710",
       "name": "盈田盈粥庄(上南路店)",
       "category": "快餐与简餐",
@@ -2968,7 +2850,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 25
+      "recommendationRank": 24
     },
     {
       "id": "crawl-25042257",
@@ -3087,7 +2969,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 26
+      "recommendationRank": 25
     },
     {
       "id": "crawl-8593528",
@@ -3206,7 +3088,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 27
+      "recommendationRank": 26
     },
     {
       "id": "crawl-5145762",
@@ -3325,7 +3207,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 28
+      "recommendationRank": 27
     },
     {
       "id": "crawl-5154253",
@@ -3444,7 +3326,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 29
+      "recommendationRank": 28
     },
     {
       "id": "crawl-5143241",
@@ -3563,7 +3445,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 30
+      "recommendationRank": 29
     },
     {
       "id": "crawl-5284800",
@@ -3682,7 +3564,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 31
+      "recommendationRank": 30
     },
     {
       "id": "crawl-11353010",
@@ -3800,7 +3682,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 32
+      "recommendationRank": 31
     },
     {
       "id": "crawl-5142745",
@@ -3919,237 +3801,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 33
-    },
-    {
-      "id": "crawl-15172321",
-      "name": "正新鸡排·炸鸡烧烤(吴泾店)",
-      "category": "杭州小吃与点心",
-      "district": "杭州",
-      "address": "杭州市宝秀路688号",
-      "price": "¥",
-      "description": "携程美食公开页收录的小吃，人均 ¥14，页面显示 89 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为杭州小吃与点心的候选。",
-      "reviewSummary": "携程公开页列出 5 分及 89 条公开评价。",
-      "mapQuery": "正新鸡排·炸鸡烧烤(吴泾店) 杭州市宝秀路688号",
-      "sources": [
-        {
-          "name": "携程美食·正新鸡排·炸鸡烧烤(吴泾店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15172321.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E6%AD%A3%E6%96%B0%E9%B8%A1%E6%8E%92%C2%B7%E7%82%B8%E9%B8%A1%E7%83%A7%E7%83%A4(%E5%90%B4%E6%B3%BE%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%AE%9D%E7%A7%80%E8%B7%AF688%E5%8F%B7",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-10-06",
-      "rating": "5（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 14,
-        "currency": "CNY",
-        "label": "人均 ¥14",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15172321.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 14,
-          "currency": "CNY",
-          "label": "人均 ¥14",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15172321.html",
-          "verifiedAt": "2026-10-06"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-06",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "普朗姆气泡水",
-          "price": null
-        },
-        {
-          "name": "孜然牛肉",
-          "price": null
-        },
-        {
-          "name": "奥尔良鸡中翅",
-          "price": null
-        },
-        {
-          "name": "正新酥肉",
-          "price": null
-        },
-        {
-          "name": "普朗姆",
-          "price": null
-        },
-        {
-          "name": "秘制鸭肠",
-          "price": null
-        },
-        {
-          "name": "阿拉伯鸭肉串",
-          "price": null
-        },
-        {
-          "name": "芝士棒",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 5,
-        "count": 89,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15172321.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1tx0l12000se5sggwE1CB_D_750_450_Q90.webp?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15172321.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-06",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15172321.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-06"
-      },
-      "recommendationScore": 86,
-      "recommendationBreakdown": {
-        "rating": 40,
-        "reviewSample": 16.3,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 34
-    },
-    {
-      "id": "crawl-15954912",
-      "name": "正新鸡排·炸鸡烧烤(通达店)",
-      "category": "杭州小吃与点心",
-      "district": "杭州",
-      "address": "杭州市通达路37号",
-      "price": "¥",
-      "description": "携程美食公开页收录的小吃，人均 ¥14，页面显示 78 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为杭州小吃与点心的候选。",
-      "reviewSummary": "携程公开页列出 5 分及 78 条公开评价。",
-      "mapQuery": "正新鸡排·炸鸡烧烤(通达店) 杭州市通达路37号",
-      "sources": [
-        {
-          "name": "携程美食·正新鸡排·炸鸡烧烤(通达店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15954912.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E6%AD%A3%E6%96%B0%E9%B8%A1%E6%8E%92%C2%B7%E7%82%B8%E9%B8%A1%E7%83%A7%E7%83%A4(%E9%80%9A%E8%BE%BE%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E9%80%9A%E8%BE%BE%E8%B7%AF37%E5%8F%B7",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-10-06",
-      "rating": "5（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 14,
-        "currency": "CNY",
-        "label": "人均 ¥14",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15954912.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 14,
-          "currency": "CNY",
-          "label": "人均 ¥14",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15954912.html",
-          "verifiedAt": "2026-10-06"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-06",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "小鱿鱼串",
-          "price": null
-        },
-        {
-          "name": "蜜汁手扒鸡",
-          "price": null
-        },
-        {
-          "name": "草莓奶茶",
-          "price": null
-        },
-        {
-          "name": "红豆奶茶",
-          "price": null
-        },
-        {
-          "name": "奥尔良腿堡",
-          "price": null
-        },
-        {
-          "name": "咖啡",
-          "price": null
-        },
-        {
-          "name": "藤椒鸡排",
-          "price": null
-        },
-        {
-          "name": "柠檬汁",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 5,
-        "count": 78,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15954912.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1tx0l12000se5sggwE1CB_D_750_450_Q90.webp?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15954912.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-06",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15954912.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-06"
-      },
-      "recommendationScore": 86,
-      "recommendationBreakdown": {
-        "rating": 40,
-        "reviewSample": 15.8,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 35
+      "recommendationRank": 32
     },
     {
       "id": "crawl-5546454",
@@ -4268,7 +3920,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 36
+      "recommendationRank": 33
     },
     {
       "id": "crawl-24977279",
@@ -4387,7 +4039,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 37
+      "recommendationRank": 34
     },
     {
       "id": "crawl-8279154",
@@ -4506,7 +4158,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 38
+      "recommendationRank": 35
     },
     {
       "id": "crawl-5142212",
@@ -4621,7 +4273,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 39
+      "recommendationRank": 36
     },
     {
       "id": "crawl-11608516",
@@ -4740,7 +4392,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 40
+      "recommendationRank": 37
     },
     {
       "id": "crawl-5000869",
@@ -4859,7 +4511,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 41
+      "recommendationRank": 38
     },
     {
       "id": "crawl-5143030",
@@ -4977,7 +4629,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 42
+      "recommendationRank": 39
     },
     {
       "id": "yeyepudhi-dadou",
@@ -5080,7 +4732,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 43,
+      "recommendationRank": 40,
       "averageSpendSources": [
         {
           "amount": 498,
@@ -5215,7 +4867,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 44
+      "recommendationRank": 41
     },
     {
       "id": "crawl-12807489",
@@ -5333,7 +4985,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 45
+      "recommendationRank": 42
     },
     {
       "id": "crawl-7098159",
@@ -5452,7 +5104,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 46
+      "recommendationRank": 43
     },
     {
       "id": "crawl-7082586",
@@ -5571,7 +5223,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 47
+      "recommendationRank": 44
     },
     {
       "id": "crawl-15458485",
@@ -5690,7 +5342,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 48
+      "recommendationRank": 45
     },
     {
       "id": "crawl-21600171",
@@ -5809,7 +5461,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 49
+      "recommendationRank": 46
     },
     {
       "id": "crawl-25046725",
@@ -5924,7 +5576,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 50
+      "recommendationRank": 47
     },
     {
       "id": "crawl-22580313",
@@ -6043,7 +5695,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 51
+      "recommendationRank": 48
     },
     {
       "id": "crawl-4927389",
@@ -6162,7 +5814,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 52
+      "recommendationRank": 49
     },
     {
       "id": "crawl-5140637",
@@ -6281,7 +5933,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 53
+      "recommendationRank": 50
     },
     {
       "id": "crawl-5490064",
@@ -6400,7 +6052,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 54
+      "recommendationRank": 51
     },
     {
       "id": "crawl-12474111",
@@ -6519,7 +6171,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 55
+      "recommendationRank": 52
     },
     {
       "id": "anyin-xiangjisi",
@@ -6622,7 +6274,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 56,
+      "recommendationRank": 53,
       "averageSpendSources": [
         {
           "amount": 168,
@@ -6756,7 +6408,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 57
+      "recommendationRank": 54
     },
     {
       "id": "lanxuan-amanfayun",
@@ -6859,7 +6511,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 58,
+      "recommendationRank": 55,
       "averageSpendSources": [
         {
           "amount": 549,
@@ -6994,7 +6646,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 59
+      "recommendationRank": 56
     },
     {
       "id": "crawl-8484708",
@@ -7113,7 +6765,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 60
+      "recommendationRank": 57
     },
     {
       "id": "crawl-5141752",
@@ -7232,7 +6884,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 61
+      "recommendationRank": 58
     },
     {
       "id": "crawl-5143245",
@@ -7351,7 +7003,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 62
+      "recommendationRank": 59
     },
     {
       "id": "crawl-12469810",
@@ -7470,7 +7122,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 63
+      "recommendationRank": 60
     },
     {
       "id": "crawl-11673940",
@@ -7588,7 +7240,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 64
+      "recommendationRank": 61
     },
     {
       "id": "crawl-22602620",
@@ -7707,7 +7359,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 65
+      "recommendationRank": 62
     },
     {
       "id": "crawl-15463461",
@@ -7825,7 +7477,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 66
+      "recommendationRank": 63
     },
     {
       "id": "crawl-5287425",
@@ -7944,7 +7596,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 67
+      "recommendationRank": 64
     },
     {
       "id": "crawl-15155774",
@@ -8063,7 +7715,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 68
+      "recommendationRank": 65
     },
     {
       "id": "crawl-5153333",
@@ -8181,7 +7833,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 69
+      "recommendationRank": 66
     },
     {
       "id": "crawl-7090265",
@@ -8300,7 +7952,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 70
+      "recommendationRank": 67
     },
     {
       "id": "crawl-5149399",
@@ -8419,7 +8071,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 71
+      "recommendationRank": 68
     },
     {
       "id": "crawl-5149685",
@@ -8538,7 +8190,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 72
+      "recommendationRank": 69
     },
     {
       "id": "crawl-5143026",
@@ -8657,7 +8309,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 73
+      "recommendationRank": 70
     },
     {
       "id": "crawl-5069569",
@@ -8768,7 +8420,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 74
+      "recommendationRank": 71
     },
     {
       "id": "crawl-24557373",
@@ -8887,7 +8539,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 75
+      "recommendationRank": 72
     },
     {
       "id": "crawl-15914463",
@@ -9002,7 +8654,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 76
+      "recommendationRank": 73
     },
     {
       "id": "crawl-4995591",
@@ -9101,7 +8753,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 77
+      "recommendationRank": 74
     },
     {
       "id": "hangzhou-restaurant-yanan",
@@ -9224,7 +8876,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 78
+      "recommendationRank": 75
     },
     {
       "id": "crawl-5490450",
@@ -9343,7 +8995,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 79
+      "recommendationRank": 76
     },
     {
       "id": "crawl-21397558",
@@ -9458,7 +9110,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 80
+      "recommendationRank": 77
     },
     {
       "id": "crawl-22579352",
@@ -9577,7 +9229,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 81
+      "recommendationRank": 78
     },
     {
       "id": "crawl-131114656",
@@ -9692,7 +9344,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 82
+      "recommendationRank": 79
     },
     {
       "id": "juying-zhongshannan",
@@ -9807,7 +9459,7 @@
         "sources": 10,
         "freshness": 9.7
       },
-      "recommendationRank": 83
+      "recommendationRank": 80
     },
     {
       "id": "crawl-17627992",
@@ -9926,7 +9578,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 84
+      "recommendationRank": 81
     },
     {
       "id": "crawl-12556749",
@@ -10043,7 +9695,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 85
+      "recommendationRank": 82
     },
     {
       "id": "crawl-25043846",
@@ -10162,7 +9814,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 86
+      "recommendationRank": 83
     },
     {
       "id": "crawl-110675318",
@@ -10281,7 +9933,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 87
+      "recommendationRank": 84
     },
     {
       "id": "laowang-jinsha",
@@ -10384,7 +10036,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 88,
+      "recommendationRank": 85,
       "averageSpendSources": [
         {
           "amount": 117,
@@ -10503,7 +10155,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 89,
+      "recommendationRank": 86,
       "averageSpendSources": [
         {
           "amount": 84,
@@ -10622,7 +10274,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 90,
+      "recommendationRank": 87,
       "averageSpendSources": [
         {
           "amount": 15,
@@ -10741,7 +10393,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 91,
+      "recommendationRank": 88,
       "averageSpendSources": [
         {
           "amount": 22,
@@ -10872,7 +10524,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 92
+      "recommendationRank": 89
     },
     {
       "id": "crawl-5491291",
@@ -10990,7 +10642,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 93
+      "recommendationRank": 90
     },
     {
       "id": "haidilao-guigu",
@@ -11093,7 +10745,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 94,
+      "recommendationRank": 91,
       "averageSpendSources": [
         {
           "amount": 113,
@@ -11110,121 +10762,6 @@
         "status": "verified",
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       }
-    },
-    {
-      "id": "crawl-153508585",
-      "name": "海底捞火锅(武林广场国大城市广场店)",
-      "category": "火锅与串串",
-      "district": "拱墅区",
-      "address": "杭州市浙江省杭州市拱墅区天水街道延安路609号10F-01 10F-02",
-      "price": "¥¥¥",
-      "description": "携程美食公开页收录的火锅，人均 ¥121，页面显示 6 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为火锅与串串的候选。",
-      "reviewSummary": "携程公开页列出 4.7 分及 6 条公开评价。",
-      "mapQuery": "海底捞火锅(武林广场国大城市广场店) 杭州市浙江省杭州市拱墅区天水街道延安路609号10F-01 10F-02",
-      "sources": [
-        {
-          "name": "携程美食·海底捞火锅(武林广场国大城市广场店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/153508585.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%81%AB%E9%94%85(%E6%AD%A6%E6%9E%97%E5%B9%BF%E5%9C%BA%E5%9B%BD%E5%A4%A7%E5%9F%8E%E5%B8%82%E5%B9%BF%E5%9C%BA%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%B5%99%E6%B1%9F%E7%9C%81%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%8B%B1%E5%A2%85%E5%8C%BA%E5%A4%A9%E6%B0%B4%E8%A1%97%E9%81%93%E5%BB%B6%E5%AE%89%E8%B7%AF609%E5%8F%B710F-01%2010F-02",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-10-06",
-      "rating": "4.7（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 121,
-        "currency": "CNY",
-        "label": "人均 ¥121",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/153508585.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 121,
-          "currency": "CNY",
-          "label": "人均 ¥121",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/153508585.html",
-          "verifiedAt": "2026-10-06"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-06",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "东星斑",
-          "price": null
-        },
-        {
-          "name": "招牌大颗粒虾滑",
-          "price": null
-        },
-        {
-          "name": "三鲜火锅",
-          "price": null
-        },
-        {
-          "name": "现炸酥肉",
-          "price": null
-        },
-        {
-          "name": "8秒海带苗",
-          "price": null
-        },
-        {
-          "name": "捞派生鸭血",
-          "price": null
-        },
-        {
-          "name": "一米长刷肉",
-          "price": null
-        },
-        {
-          "name": "真香锅",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 4.7,
-        "count": 6,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/153508585.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/0102912000qygzoc1C377_D_750_450_Q90.jpg?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/153508585.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-06",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/153508585.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-06"
-      },
-      "recommendationScore": 75,
-      "recommendationBreakdown": {
-        "rating": 37.6,
-        "reviewSample": 7,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 95
     },
     {
       "id": "sisyphus-kerry",
@@ -11327,7 +10864,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 96,
+      "recommendationRank": 92,
       "averageSpendSources": [
         {
           "amount": 42,
@@ -11446,7 +10983,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 97,
+      "recommendationRank": 93,
       "averageSpendSources": [
         {
           "amount": 94,
@@ -11565,7 +11102,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 98,
+      "recommendationRank": 94,
       "averageSpendSources": [
         {
           "amount": 33,
@@ -11700,7 +11237,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 99
+      "recommendationRank": 95
     },
     {
       "id": "ruisiji-raffles",
@@ -11803,7 +11340,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 100,
+      "recommendationRank": 96,
       "averageSpendSources": [
         {
           "amount": 598,
@@ -11934,7 +11471,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 101
+      "recommendationRank": 97
     },
     {
       "id": "crawl-129548741",
@@ -12049,7 +11586,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 102
+      "recommendationRank": 98
     },
     {
       "id": "crawl-15934211",
@@ -12164,7 +11701,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 103
+      "recommendationRank": 99
     },
     {
       "id": "crawl-122734869",
@@ -12283,7 +11820,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 104
+      "recommendationRank": 100
     },
     {
       "id": "crawl-5081462",
@@ -12398,7 +11935,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 105
+      "recommendationRank": 101
     },
     {
       "id": "crawl-5499142",
@@ -12509,7 +12046,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 106
+      "recommendationRank": 102
     },
     {
       "id": "crawl-5284230",
@@ -12628,7 +12165,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 107
+      "recommendationRank": 103
     },
     {
       "id": "crawl-134848788",
@@ -12743,7 +12280,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 108
+      "recommendationRank": 104
     },
     {
       "id": "crawl-5145450",
@@ -12862,7 +12399,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 109
+      "recommendationRank": 105
     },
     {
       "id": "crawl-132945258",
@@ -12981,7 +12518,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 110
+      "recommendationRank": 106
     },
     {
       "id": "crawl-11890612",
@@ -13096,7 +12633,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 111
+      "recommendationRank": 107
     },
     {
       "id": "crawl-133654588",
@@ -13215,7 +12752,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 112
+      "recommendationRank": 108
     },
     {
       "id": "289-vegetarian-noodles",
@@ -13318,7 +12855,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 113,
+      "recommendationRank": 109,
       "averageSpendSources": [
         {
           "amount": 40,
@@ -13437,7 +12974,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 114,
+      "recommendationRank": 110,
       "averageSpendSources": [
         {
           "amount": 121,
@@ -13572,7 +13109,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 115
+      "recommendationRank": 111
     },
     {
       "id": "xiaowu-shentangqiao",
@@ -13675,7 +13212,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 116,
+      "recommendationRank": 112,
       "averageSpendSources": [
         {
           "amount": 75,
@@ -13806,7 +13343,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 117
+      "recommendationRank": 113
     },
     {
       "id": "crawl-77850429",
@@ -13924,7 +13461,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 118
+      "recommendationRank": 114
     },
     {
       "id": "crawl-118714445",
@@ -14039,7 +13576,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 119
+      "recommendationRank": 115
     },
     {
       "id": "crawl-25033250",
@@ -14154,7 +13691,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 120
+      "recommendationRank": 116
     },
     {
       "id": "crawl-25043983",
@@ -14269,7 +13806,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 121
+      "recommendationRank": 117
     },
     {
       "id": "crawl-121686370",
@@ -14384,7 +13921,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 122
+      "recommendationRank": 118
     },
     {
       "id": "crawl-136602839",
@@ -14499,7 +14036,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 123
+      "recommendationRank": 119
     },
     {
       "id": "crawl-132458591",
@@ -14618,7 +14155,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 124
+      "recommendationRank": 120
     },
     {
       "id": "crawl-22806185",
@@ -14737,7 +14274,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 125
+      "recommendationRank": 121
     },
     {
       "id": "crawl-62782636",
@@ -14852,7 +14389,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 126
+      "recommendationRank": 122
     },
     {
       "id": "crawl-7017437",
@@ -14967,7 +14504,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 127
+      "recommendationRank": 123
     },
     {
       "id": "crawl-118710324",
@@ -15086,7 +14623,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 128
+      "recommendationRank": 124
     },
     {
       "id": "mingrenmingjia-sandun",
@@ -15189,7 +14726,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 129,
+      "recommendationRank": 125,
       "averageSpendSources": [
         {
           "amount": 117,
@@ -15308,7 +14845,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 130,
+      "recommendationRank": 126,
       "averageSpendSources": [
         {
           "amount": 88,
@@ -15443,7 +14980,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 131
+      "recommendationRank": 127
     },
     {
       "id": "huge-mantoushan",
@@ -15546,7 +15083,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 132,
+      "recommendationRank": 128,
       "averageSpendSources": [
         {
           "amount": 117,
@@ -15677,7 +15214,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 133
+      "recommendationRank": 129
     },
     {
       "id": "crawl-19821479",
@@ -15792,7 +15329,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 134
+      "recommendationRank": 130
     },
     {
       "id": "crawl-15461095",
@@ -15907,7 +15444,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 135
+      "recommendationRank": 131
     },
     {
       "id": "crawl-17022269",
@@ -16026,7 +15563,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 136
+      "recommendationRank": 132
     },
     {
       "id": "crawl-79043221",
@@ -16145,7 +15682,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 137
+      "recommendationRank": 133
     },
     {
       "id": "yuqianjin-wulin",
@@ -16247,7 +15784,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 138,
+      "recommendationRank": 134,
       "averageSpendSources": [
         {
           "amount": 79,
@@ -16378,126 +15915,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 139
-    },
-    {
-      "id": "crawl-133656855",
-      "name": "品回味清真羊肉·西北菜·新疆菜(钱江世纪城农业大厦店)",
-      "category": "粤菜、川菜等地方菜",
-      "district": "杭州",
-      "address": "杭州市市心北路农业大厦2楼",
-      "price": "¥¥¥",
-      "description": "携程美食公开页收录的新疆菜，人均 ¥83，页面显示 5 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为粤菜、川菜等地方菜的候选。",
-      "reviewSummary": "携程公开页列出 4.4 分及 5 条公开评价。",
-      "mapQuery": "品回味清真羊肉·西北菜·新疆菜(钱江世纪城农业大厦店) 杭州市市心北路农业大厦2楼",
-      "sources": [
-        {
-          "name": "携程美食·品回味清真羊肉·西北菜·新疆菜(钱江世纪城农业大厦店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/133656855.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E5%93%81%E5%9B%9E%E5%91%B3%E6%B8%85%E7%9C%9F%E7%BE%8A%E8%82%89%C2%B7%E8%A5%BF%E5%8C%97%E8%8F%9C%C2%B7%E6%96%B0%E7%96%86%E8%8F%9C(%E9%92%B1%E6%B1%9F%E4%B8%96%E7%BA%AA%E5%9F%8E%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%8E%A6%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%B8%82%E5%BF%83%E5%8C%97%E8%B7%AF%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%8E%A62%E6%A5%BC",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-09-30",
-      "rating": "4.4（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 83,
-        "currency": "CNY",
-        "label": "人均 ¥83",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/133656855.html",
-        "verifiedAt": "2026-10-05"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 83,
-          "currency": "CNY",
-          "label": "人均 ¥83",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/133656855.html",
-          "verifiedAt": "2026-10-05"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-05",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "凉拌菠菜面筋",
-          "price": null
-        },
-        {
-          "name": "羊排手抓饭",
-          "price": null
-        },
-        {
-          "name": "回味柠檬茶",
-          "price": null
-        },
-        {
-          "name": "哈萨克奶茶",
-          "price": null
-        },
-        {
-          "name": "招牌麻辣烤鱼",
-          "price": null
-        },
-        {
-          "name": "养生八宝茶",
-          "price": null
-        },
-        {
-          "name": "自制老酸奶",
-          "price": null
-        },
-        {
-          "name": "兰州牛肉面",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 4.4,
-        "count": 5,
-        "snippets": [
-          "这家店装修挺有西域特色的，环境干净，适合带朋友或者家人来。 我重点说下他家的羊肉串。肉块切得大小刚好，肥瘦比例掌握得不错。烤的时候火候是关键，他家师傅能把外层烤到微微焦脆，里面还保持汁水。我观察了一下，他们是一批一批烤的，不是一次性烤很多放那儿，所以上桌都是热的。 一个小建议：如果口味重，可以跟服务员说多撒点孜然和辣椒面。他们默认放的量比较适中。",
-          "服务生小哥特别贴心，看我等菜时一直看手机，就默默过来续了杯热茶。茶水是淡淡的茉莉香，捧在手心里暖暖的，一下子就觉得整个人都放松下来了。",
-          "这家大盘鸡绝了！分量给得巨扎实，我们三个人都没吃完😂 土豆炖得软软糯糯的，筷子一夹就化在嘴里了。面条是单独放的吧？泡进汤汁里吸饱了那个味儿，嗦起来超带劲！你们是不是也最爱拿汤汁拌面？"
-        ],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/133656855.html",
-        "verifiedAt": "2026-10-05"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/B5/3E/CghzfVW7UTCAJVdNAABMgAgrtgA145_D_750_450_Q90.jpg?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/133656855.html",
-        "verifiedAt": "2026-10-05"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-05",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/133656855.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-05"
-      },
-      "recommendationScore": 72,
-      "recommendationBreakdown": {
-        "rating": 35.2,
-        "reviewSample": 6.5,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 9.8
-      },
-      "recommendationRank": 140
+      "recommendationRank": 135
     },
     {
       "id": "crawl-7093299",
@@ -16612,122 +16030,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 141
-    },
-    {
-      "id": "crawl-143158685",
-      "name": "Pull-Tab拉环咖啡(杭州市上城区来福士中心店)",
-      "category": "咖啡馆与茶馆",
-      "district": "杭州",
-      "address": "杭州市来福士04层11号",
-      "price": "¥",
-      "description": "携程美食公开页收录的咖啡店，人均 ¥20，页面显示 5 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为咖啡馆与茶馆的候选。",
-      "reviewSummary": "携程公开页列出 4.4 分及 5 条公开评价。",
-      "mapQuery": "Pull-Tab拉环咖啡(杭州市上城区来福士中心店) 杭州市来福士04层11号",
-      "sources": [
-        {
-          "name": "携程美食·Pull-Tab拉环咖啡(杭州市上城区来福士中心店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/143158685.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=Pull-Tab%E6%8B%89%E7%8E%AF%E5%92%96%E5%95%A1(%E6%9D%AD%E5%B7%9E%E5%B8%82%E4%B8%8A%E5%9F%8E%E5%8C%BA%E6%9D%A5%E7%A6%8F%E5%A3%AB%E4%B8%AD%E5%BF%83%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%9D%A5%E7%A6%8F%E5%A3%AB04%E5%B1%8211%E5%8F%B7",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-10-06",
-      "rating": "4.4（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 20,
-        "currency": "CNY",
-        "label": "人均 ¥20",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/143158685.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 20,
-          "currency": "CNY",
-          "label": "人均 ¥20",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/143158685.html",
-          "verifiedAt": "2026-10-06"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-06",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "青稞蛋香黑松露贝果",
-          "price": null
-        },
-        {
-          "name": "曼谷云顶爆米花",
-          "price": null
-        },
-        {
-          "name": "泰式维也纳",
-          "price": null
-        },
-        {
-          "name": "旺旺拿铁",
-          "price": null
-        },
-        {
-          "name": "泰式瀑布手打咖啡",
-          "price": null
-        },
-        {
-          "name": "旺旺摇摇奶绿",
-          "price": null
-        },
-        {
-          "name": "旺旺瀑布手打咖啡",
-          "price": null
-        },
-        {
-          "name": "PT咖椰咸蛋黄黄油多士",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 4.4,
-        "count": 5,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/143158685.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1me5t12000cp2z0mqF4C0_D_750_450_Q90.jpg?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/143158685.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-06",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/143158685.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-06"
-      },
-      "recommendationScore": 72,
-      "recommendationBreakdown": {
-        "rating": 35.2,
-        "reviewSample": 6.5,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 142
+      "recommendationRank": 136
     },
     {
       "id": "qingchun-pumen-baileqiao",
@@ -16830,7 +16133,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 143,
+      "recommendationRank": 137,
       "averageSpendSources": [
         {
           "amount": 107,
@@ -16949,7 +16252,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 144,
+      "recommendationRank": 138,
       "averageSpendSources": [
         {
           "amount": 35,
@@ -17082,7 +16385,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 145
+      "recommendationRank": 139
     },
     {
       "id": "crawl-22806184",
@@ -17199,7 +16502,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 146
+      "recommendationRank": 140
     },
     {
       "id": "crawl-129551726",
@@ -17316,7 +16619,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 147
+      "recommendationRank": 141
     },
     {
       "id": "crawl-152942210",
@@ -17433,7 +16736,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 148
+      "recommendationRank": 142
     },
     {
       "id": "shirichang-lingyin",
@@ -17534,7 +16837,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 149,
+      "recommendationRank": 143,
       "averageSpendSources": [
         {
           "amount": 189,
@@ -17651,7 +16954,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 150,
+      "recommendationRank": 144,
       "averageSpendSources": [
         {
           "amount": 92,
@@ -17784,7 +17087,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 151
+      "recommendationRank": 145
     },
     {
       "id": "crawl-5492085",
@@ -17899,7 +17202,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 152
+      "recommendationRank": 146
     },
     {
       "id": "crawl-78702792",
@@ -18014,7 +17317,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 153
+      "recommendationRank": 147
     },
     {
       "id": "crawl-24579148",
@@ -18133,7 +17436,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 154
+      "recommendationRank": 148
     },
     {
       "id": "crawl-132104658",
@@ -18248,7 +17551,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 155
+      "recommendationRank": 149
     },
     {
       "id": "benzhi2-coffee",
@@ -18351,7 +17654,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 156,
+      "recommendationRank": 150,
       "averageSpendSources": [
         {
           "amount": 26,
@@ -18482,7 +17785,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 157
+      "recommendationRank": 151
     },
     {
       "id": "crawl-25040635",
@@ -18601,7 +17904,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 158
+      "recommendationRank": 152
     },
     {
       "id": "niuyizu-zijingang",
@@ -18704,7 +18007,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 159,
+      "recommendationRank": 153,
       "averageSpendSources": [
         {
           "amount": 66,
@@ -18839,7 +18142,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 160
+      "recommendationRank": 154
     },
     {
       "id": "haidilao-gonglian",
@@ -18942,7 +18245,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 161,
+      "recommendationRank": 155,
       "averageSpendSources": [
         {
           "amount": 110,
@@ -19061,7 +18364,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 162,
+      "recommendationRank": 156,
       "averageSpendSources": [
         {
           "amount": 42,
@@ -19180,7 +18483,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 163,
+      "recommendationRank": 157,
       "averageSpendSources": [
         {
           "amount": 83,
@@ -19299,7 +18602,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 164,
+      "recommendationRank": 158,
       "averageSpendSources": [
         {
           "amount": 20,
@@ -19418,7 +18721,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 165,
+      "recommendationRank": 159,
       "averageSpendSources": [
         {
           "amount": 28,
@@ -19537,7 +18840,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 166,
+      "recommendationRank": 160,
       "averageSpendSources": [
         {
           "amount": 20,
@@ -19672,7 +18975,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 167
+      "recommendationRank": 161
     },
     {
       "id": "crawl-16718583",
@@ -19787,7 +19090,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 168
+      "recommendationRank": 162
     },
     {
       "id": "crawl-16475762",
@@ -19902,7 +19205,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 169
+      "recommendationRank": 163
     },
     {
       "id": "luckin-infoport6",
@@ -20005,7 +19308,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 170,
+      "recommendationRank": 164,
       "averageSpendSources": [
         {
           "amount": 15,
@@ -20124,7 +19427,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 171,
+      "recommendationRank": 165,
       "averageSpendSources": [
         {
           "amount": 20,
@@ -20255,7 +19558,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 172
+      "recommendationRank": 166
     },
     {
       "id": "crawl-129454350",
@@ -20370,7 +19673,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 173
+      "recommendationRank": 167
     },
     {
       "id": "crawl-134824435",
@@ -20489,7 +19792,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 174
+      "recommendationRank": 168
     },
     {
       "id": "crawl-134051023",
@@ -20608,7 +19911,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 175
+      "recommendationRank": 169
     },
     {
       "id": "laoxie-chaozhou-huazhong",
@@ -20711,7 +20014,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 176,
+      "recommendationRank": 170,
       "averageSpendSources": [
         {
           "amount": 110,
@@ -20829,7 +20132,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 177,
+      "recommendationRank": 171,
       "averageSpendSources": [
         {
           "amount": 98,
@@ -20846,121 +20149,6 @@
         "status": "verified",
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       }
-    },
-    {
-      "id": "crawl-132994240",
-      "name": "奈雪的茶(杭州临平银泰城店)",
-      "category": "甜品、面包与下午茶",
-      "district": "杭州",
-      "address": "杭州市世纪大道118号临平银泰3号门一层01001-A商铺",
-      "price": "¥",
-      "description": "携程美食公开页收录的面包甜点，人均 ¥20，页面显示 5 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为甜品、面包与下午茶的候选。",
-      "reviewSummary": "携程公开页列出 4.2 分及 5 条公开评价。",
-      "mapQuery": "奈雪的茶(杭州临平银泰城店) 杭州市世纪大道118号临平银泰3号门一层01001-A商铺",
-      "sources": [
-        {
-          "name": "携程美食·奈雪的茶(杭州临平银泰城店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/132994240.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6(%E6%9D%AD%E5%B7%9E%E4%B8%B4%E5%B9%B3%E9%93%B6%E6%B3%B0%E5%9F%8E%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E4%B8%96%E7%BA%AA%E5%A4%A7%E9%81%93118%E5%8F%B7%E4%B8%B4%E5%B9%B3%E9%93%B6%E6%B3%B03%E5%8F%B7%E9%97%A8%E4%B8%80%E5%B1%8201001-A%E5%95%86%E9%93%BA",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-10-06",
-      "rating": "4.2（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 20,
-        "currency": "CNY",
-        "label": "人均 ¥20",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/132994240.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 20,
-          "currency": "CNY",
-          "label": "人均 ¥20",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/132994240.html",
-          "verifiedAt": "2026-10-06"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-06",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "霸气青提",
-          "price": null
-        },
-        {
-          "name": "蜜蜜芝士火龙果",
-          "price": null
-        },
-        {
-          "name": "提拉米苏豪华宝藏奶茶",
-          "price": null
-        },
-        {
-          "name": "霸气冰淇淋绿宝石瓜",
-          "price": null
-        },
-        {
-          "name": "金色山脉珍珠奶茶",
-          "price": null
-        },
-        {
-          "name": "霸气杨梅",
-          "price": null
-        },
-        {
-          "name": "霸气芝士葡萄",
-          "price": null
-        },
-        {
-          "name": "芝士芋儿山",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 4.2,
-        "count": 5,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/132994240.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1tx6312000se5yhxa6FD8_D_750_450_Q90.webp?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/132994240.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-06",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/132994240.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-06"
-      },
-      "recommendationScore": 70,
-      "recommendationBreakdown": {
-        "rating": 33.6,
-        "reviewSample": 6.5,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 178
     },
     {
       "id": "naixue-linping-yintai",
@@ -21059,7 +20247,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 179,
+      "recommendationRank": 172,
       "averageSpendSources": [
         {
           "amount": 20,
@@ -21190,7 +20378,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 180
+      "recommendationRank": 173
     },
     {
       "id": "crawl-130074775",
@@ -21305,7 +20493,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 181
+      "recommendationRank": 174
     },
     {
       "id": "mstand-xiaoshan-mixc",
@@ -21408,7 +20596,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 182,
+      "recommendationRank": 175,
       "averageSpendSources": [
         {
           "amount": 36,
@@ -21539,7 +20727,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 183
+      "recommendationRank": 176
     },
     {
       "id": "xiaochujiang-feihong",
@@ -21642,7 +20830,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 184,
+      "recommendationRank": 177,
       "averageSpendSources": [
         {
           "amount": 73,
@@ -21777,7 +20965,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 185
+      "recommendationRank": 178
     },
     {
       "id": "waipojia-hubin-b",
@@ -21880,7 +21068,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 186,
+      "recommendationRank": 179,
       "averageSpendSources": [
         {
           "amount": 54,
@@ -21999,7 +21187,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 187,
+      "recommendationRank": 180,
       "averageSpendSources": [
         {
           "amount": 262,
@@ -22130,7 +21318,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 188
+      "recommendationRank": 181
     },
     {
       "id": "crawl-132658276",
@@ -22245,7 +21433,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 189
+      "recommendationRank": 182
     },
     {
       "id": "crawl-134163376",
@@ -22360,7 +21548,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 190
+      "recommendationRank": 183
     },
     {
       "id": "crawl-131113884",
@@ -22475,7 +21663,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 191
+      "recommendationRank": 184
     },
     {
       "id": "crawl-134855662",
@@ -22590,7 +21778,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 192
+      "recommendationRank": 185
     },
     {
       "id": "crawl-11572795",
@@ -22705,7 +21893,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 193
+      "recommendationRank": 186
     },
     {
       "id": "shuzhongqian-liangzhu",
@@ -22807,7 +21995,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 194,
+      "recommendationRank": 187,
       "averageSpendSources": [
         {
           "amount": 57,
@@ -22942,7 +22130,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 195
+      "recommendationRank": 188
     },
     {
       "id": "missdu-qingshan",
@@ -23045,7 +22233,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 196,
+      "recommendationRank": 189,
       "averageSpendSources": [
         {
           "amount": 18,
@@ -23164,7 +22352,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 197,
+      "recommendationRank": 190,
       "averageSpendSources": [
         {
           "amount": 26,
@@ -23283,7 +22471,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 198,
+      "recommendationRank": 191,
       "averageSpendSources": [
         {
           "amount": 72,
@@ -23402,7 +22590,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 199,
+      "recommendationRank": 192,
       "averageSpendSources": [
         {
           "amount": 72,
@@ -23521,7 +22709,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 200,
+      "recommendationRank": 193,
       "averageSpendSources": [
         {
           "amount": 53,
@@ -23640,7 +22828,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 201
+      "recommendationRank": 194
     },
     {
       "id": "xinfeng-baoshu",
@@ -23743,7 +22931,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 202,
+      "recommendationRank": 195,
       "averageSpendSources": [
         {
           "amount": 19,
@@ -23760,121 +22948,6 @@
         "status": "verified",
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       }
-    },
-    {
-      "id": "crawl-134162228",
-      "name": "新丰小吃(保俶路分店)",
-      "category": "杭州小吃与点心",
-      "district": "杭州",
-      "address": "杭州市保俶路161号1号商铺",
-      "price": "¥",
-      "description": "携程美食公开页收录的小吃，人均 ¥19，页面显示 5 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为杭州小吃与点心的候选。",
-      "reviewSummary": "携程公开页列出 3.8 分及 5 条公开评价。",
-      "mapQuery": "新丰小吃(保俶路分店) 杭州市保俶路161号1号商铺",
-      "sources": [
-        {
-          "name": "携程美食·新丰小吃(保俶路分店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/134162228.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E6%96%B0%E4%B8%B0%E5%B0%8F%E5%90%83(%E4%BF%9D%E4%BF%B6%E8%B7%AF%E5%88%86%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E4%BF%9D%E4%BF%B6%E8%B7%AF161%E5%8F%B71%E5%8F%B7%E5%95%86%E9%93%BA",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-10-06",
-      "rating": "3.8（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 19,
-        "currency": "CNY",
-        "label": "人均 ¥19",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/134162228.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 19,
-          "currency": "CNY",
-          "label": "人均 ¥19",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/134162228.html",
-          "verifiedAt": "2026-10-06"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-06",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "萝卜丝饼",
-          "price": null
-        },
-        {
-          "name": "喉口馒头",
-          "price": null
-        },
-        {
-          "name": "生煎包",
-          "price": null
-        },
-        {
-          "name": "牛肉粉丝汤",
-          "price": null
-        },
-        {
-          "name": "牛肉馅饼",
-          "price": null
-        },
-        {
-          "name": "香菇菜肉馄饨",
-          "price": null
-        },
-        {
-          "name": "酸辣粉丝汤",
-          "price": null
-        },
-        {
-          "name": "卤蛋",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 3.8,
-        "count": 5,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/134162228.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1tx3d12000se7q460C645_D_750_450_Q90.webp?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/134162228.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-06",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/134162228.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-06"
-      },
-      "recommendationScore": 67,
-      "recommendationBreakdown": {
-        "rating": 30.4,
-        "reviewSample": 6.5,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 203
     },
     {
       "id": "crawl-131110189",
@@ -23989,7 +23062,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 204
+      "recommendationRank": 196
     },
     {
       "id": "luckin-501",
@@ -24090,7 +23163,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 205,
+      "recommendationRank": 197,
       "averageSpendSources": [
         {
           "amount": 13,
@@ -24209,7 +23282,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 206,
+      "recommendationRank": 198,
       "averageSpendSources": [
         {
           "amount": 43,
@@ -24327,7 +23400,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 207,
+      "recommendationRank": 199,
       "averageSpendSources": [
         {
           "amount": 94,
@@ -24458,7 +23531,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 208
+      "recommendationRank": 200
     },
     {
       "id": "juying-daguan",
@@ -24561,7 +23634,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 209,
+      "recommendationRank": 201,
       "averageSpendSources": [
         {
           "amount": 25,
@@ -24692,7 +23765,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 210
+      "recommendationRank": 202
     },
     {
       "id": "crawl-134043441",
@@ -24809,7 +23882,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 211
+      "recommendationRank": 203
     },
     {
       "id": "crawl-118714516",
@@ -24926,7 +23999,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 212
+      "recommendationRank": 204
     },
     {
       "id": "crawl-78971066",
@@ -25043,7 +24116,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 213
+      "recommendationRank": 205
     },
     {
       "id": "xinfeng-huansha",
@@ -25146,7 +24219,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 214,
+      "recommendationRank": 206,
       "averageSpendSources": [
         {
           "amount": 18,
@@ -25163,236 +24236,6 @@
         "status": "verified",
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       }
-    },
-    {
-      "id": "crawl-80292602",
-      "name": "新丰小吃(浣纱路分店)",
-      "category": "快餐与简餐",
-      "district": "杭州",
-      "address": "杭州市湖滨街道浣纱路147号(近解放路)",
-      "price": "¥",
-      "description": "携程美食公开页收录的快餐简餐，人均 ¥18，页面显示 6 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为快餐与简餐的候选。",
-      "reviewSummary": "携程公开页列出 3.3 分及 6 条公开评价。",
-      "mapQuery": "新丰小吃(浣纱路分店) 杭州市湖滨街道浣纱路147号(近解放路)",
-      "sources": [
-        {
-          "name": "携程美食·新丰小吃(浣纱路分店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E6%96%B0%E4%B8%B0%E5%B0%8F%E5%90%83(%E6%B5%A3%E7%BA%B1%E8%B7%AF%E5%88%86%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%B9%96%E6%BB%A8%E8%A1%97%E9%81%93%E6%B5%A3%E7%BA%B1%E8%B7%AF147%E5%8F%B7(%E8%BF%91%E8%A7%A3%E6%94%BE%E8%B7%AF)",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-10-06",
-      "rating": "3.3（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 18,
-        "currency": "CNY",
-        "label": "人均 ¥18",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 18,
-          "currency": "CNY",
-          "label": "人均 ¥18",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-          "verifiedAt": "2026-10-06"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-06",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "千张包",
-          "price": null
-        },
-        {
-          "name": "小馄饨",
-          "price": null
-        },
-        {
-          "name": "萝卜丝饼",
-          "price": null
-        },
-        {
-          "name": "喉口馒头",
-          "price": null
-        },
-        {
-          "name": "鸡粒包",
-          "price": null
-        },
-        {
-          "name": "素烧鹅",
-          "price": null
-        },
-        {
-          "name": "蟹黄小笼",
-          "price": null
-        },
-        {
-          "name": "虾仁馄钝",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 3.3,
-        "count": 6,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1tx3d12000se7q460C645_D_750_450_Q90.webp?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-06",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-06"
-      },
-      "recommendationScore": 63,
-      "recommendationBreakdown": {
-        "rating": 26.4,
-        "reviewSample": 7,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 215
-    },
-    {
-      "id": "crawl-131068688",
-      "name": "新丰小吃(湖墅南路分店)",
-      "category": "快餐与简餐",
-      "district": "杭州",
-      "address": "杭州市湖墅南路212号",
-      "price": "¥",
-      "description": "携程美食公开页收录的快餐简餐，人均 ¥15，页面显示 5 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为快餐与简餐的候选。",
-      "reviewSummary": "携程公开页列出 3 分及 5 条公开评价。",
-      "mapQuery": "新丰小吃(湖墅南路分店) 杭州市湖墅南路212号",
-      "sources": [
-        {
-          "name": "携程美食·新丰小吃(湖墅南路分店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E6%96%B0%E4%B8%B0%E5%B0%8F%E5%90%83(%E6%B9%96%E5%A2%85%E5%8D%97%E8%B7%AF%E5%88%86%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%B9%96%E5%A2%85%E5%8D%97%E8%B7%AF212%E5%8F%B7",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-10-06",
-      "rating": "3（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 15,
-        "currency": "CNY",
-        "label": "人均 ¥15",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 15,
-          "currency": "CNY",
-          "label": "人均 ¥15",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-          "verifiedAt": "2026-10-06"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-06",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "卤蛋",
-          "price": null
-        },
-        {
-          "name": "赤豆汤",
-          "price": null
-        },
-        {
-          "name": "鸭血汤",
-          "price": null
-        },
-        {
-          "name": "香菇菜包",
-          "price": null
-        },
-        {
-          "name": "新丰菜包",
-          "price": null
-        },
-        {
-          "name": "炸酱面",
-          "price": null
-        },
-        {
-          "name": "鸡粒包",
-          "price": null
-        },
-        {
-          "name": "鲜肉锅贴",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 3,
-        "count": 5,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1tx3d12000se7q460C645_D_750_450_Q90.webp?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-06",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-06"
-      },
-      "recommendationScore": 61,
-      "recommendationBreakdown": {
-        "rating": 24,
-        "reviewSample": 6.5,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 216
     },
     {
       "id": "xinfeng-hushunan",
@@ -25495,7 +24338,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 217,
+      "recommendationRank": 207,
       "averageSpendSources": [
         {
           "amount": 15,
@@ -25621,7 +24464,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 218
+      "recommendationRank": 208
     }
   ],
   "verifiedRestaurants": [
@@ -28356,124 +27199,6 @@
       "recommendationRank": 23
     },
     {
-      "id": "crawl-8319539",
-      "name": "肯德基(太和店)",
-      "category": "快餐与简餐",
-      "district": "杭州",
-      "address": "杭州市太和大道中段汇星百货旁171——175号",
-      "price": "¥¥",
-      "description": "携程美食公开页收录的快餐简餐，人均 ¥28，页面显示 208 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为快餐与简餐的候选。",
-      "reviewSummary": "携程公开页列出 4.7 分及 208 条公开评价。",
-      "mapQuery": "肯德基(太和店) 杭州市太和大道中段汇星百货旁171——175号",
-      "sources": [
-        {
-          "name": "携程美食·肯德基(太和店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/8319539.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E8%82%AF%E5%BE%B7%E5%9F%BA(%E5%A4%AA%E5%92%8C%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%A4%AA%E5%92%8C%E5%A4%A7%E9%81%93%E4%B8%AD%E6%AE%B5%E6%B1%87%E6%98%9F%E7%99%BE%E8%B4%A7%E6%97%81171%E2%80%94%E2%80%94175%E5%8F%B7",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-10-06",
-      "rating": "4.7（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 28,
-        "currency": "CNY",
-        "label": "人均 ¥28",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/8319539.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 28,
-          "currency": "CNY",
-          "label": "人均 ¥28",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/8319539.html",
-          "verifiedAt": "2026-10-06"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-06",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "葡式蛋挞(经典)",
-          "price": null
-        },
-        {
-          "name": "全鸡装",
-          "price": null
-        },
-        {
-          "name": "根骨肉相连加",
-          "price": null
-        },
-        {
-          "name": "芙蓉荟蔬汤",
-          "price": null
-        },
-        {
-          "name": "吮指原味鸡(1块装)",
-          "price": null
-        },
-        {
-          "name": "新奥良腿堡土豆泥餐",
-          "price": null
-        },
-        {
-          "name": "香甜粟米棒",
-          "price": null
-        },
-        {
-          "name": "海苔炸鸡风味薯条",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 4.7,
-        "count": 208,
-        "snippets": [
-          "非常不错啦，蛋挞挚爱，嘻嘻嘻嘻嘻",
-          "老北京鸡肉卷，香脆可口"
-        ],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/8319539.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1tx2a12000se5sig8507E_D_750_450_Q90.webp?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/8319539.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-06",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/8319539.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-06"
-      },
-      "recommendationScore": 87,
-      "recommendationBreakdown": {
-        "rating": 37.6,
-        "reviewSample": 19.3,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 24
-    },
-    {
       "id": "crawl-449710",
       "name": "盈田盈粥庄(上南路店)",
       "category": "快餐与简餐",
@@ -28590,7 +27315,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 25
+      "recommendationRank": 24
     },
     {
       "id": "crawl-25042257",
@@ -28709,7 +27434,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 26
+      "recommendationRank": 25
     },
     {
       "id": "crawl-8593528",
@@ -28828,7 +27553,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 27
+      "recommendationRank": 26
     },
     {
       "id": "crawl-5145762",
@@ -28947,7 +27672,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 28
+      "recommendationRank": 27
     },
     {
       "id": "crawl-5154253",
@@ -29066,7 +27791,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 29
+      "recommendationRank": 28
     },
     {
       "id": "crawl-5143241",
@@ -29185,7 +27910,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 30
+      "recommendationRank": 29
     },
     {
       "id": "crawl-5284800",
@@ -29304,7 +28029,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 31
+      "recommendationRank": 30
     },
     {
       "id": "crawl-11353010",
@@ -29422,7 +28147,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 32
+      "recommendationRank": 31
     },
     {
       "id": "crawl-5142745",
@@ -29541,237 +28266,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 33
-    },
-    {
-      "id": "crawl-15172321",
-      "name": "正新鸡排·炸鸡烧烤(吴泾店)",
-      "category": "杭州小吃与点心",
-      "district": "杭州",
-      "address": "杭州市宝秀路688号",
-      "price": "¥",
-      "description": "携程美食公开页收录的小吃，人均 ¥14，页面显示 89 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为杭州小吃与点心的候选。",
-      "reviewSummary": "携程公开页列出 5 分及 89 条公开评价。",
-      "mapQuery": "正新鸡排·炸鸡烧烤(吴泾店) 杭州市宝秀路688号",
-      "sources": [
-        {
-          "name": "携程美食·正新鸡排·炸鸡烧烤(吴泾店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15172321.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E6%AD%A3%E6%96%B0%E9%B8%A1%E6%8E%92%C2%B7%E7%82%B8%E9%B8%A1%E7%83%A7%E7%83%A4(%E5%90%B4%E6%B3%BE%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%AE%9D%E7%A7%80%E8%B7%AF688%E5%8F%B7",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-10-06",
-      "rating": "5（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 14,
-        "currency": "CNY",
-        "label": "人均 ¥14",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15172321.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 14,
-          "currency": "CNY",
-          "label": "人均 ¥14",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15172321.html",
-          "verifiedAt": "2026-10-06"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-06",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "普朗姆气泡水",
-          "price": null
-        },
-        {
-          "name": "孜然牛肉",
-          "price": null
-        },
-        {
-          "name": "奥尔良鸡中翅",
-          "price": null
-        },
-        {
-          "name": "正新酥肉",
-          "price": null
-        },
-        {
-          "name": "普朗姆",
-          "price": null
-        },
-        {
-          "name": "秘制鸭肠",
-          "price": null
-        },
-        {
-          "name": "阿拉伯鸭肉串",
-          "price": null
-        },
-        {
-          "name": "芝士棒",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 5,
-        "count": 89,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15172321.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1tx0l12000se5sggwE1CB_D_750_450_Q90.webp?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15172321.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-06",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15172321.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-06"
-      },
-      "recommendationScore": 86,
-      "recommendationBreakdown": {
-        "rating": 40,
-        "reviewSample": 16.3,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 34
-    },
-    {
-      "id": "crawl-15954912",
-      "name": "正新鸡排·炸鸡烧烤(通达店)",
-      "category": "杭州小吃与点心",
-      "district": "杭州",
-      "address": "杭州市通达路37号",
-      "price": "¥",
-      "description": "携程美食公开页收录的小吃，人均 ¥14，页面显示 78 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为杭州小吃与点心的候选。",
-      "reviewSummary": "携程公开页列出 5 分及 78 条公开评价。",
-      "mapQuery": "正新鸡排·炸鸡烧烤(通达店) 杭州市通达路37号",
-      "sources": [
-        {
-          "name": "携程美食·正新鸡排·炸鸡烧烤(通达店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15954912.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E6%AD%A3%E6%96%B0%E9%B8%A1%E6%8E%92%C2%B7%E7%82%B8%E9%B8%A1%E7%83%A7%E7%83%A4(%E9%80%9A%E8%BE%BE%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E9%80%9A%E8%BE%BE%E8%B7%AF37%E5%8F%B7",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-10-06",
-      "rating": "5（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 14,
-        "currency": "CNY",
-        "label": "人均 ¥14",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15954912.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 14,
-          "currency": "CNY",
-          "label": "人均 ¥14",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15954912.html",
-          "verifiedAt": "2026-10-06"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-06",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "小鱿鱼串",
-          "price": null
-        },
-        {
-          "name": "蜜汁手扒鸡",
-          "price": null
-        },
-        {
-          "name": "草莓奶茶",
-          "price": null
-        },
-        {
-          "name": "红豆奶茶",
-          "price": null
-        },
-        {
-          "name": "奥尔良腿堡",
-          "price": null
-        },
-        {
-          "name": "咖啡",
-          "price": null
-        },
-        {
-          "name": "藤椒鸡排",
-          "price": null
-        },
-        {
-          "name": "柠檬汁",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 5,
-        "count": 78,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15954912.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1tx0l12000se5sggwE1CB_D_750_450_Q90.webp?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15954912.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-06",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/15954912.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-06"
-      },
-      "recommendationScore": 86,
-      "recommendationBreakdown": {
-        "rating": 40,
-        "reviewSample": 15.8,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 35
+      "recommendationRank": 32
     },
     {
       "id": "crawl-5546454",
@@ -29890,7 +28385,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 36
+      "recommendationRank": 33
     },
     {
       "id": "crawl-24977279",
@@ -30009,7 +28504,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 37
+      "recommendationRank": 34
     },
     {
       "id": "crawl-8279154",
@@ -30128,7 +28623,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 38
+      "recommendationRank": 35
     },
     {
       "id": "crawl-5142212",
@@ -30243,7 +28738,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 39
+      "recommendationRank": 36
     },
     {
       "id": "crawl-11608516",
@@ -30362,7 +28857,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 40
+      "recommendationRank": 37
     },
     {
       "id": "crawl-5000869",
@@ -30481,7 +28976,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 41
+      "recommendationRank": 38
     },
     {
       "id": "crawl-5143030",
@@ -30599,7 +29094,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 42
+      "recommendationRank": 39
     },
     {
       "id": "yeyepudhi-dadou",
@@ -30702,7 +29197,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 43,
+      "recommendationRank": 40,
       "averageSpendSources": [
         {
           "amount": 498,
@@ -30837,7 +29332,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 44
+      "recommendationRank": 41
     },
     {
       "id": "crawl-12807489",
@@ -30955,7 +29450,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 45
+      "recommendationRank": 42
     },
     {
       "id": "crawl-7098159",
@@ -31074,7 +29569,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 46
+      "recommendationRank": 43
     },
     {
       "id": "crawl-7082586",
@@ -31193,7 +29688,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 47
+      "recommendationRank": 44
     },
     {
       "id": "crawl-15458485",
@@ -31312,7 +29807,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 48
+      "recommendationRank": 45
     },
     {
       "id": "crawl-21600171",
@@ -31431,7 +29926,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 49
+      "recommendationRank": 46
     },
     {
       "id": "crawl-25046725",
@@ -31546,7 +30041,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 50
+      "recommendationRank": 47
     },
     {
       "id": "crawl-22580313",
@@ -31665,7 +30160,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 51
+      "recommendationRank": 48
     },
     {
       "id": "crawl-4927389",
@@ -31784,7 +30279,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 52
+      "recommendationRank": 49
     },
     {
       "id": "crawl-5140637",
@@ -31903,7 +30398,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 53
+      "recommendationRank": 50
     },
     {
       "id": "crawl-5490064",
@@ -32022,7 +30517,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 54
+      "recommendationRank": 51
     },
     {
       "id": "crawl-12474111",
@@ -32141,7 +30636,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 55
+      "recommendationRank": 52
     },
     {
       "id": "anyin-xiangjisi",
@@ -32244,7 +30739,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 56,
+      "recommendationRank": 53,
       "averageSpendSources": [
         {
           "amount": 168,
@@ -32378,7 +30873,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 57
+      "recommendationRank": 54
     },
     {
       "id": "lanxuan-amanfayun",
@@ -32481,7 +30976,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 58,
+      "recommendationRank": 55,
       "averageSpendSources": [
         {
           "amount": 549,
@@ -32616,7 +31111,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 59
+      "recommendationRank": 56
     },
     {
       "id": "crawl-8484708",
@@ -32735,7 +31230,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 60
+      "recommendationRank": 57
     },
     {
       "id": "crawl-5141752",
@@ -32854,7 +31349,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 61
+      "recommendationRank": 58
     },
     {
       "id": "crawl-5143245",
@@ -32973,7 +31468,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 62
+      "recommendationRank": 59
     },
     {
       "id": "crawl-12469810",
@@ -33092,7 +31587,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 63
+      "recommendationRank": 60
     },
     {
       "id": "crawl-11673940",
@@ -33210,7 +31705,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 64
+      "recommendationRank": 61
     },
     {
       "id": "crawl-22602620",
@@ -33329,7 +31824,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 65
+      "recommendationRank": 62
     },
     {
       "id": "crawl-15463461",
@@ -33447,7 +31942,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 66
+      "recommendationRank": 63
     },
     {
       "id": "crawl-5287425",
@@ -33566,7 +32061,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 67
+      "recommendationRank": 64
     },
     {
       "id": "crawl-15155774",
@@ -33685,7 +32180,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 68
+      "recommendationRank": 65
     },
     {
       "id": "crawl-5153333",
@@ -33803,7 +32298,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 69
+      "recommendationRank": 66
     },
     {
       "id": "crawl-7090265",
@@ -33922,7 +32417,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 70
+      "recommendationRank": 67
     },
     {
       "id": "crawl-5149399",
@@ -34041,7 +32536,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 71
+      "recommendationRank": 68
     },
     {
       "id": "crawl-5149685",
@@ -34160,7 +32655,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 72
+      "recommendationRank": 69
     },
     {
       "id": "crawl-5143026",
@@ -34279,7 +32774,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 73
+      "recommendationRank": 70
     },
     {
       "id": "crawl-5069569",
@@ -34390,7 +32885,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 74
+      "recommendationRank": 71
     },
     {
       "id": "crawl-24557373",
@@ -34509,7 +33004,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 75
+      "recommendationRank": 72
     },
     {
       "id": "crawl-15914463",
@@ -34624,7 +33119,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 76
+      "recommendationRank": 73
     },
     {
       "id": "crawl-4995591",
@@ -34723,7 +33218,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 77
+      "recommendationRank": 74
     },
     {
       "id": "hangzhou-restaurant-yanan",
@@ -34846,7 +33341,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 78
+      "recommendationRank": 75
     },
     {
       "id": "crawl-5490450",
@@ -34965,7 +33460,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 79
+      "recommendationRank": 76
     },
     {
       "id": "crawl-21397558",
@@ -35080,7 +33575,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 80
+      "recommendationRank": 77
     },
     {
       "id": "crawl-22579352",
@@ -35199,7 +33694,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 81
+      "recommendationRank": 78
     },
     {
       "id": "crawl-131114656",
@@ -35314,7 +33809,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 82
+      "recommendationRank": 79
     },
     {
       "id": "juying-zhongshannan",
@@ -35429,7 +33924,7 @@
         "sources": 10,
         "freshness": 9.7
       },
-      "recommendationRank": 83
+      "recommendationRank": 80
     },
     {
       "id": "crawl-17627992",
@@ -35548,7 +34043,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 84
+      "recommendationRank": 81
     },
     {
       "id": "crawl-12556749",
@@ -35665,7 +34160,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 85
+      "recommendationRank": 82
     },
     {
       "id": "crawl-25043846",
@@ -35784,7 +34279,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 86
+      "recommendationRank": 83
     },
     {
       "id": "crawl-110675318",
@@ -35903,7 +34398,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 87
+      "recommendationRank": 84
     },
     {
       "id": "laowang-jinsha",
@@ -36006,7 +34501,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 88,
+      "recommendationRank": 85,
       "averageSpendSources": [
         {
           "amount": 117,
@@ -36125,7 +34620,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 89,
+      "recommendationRank": 86,
       "averageSpendSources": [
         {
           "amount": 84,
@@ -36244,7 +34739,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 90,
+      "recommendationRank": 87,
       "averageSpendSources": [
         {
           "amount": 15,
@@ -36363,7 +34858,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 91,
+      "recommendationRank": 88,
       "averageSpendSources": [
         {
           "amount": 22,
@@ -36494,7 +34989,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 92
+      "recommendationRank": 89
     },
     {
       "id": "crawl-5491291",
@@ -36612,7 +35107,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 93
+      "recommendationRank": 90
     },
     {
       "id": "haidilao-guigu",
@@ -36715,7 +35210,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 94,
+      "recommendationRank": 91,
       "averageSpendSources": [
         {
           "amount": 113,
@@ -36732,121 +35227,6 @@
         "status": "verified",
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       }
-    },
-    {
-      "id": "crawl-153508585",
-      "name": "海底捞火锅(武林广场国大城市广场店)",
-      "category": "火锅与串串",
-      "district": "拱墅区",
-      "address": "杭州市浙江省杭州市拱墅区天水街道延安路609号10F-01 10F-02",
-      "price": "¥¥¥",
-      "description": "携程美食公开页收录的火锅，人均 ¥121，页面显示 6 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为火锅与串串的候选。",
-      "reviewSummary": "携程公开页列出 4.7 分及 6 条公开评价。",
-      "mapQuery": "海底捞火锅(武林广场国大城市广场店) 杭州市浙江省杭州市拱墅区天水街道延安路609号10F-01 10F-02",
-      "sources": [
-        {
-          "name": "携程美食·海底捞火锅(武林广场国大城市广场店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/153508585.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%81%AB%E9%94%85(%E6%AD%A6%E6%9E%97%E5%B9%BF%E5%9C%BA%E5%9B%BD%E5%A4%A7%E5%9F%8E%E5%B8%82%E5%B9%BF%E5%9C%BA%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%B5%99%E6%B1%9F%E7%9C%81%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%8B%B1%E5%A2%85%E5%8C%BA%E5%A4%A9%E6%B0%B4%E8%A1%97%E9%81%93%E5%BB%B6%E5%AE%89%E8%B7%AF609%E5%8F%B710F-01%2010F-02",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-10-06",
-      "rating": "4.7（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 121,
-        "currency": "CNY",
-        "label": "人均 ¥121",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/153508585.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 121,
-          "currency": "CNY",
-          "label": "人均 ¥121",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/153508585.html",
-          "verifiedAt": "2026-10-06"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-06",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "东星斑",
-          "price": null
-        },
-        {
-          "name": "招牌大颗粒虾滑",
-          "price": null
-        },
-        {
-          "name": "三鲜火锅",
-          "price": null
-        },
-        {
-          "name": "现炸酥肉",
-          "price": null
-        },
-        {
-          "name": "8秒海带苗",
-          "price": null
-        },
-        {
-          "name": "捞派生鸭血",
-          "price": null
-        },
-        {
-          "name": "一米长刷肉",
-          "price": null
-        },
-        {
-          "name": "真香锅",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 4.7,
-        "count": 6,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/153508585.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/0102912000qygzoc1C377_D_750_450_Q90.jpg?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/153508585.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-06",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/153508585.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-06"
-      },
-      "recommendationScore": 75,
-      "recommendationBreakdown": {
-        "rating": 37.6,
-        "reviewSample": 7,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 95
     },
     {
       "id": "sisyphus-kerry",
@@ -36949,7 +35329,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 96,
+      "recommendationRank": 92,
       "averageSpendSources": [
         {
           "amount": 42,
@@ -37068,7 +35448,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 97,
+      "recommendationRank": 93,
       "averageSpendSources": [
         {
           "amount": 94,
@@ -37187,7 +35567,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 98,
+      "recommendationRank": 94,
       "averageSpendSources": [
         {
           "amount": 33,
@@ -37322,7 +35702,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 99
+      "recommendationRank": 95
     },
     {
       "id": "ruisiji-raffles",
@@ -37425,7 +35805,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 100,
+      "recommendationRank": 96,
       "averageSpendSources": [
         {
           "amount": 598,
@@ -37556,7 +35936,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 101
+      "recommendationRank": 97
     },
     {
       "id": "crawl-129548741",
@@ -37671,7 +36051,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 102
+      "recommendationRank": 98
     },
     {
       "id": "crawl-15934211",
@@ -37786,7 +36166,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 103
+      "recommendationRank": 99
     },
     {
       "id": "crawl-122734869",
@@ -37905,7 +36285,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 104
+      "recommendationRank": 100
     },
     {
       "id": "crawl-5081462",
@@ -38020,7 +36400,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 105
+      "recommendationRank": 101
     },
     {
       "id": "crawl-5499142",
@@ -38131,7 +36511,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 106
+      "recommendationRank": 102
     },
     {
       "id": "crawl-5284230",
@@ -38250,7 +36630,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 107
+      "recommendationRank": 103
     },
     {
       "id": "crawl-134848788",
@@ -38365,7 +36745,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 108
+      "recommendationRank": 104
     },
     {
       "id": "crawl-5145450",
@@ -38484,7 +36864,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 109
+      "recommendationRank": 105
     },
     {
       "id": "crawl-132945258",
@@ -38603,7 +36983,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 110
+      "recommendationRank": 106
     },
     {
       "id": "crawl-11890612",
@@ -38718,7 +37098,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 111
+      "recommendationRank": 107
     },
     {
       "id": "crawl-133654588",
@@ -38837,7 +37217,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 112
+      "recommendationRank": 108
     },
     {
       "id": "289-vegetarian-noodles",
@@ -38940,7 +37320,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 113,
+      "recommendationRank": 109,
       "averageSpendSources": [
         {
           "amount": 40,
@@ -39059,7 +37439,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 114,
+      "recommendationRank": 110,
       "averageSpendSources": [
         {
           "amount": 121,
@@ -39194,7 +37574,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 115
+      "recommendationRank": 111
     },
     {
       "id": "xiaowu-shentangqiao",
@@ -39297,7 +37677,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 116,
+      "recommendationRank": 112,
       "averageSpendSources": [
         {
           "amount": 75,
@@ -39428,7 +37808,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 117
+      "recommendationRank": 113
     },
     {
       "id": "crawl-77850429",
@@ -39546,7 +37926,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 118
+      "recommendationRank": 114
     },
     {
       "id": "crawl-118714445",
@@ -39661,7 +38041,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 119
+      "recommendationRank": 115
     },
     {
       "id": "crawl-25033250",
@@ -39776,7 +38156,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 120
+      "recommendationRank": 116
     },
     {
       "id": "crawl-25043983",
@@ -39891,7 +38271,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 121
+      "recommendationRank": 117
     },
     {
       "id": "crawl-121686370",
@@ -40006,7 +38386,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 122
+      "recommendationRank": 118
     },
     {
       "id": "crawl-136602839",
@@ -40121,7 +38501,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 123
+      "recommendationRank": 119
     },
     {
       "id": "crawl-132458591",
@@ -40240,7 +38620,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 124
+      "recommendationRank": 120
     },
     {
       "id": "crawl-22806185",
@@ -40359,7 +38739,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 125
+      "recommendationRank": 121
     },
     {
       "id": "crawl-62782636",
@@ -40474,7 +38854,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 126
+      "recommendationRank": 122
     },
     {
       "id": "crawl-7017437",
@@ -40589,7 +38969,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 127
+      "recommendationRank": 123
     },
     {
       "id": "crawl-118710324",
@@ -40708,7 +39088,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 128
+      "recommendationRank": 124
     },
     {
       "id": "mingrenmingjia-sandun",
@@ -40811,7 +39191,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 129,
+      "recommendationRank": 125,
       "averageSpendSources": [
         {
           "amount": 117,
@@ -40930,7 +39310,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 130,
+      "recommendationRank": 126,
       "averageSpendSources": [
         {
           "amount": 88,
@@ -41065,7 +39445,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 131
+      "recommendationRank": 127
     },
     {
       "id": "huge-mantoushan",
@@ -41168,7 +39548,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 132,
+      "recommendationRank": 128,
       "averageSpendSources": [
         {
           "amount": 117,
@@ -41299,7 +39679,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 133
+      "recommendationRank": 129
     },
     {
       "id": "crawl-19821479",
@@ -41414,7 +39794,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 134
+      "recommendationRank": 130
     },
     {
       "id": "crawl-15461095",
@@ -41529,7 +39909,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 135
+      "recommendationRank": 131
     },
     {
       "id": "crawl-17022269",
@@ -41648,7 +40028,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 136
+      "recommendationRank": 132
     },
     {
       "id": "crawl-79043221",
@@ -41767,7 +40147,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 137
+      "recommendationRank": 133
     },
     {
       "id": "yuqianjin-wulin",
@@ -41869,7 +40249,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 138,
+      "recommendationRank": 134,
       "averageSpendSources": [
         {
           "amount": 79,
@@ -42000,126 +40380,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 139
-    },
-    {
-      "id": "crawl-133656855",
-      "name": "品回味清真羊肉·西北菜·新疆菜(钱江世纪城农业大厦店)",
-      "category": "粤菜、川菜等地方菜",
-      "district": "杭州",
-      "address": "杭州市市心北路农业大厦2楼",
-      "price": "¥¥¥",
-      "description": "携程美食公开页收录的新疆菜，人均 ¥83，页面显示 5 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为粤菜、川菜等地方菜的候选。",
-      "reviewSummary": "携程公开页列出 4.4 分及 5 条公开评价。",
-      "mapQuery": "品回味清真羊肉·西北菜·新疆菜(钱江世纪城农业大厦店) 杭州市市心北路农业大厦2楼",
-      "sources": [
-        {
-          "name": "携程美食·品回味清真羊肉·西北菜·新疆菜(钱江世纪城农业大厦店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/133656855.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E5%93%81%E5%9B%9E%E5%91%B3%E6%B8%85%E7%9C%9F%E7%BE%8A%E8%82%89%C2%B7%E8%A5%BF%E5%8C%97%E8%8F%9C%C2%B7%E6%96%B0%E7%96%86%E8%8F%9C(%E9%92%B1%E6%B1%9F%E4%B8%96%E7%BA%AA%E5%9F%8E%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%8E%A6%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%B8%82%E5%BF%83%E5%8C%97%E8%B7%AF%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%8E%A62%E6%A5%BC",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-09-30",
-      "rating": "4.4（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 83,
-        "currency": "CNY",
-        "label": "人均 ¥83",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/133656855.html",
-        "verifiedAt": "2026-10-05"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 83,
-          "currency": "CNY",
-          "label": "人均 ¥83",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/133656855.html",
-          "verifiedAt": "2026-10-05"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-05",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "凉拌菠菜面筋",
-          "price": null
-        },
-        {
-          "name": "羊排手抓饭",
-          "price": null
-        },
-        {
-          "name": "回味柠檬茶",
-          "price": null
-        },
-        {
-          "name": "哈萨克奶茶",
-          "price": null
-        },
-        {
-          "name": "招牌麻辣烤鱼",
-          "price": null
-        },
-        {
-          "name": "养生八宝茶",
-          "price": null
-        },
-        {
-          "name": "自制老酸奶",
-          "price": null
-        },
-        {
-          "name": "兰州牛肉面",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 4.4,
-        "count": 5,
-        "snippets": [
-          "这家店装修挺有西域特色的，环境干净，适合带朋友或者家人来。 我重点说下他家的羊肉串。肉块切得大小刚好，肥瘦比例掌握得不错。烤的时候火候是关键，他家师傅能把外层烤到微微焦脆，里面还保持汁水。我观察了一下，他们是一批一批烤的，不是一次性烤很多放那儿，所以上桌都是热的。 一个小建议：如果口味重，可以跟服务员说多撒点孜然和辣椒面。他们默认放的量比较适中。",
-          "服务生小哥特别贴心，看我等菜时一直看手机，就默默过来续了杯热茶。茶水是淡淡的茉莉香，捧在手心里暖暖的，一下子就觉得整个人都放松下来了。",
-          "这家大盘鸡绝了！分量给得巨扎实，我们三个人都没吃完😂 土豆炖得软软糯糯的，筷子一夹就化在嘴里了。面条是单独放的吧？泡进汤汁里吸饱了那个味儿，嗦起来超带劲！你们是不是也最爱拿汤汁拌面？"
-        ],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/133656855.html",
-        "verifiedAt": "2026-10-05"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/B5/3E/CghzfVW7UTCAJVdNAABMgAgrtgA145_D_750_450_Q90.jpg?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/133656855.html",
-        "verifiedAt": "2026-10-05"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-05",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/133656855.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-05"
-      },
-      "recommendationScore": 72,
-      "recommendationBreakdown": {
-        "rating": 35.2,
-        "reviewSample": 6.5,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 9.8
-      },
-      "recommendationRank": 140
+      "recommendationRank": 135
     },
     {
       "id": "crawl-7093299",
@@ -42234,122 +40495,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 141
-    },
-    {
-      "id": "crawl-143158685",
-      "name": "Pull-Tab拉环咖啡(杭州市上城区来福士中心店)",
-      "category": "咖啡馆与茶馆",
-      "district": "杭州",
-      "address": "杭州市来福士04层11号",
-      "price": "¥",
-      "description": "携程美食公开页收录的咖啡店，人均 ¥20，页面显示 5 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为咖啡馆与茶馆的候选。",
-      "reviewSummary": "携程公开页列出 4.4 分及 5 条公开评价。",
-      "mapQuery": "Pull-Tab拉环咖啡(杭州市上城区来福士中心店) 杭州市来福士04层11号",
-      "sources": [
-        {
-          "name": "携程美食·Pull-Tab拉环咖啡(杭州市上城区来福士中心店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/143158685.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=Pull-Tab%E6%8B%89%E7%8E%AF%E5%92%96%E5%95%A1(%E6%9D%AD%E5%B7%9E%E5%B8%82%E4%B8%8A%E5%9F%8E%E5%8C%BA%E6%9D%A5%E7%A6%8F%E5%A3%AB%E4%B8%AD%E5%BF%83%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%9D%A5%E7%A6%8F%E5%A3%AB04%E5%B1%8211%E5%8F%B7",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-10-06",
-      "rating": "4.4（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 20,
-        "currency": "CNY",
-        "label": "人均 ¥20",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/143158685.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 20,
-          "currency": "CNY",
-          "label": "人均 ¥20",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/143158685.html",
-          "verifiedAt": "2026-10-06"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-06",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "青稞蛋香黑松露贝果",
-          "price": null
-        },
-        {
-          "name": "曼谷云顶爆米花",
-          "price": null
-        },
-        {
-          "name": "泰式维也纳",
-          "price": null
-        },
-        {
-          "name": "旺旺拿铁",
-          "price": null
-        },
-        {
-          "name": "泰式瀑布手打咖啡",
-          "price": null
-        },
-        {
-          "name": "旺旺摇摇奶绿",
-          "price": null
-        },
-        {
-          "name": "旺旺瀑布手打咖啡",
-          "price": null
-        },
-        {
-          "name": "PT咖椰咸蛋黄黄油多士",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 4.4,
-        "count": 5,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/143158685.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1me5t12000cp2z0mqF4C0_D_750_450_Q90.jpg?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/143158685.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-06",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/143158685.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-06"
-      },
-      "recommendationScore": 72,
-      "recommendationBreakdown": {
-        "rating": 35.2,
-        "reviewSample": 6.5,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 142
+      "recommendationRank": 136
     },
     {
       "id": "qingchun-pumen-baileqiao",
@@ -42452,7 +40598,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 143,
+      "recommendationRank": 137,
       "averageSpendSources": [
         {
           "amount": 107,
@@ -42571,7 +40717,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 144,
+      "recommendationRank": 138,
       "averageSpendSources": [
         {
           "amount": 35,
@@ -42704,7 +40850,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 145
+      "recommendationRank": 139
     },
     {
       "id": "crawl-22806184",
@@ -42821,7 +40967,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 146
+      "recommendationRank": 140
     },
     {
       "id": "crawl-129551726",
@@ -42938,7 +41084,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 147
+      "recommendationRank": 141
     },
     {
       "id": "crawl-152942210",
@@ -43055,7 +41201,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 148
+      "recommendationRank": 142
     },
     {
       "id": "shirichang-lingyin",
@@ -43156,7 +41302,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 149,
+      "recommendationRank": 143,
       "averageSpendSources": [
         {
           "amount": 189,
@@ -43273,7 +41419,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 150,
+      "recommendationRank": 144,
       "averageSpendSources": [
         {
           "amount": 92,
@@ -43406,7 +41552,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 151
+      "recommendationRank": 145
     },
     {
       "id": "crawl-5492085",
@@ -43521,7 +41667,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 152
+      "recommendationRank": 146
     },
     {
       "id": "crawl-78702792",
@@ -43636,7 +41782,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 153
+      "recommendationRank": 147
     },
     {
       "id": "crawl-24579148",
@@ -43755,7 +41901,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 154
+      "recommendationRank": 148
     },
     {
       "id": "crawl-132104658",
@@ -43870,7 +42016,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 155
+      "recommendationRank": 149
     },
     {
       "id": "benzhi2-coffee",
@@ -43973,7 +42119,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 156,
+      "recommendationRank": 150,
       "averageSpendSources": [
         {
           "amount": 26,
@@ -44104,7 +42250,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 157
+      "recommendationRank": 151
     },
     {
       "id": "crawl-25040635",
@@ -44223,7 +42369,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 158
+      "recommendationRank": 152
     },
     {
       "id": "niuyizu-zijingang",
@@ -44326,7 +42472,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 159,
+      "recommendationRank": 153,
       "averageSpendSources": [
         {
           "amount": 66,
@@ -44461,7 +42607,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 160
+      "recommendationRank": 154
     },
     {
       "id": "haidilao-gonglian",
@@ -44564,7 +42710,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 161,
+      "recommendationRank": 155,
       "averageSpendSources": [
         {
           "amount": 110,
@@ -44683,7 +42829,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 162,
+      "recommendationRank": 156,
       "averageSpendSources": [
         {
           "amount": 42,
@@ -44802,7 +42948,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 163,
+      "recommendationRank": 157,
       "averageSpendSources": [
         {
           "amount": 83,
@@ -44921,7 +43067,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 164,
+      "recommendationRank": 158,
       "averageSpendSources": [
         {
           "amount": 20,
@@ -45040,7 +43186,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 165,
+      "recommendationRank": 159,
       "averageSpendSources": [
         {
           "amount": 28,
@@ -45159,7 +43305,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 166,
+      "recommendationRank": 160,
       "averageSpendSources": [
         {
           "amount": 20,
@@ -45294,7 +43440,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 167
+      "recommendationRank": 161
     },
     {
       "id": "crawl-16718583",
@@ -45409,7 +43555,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 168
+      "recommendationRank": 162
     },
     {
       "id": "crawl-16475762",
@@ -45524,7 +43670,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 169
+      "recommendationRank": 163
     },
     {
       "id": "luckin-infoport6",
@@ -45627,7 +43773,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 170,
+      "recommendationRank": 164,
       "averageSpendSources": [
         {
           "amount": 15,
@@ -45746,7 +43892,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 171,
+      "recommendationRank": 165,
       "averageSpendSources": [
         {
           "amount": 20,
@@ -45877,7 +44023,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 172
+      "recommendationRank": 166
     },
     {
       "id": "crawl-129454350",
@@ -45992,7 +44138,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 173
+      "recommendationRank": 167
     },
     {
       "id": "crawl-134824435",
@@ -46111,7 +44257,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 174
+      "recommendationRank": 168
     },
     {
       "id": "crawl-134051023",
@@ -46230,7 +44376,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 175
+      "recommendationRank": 169
     },
     {
       "id": "laoxie-chaozhou-huazhong",
@@ -46333,7 +44479,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 176,
+      "recommendationRank": 170,
       "averageSpendSources": [
         {
           "amount": 110,
@@ -46451,7 +44597,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 177,
+      "recommendationRank": 171,
       "averageSpendSources": [
         {
           "amount": 98,
@@ -46468,121 +44614,6 @@
         "status": "verified",
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       }
-    },
-    {
-      "id": "crawl-132994240",
-      "name": "奈雪的茶(杭州临平银泰城店)",
-      "category": "甜品、面包与下午茶",
-      "district": "杭州",
-      "address": "杭州市世纪大道118号临平银泰3号门一层01001-A商铺",
-      "price": "¥",
-      "description": "携程美食公开页收录的面包甜点，人均 ¥20，页面显示 5 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为甜品、面包与下午茶的候选。",
-      "reviewSummary": "携程公开页列出 4.2 分及 5 条公开评价。",
-      "mapQuery": "奈雪的茶(杭州临平银泰城店) 杭州市世纪大道118号临平银泰3号门一层01001-A商铺",
-      "sources": [
-        {
-          "name": "携程美食·奈雪的茶(杭州临平银泰城店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/132994240.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6(%E6%9D%AD%E5%B7%9E%E4%B8%B4%E5%B9%B3%E9%93%B6%E6%B3%B0%E5%9F%8E%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E4%B8%96%E7%BA%AA%E5%A4%A7%E9%81%93118%E5%8F%B7%E4%B8%B4%E5%B9%B3%E9%93%B6%E6%B3%B03%E5%8F%B7%E9%97%A8%E4%B8%80%E5%B1%8201001-A%E5%95%86%E9%93%BA",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-10-06",
-      "rating": "4.2（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 20,
-        "currency": "CNY",
-        "label": "人均 ¥20",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/132994240.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 20,
-          "currency": "CNY",
-          "label": "人均 ¥20",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/132994240.html",
-          "verifiedAt": "2026-10-06"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-06",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "霸气青提",
-          "price": null
-        },
-        {
-          "name": "蜜蜜芝士火龙果",
-          "price": null
-        },
-        {
-          "name": "提拉米苏豪华宝藏奶茶",
-          "price": null
-        },
-        {
-          "name": "霸气冰淇淋绿宝石瓜",
-          "price": null
-        },
-        {
-          "name": "金色山脉珍珠奶茶",
-          "price": null
-        },
-        {
-          "name": "霸气杨梅",
-          "price": null
-        },
-        {
-          "name": "霸气芝士葡萄",
-          "price": null
-        },
-        {
-          "name": "芝士芋儿山",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 4.2,
-        "count": 5,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/132994240.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1tx6312000se5yhxa6FD8_D_750_450_Q90.webp?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/132994240.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-06",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/132994240.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-06"
-      },
-      "recommendationScore": 70,
-      "recommendationBreakdown": {
-        "rating": 33.6,
-        "reviewSample": 6.5,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 178
     },
     {
       "id": "naixue-linping-yintai",
@@ -46681,7 +44712,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 179,
+      "recommendationRank": 172,
       "averageSpendSources": [
         {
           "amount": 20,
@@ -46812,7 +44843,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 180
+      "recommendationRank": 173
     },
     {
       "id": "crawl-130074775",
@@ -46927,7 +44958,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 181
+      "recommendationRank": 174
     },
     {
       "id": "mstand-xiaoshan-mixc",
@@ -47030,7 +45061,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 182,
+      "recommendationRank": 175,
       "averageSpendSources": [
         {
           "amount": 36,
@@ -47161,7 +45192,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 183
+      "recommendationRank": 176
     },
     {
       "id": "xiaochujiang-feihong",
@@ -47264,7 +45295,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 184,
+      "recommendationRank": 177,
       "averageSpendSources": [
         {
           "amount": 73,
@@ -47399,7 +45430,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 185
+      "recommendationRank": 178
     },
     {
       "id": "waipojia-hubin-b",
@@ -47502,7 +45533,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 186,
+      "recommendationRank": 179,
       "averageSpendSources": [
         {
           "amount": 54,
@@ -47621,7 +45652,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 187,
+      "recommendationRank": 180,
       "averageSpendSources": [
         {
           "amount": 262,
@@ -47752,7 +45783,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 188
+      "recommendationRank": 181
     },
     {
       "id": "crawl-132658276",
@@ -47867,7 +45898,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 189
+      "recommendationRank": 182
     },
     {
       "id": "crawl-134163376",
@@ -47982,7 +46013,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 190
+      "recommendationRank": 183
     },
     {
       "id": "crawl-131113884",
@@ -48097,7 +46128,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 191
+      "recommendationRank": 184
     },
     {
       "id": "crawl-134855662",
@@ -48212,7 +46243,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 192
+      "recommendationRank": 185
     },
     {
       "id": "crawl-11572795",
@@ -48327,7 +46358,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 193
+      "recommendationRank": 186
     },
     {
       "id": "shuzhongqian-liangzhu",
@@ -48429,7 +46460,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 194,
+      "recommendationRank": 187,
       "averageSpendSources": [
         {
           "amount": 57,
@@ -48564,7 +46595,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 195
+      "recommendationRank": 188
     },
     {
       "id": "missdu-qingshan",
@@ -48667,7 +46698,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 196,
+      "recommendationRank": 189,
       "averageSpendSources": [
         {
           "amount": 18,
@@ -48786,7 +46817,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 197,
+      "recommendationRank": 190,
       "averageSpendSources": [
         {
           "amount": 26,
@@ -48905,7 +46936,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 198,
+      "recommendationRank": 191,
       "averageSpendSources": [
         {
           "amount": 72,
@@ -49024,7 +47055,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 199,
+      "recommendationRank": 192,
       "averageSpendSources": [
         {
           "amount": 72,
@@ -49143,7 +47174,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 200,
+      "recommendationRank": 193,
       "averageSpendSources": [
         {
           "amount": 53,
@@ -49262,7 +47293,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 201
+      "recommendationRank": 194
     },
     {
       "id": "xinfeng-baoshu",
@@ -49365,7 +47396,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 202,
+      "recommendationRank": 195,
       "averageSpendSources": [
         {
           "amount": 19,
@@ -49382,121 +47413,6 @@
         "status": "verified",
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       }
-    },
-    {
-      "id": "crawl-134162228",
-      "name": "新丰小吃(保俶路分店)",
-      "category": "杭州小吃与点心",
-      "district": "杭州",
-      "address": "杭州市保俶路161号1号商铺",
-      "price": "¥",
-      "description": "携程美食公开页收录的小吃，人均 ¥19，页面显示 5 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为杭州小吃与点心的候选。",
-      "reviewSummary": "携程公开页列出 3.8 分及 5 条公开评价。",
-      "mapQuery": "新丰小吃(保俶路分店) 杭州市保俶路161号1号商铺",
-      "sources": [
-        {
-          "name": "携程美食·新丰小吃(保俶路分店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/134162228.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E6%96%B0%E4%B8%B0%E5%B0%8F%E5%90%83(%E4%BF%9D%E4%BF%B6%E8%B7%AF%E5%88%86%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E4%BF%9D%E4%BF%B6%E8%B7%AF161%E5%8F%B71%E5%8F%B7%E5%95%86%E9%93%BA",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-10-06",
-      "rating": "3.8（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 19,
-        "currency": "CNY",
-        "label": "人均 ¥19",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/134162228.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 19,
-          "currency": "CNY",
-          "label": "人均 ¥19",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/134162228.html",
-          "verifiedAt": "2026-10-06"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-06",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "萝卜丝饼",
-          "price": null
-        },
-        {
-          "name": "喉口馒头",
-          "price": null
-        },
-        {
-          "name": "生煎包",
-          "price": null
-        },
-        {
-          "name": "牛肉粉丝汤",
-          "price": null
-        },
-        {
-          "name": "牛肉馅饼",
-          "price": null
-        },
-        {
-          "name": "香菇菜肉馄饨",
-          "price": null
-        },
-        {
-          "name": "酸辣粉丝汤",
-          "price": null
-        },
-        {
-          "name": "卤蛋",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 3.8,
-        "count": 5,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/134162228.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1tx3d12000se7q460C645_D_750_450_Q90.webp?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/134162228.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-06",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/134162228.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-06"
-      },
-      "recommendationScore": 67,
-      "recommendationBreakdown": {
-        "rating": 30.4,
-        "reviewSample": 6.5,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 203
     },
     {
       "id": "crawl-131110189",
@@ -49611,7 +47527,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 204
+      "recommendationRank": 196
     },
     {
       "id": "luckin-501",
@@ -49712,7 +47628,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 205,
+      "recommendationRank": 197,
       "averageSpendSources": [
         {
           "amount": 13,
@@ -49831,7 +47747,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 206,
+      "recommendationRank": 198,
       "averageSpendSources": [
         {
           "amount": 43,
@@ -49949,7 +47865,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 207,
+      "recommendationRank": 199,
       "averageSpendSources": [
         {
           "amount": 94,
@@ -50080,7 +47996,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 208
+      "recommendationRank": 200
     },
     {
       "id": "juying-daguan",
@@ -50183,7 +48099,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 209,
+      "recommendationRank": 201,
       "averageSpendSources": [
         {
           "amount": 25,
@@ -50314,7 +48230,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 210
+      "recommendationRank": 202
     },
     {
       "id": "crawl-134043441",
@@ -50431,7 +48347,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 211
+      "recommendationRank": 203
     },
     {
       "id": "crawl-118714516",
@@ -50548,7 +48464,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 212
+      "recommendationRank": 204
     },
     {
       "id": "crawl-78971066",
@@ -50665,7 +48581,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 213
+      "recommendationRank": 205
     },
     {
       "id": "xinfeng-huansha",
@@ -50768,7 +48684,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 214,
+      "recommendationRank": 206,
       "averageSpendSources": [
         {
           "amount": 18,
@@ -50785,236 +48701,6 @@
         "status": "verified",
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       }
-    },
-    {
-      "id": "crawl-80292602",
-      "name": "新丰小吃(浣纱路分店)",
-      "category": "快餐与简餐",
-      "district": "杭州",
-      "address": "杭州市湖滨街道浣纱路147号(近解放路)",
-      "price": "¥",
-      "description": "携程美食公开页收录的快餐简餐，人均 ¥18，页面显示 6 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为快餐与简餐的候选。",
-      "reviewSummary": "携程公开页列出 3.3 分及 6 条公开评价。",
-      "mapQuery": "新丰小吃(浣纱路分店) 杭州市湖滨街道浣纱路147号(近解放路)",
-      "sources": [
-        {
-          "name": "携程美食·新丰小吃(浣纱路分店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E6%96%B0%E4%B8%B0%E5%B0%8F%E5%90%83(%E6%B5%A3%E7%BA%B1%E8%B7%AF%E5%88%86%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%B9%96%E6%BB%A8%E8%A1%97%E9%81%93%E6%B5%A3%E7%BA%B1%E8%B7%AF147%E5%8F%B7(%E8%BF%91%E8%A7%A3%E6%94%BE%E8%B7%AF)",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-10-06",
-      "rating": "3.3（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 18,
-        "currency": "CNY",
-        "label": "人均 ¥18",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 18,
-          "currency": "CNY",
-          "label": "人均 ¥18",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-          "verifiedAt": "2026-10-06"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-06",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "千张包",
-          "price": null
-        },
-        {
-          "name": "小馄饨",
-          "price": null
-        },
-        {
-          "name": "萝卜丝饼",
-          "price": null
-        },
-        {
-          "name": "喉口馒头",
-          "price": null
-        },
-        {
-          "name": "鸡粒包",
-          "price": null
-        },
-        {
-          "name": "素烧鹅",
-          "price": null
-        },
-        {
-          "name": "蟹黄小笼",
-          "price": null
-        },
-        {
-          "name": "虾仁馄钝",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 3.3,
-        "count": 6,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1tx3d12000se7q460C645_D_750_450_Q90.webp?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-06",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/80292602.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-06"
-      },
-      "recommendationScore": 63,
-      "recommendationBreakdown": {
-        "rating": 26.4,
-        "reviewSample": 7,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 215
-    },
-    {
-      "id": "crawl-131068688",
-      "name": "新丰小吃(湖墅南路分店)",
-      "category": "快餐与简餐",
-      "district": "杭州",
-      "address": "杭州市湖墅南路212号",
-      "price": "¥",
-      "description": "携程美食公开页收录的快餐简餐，人均 ¥15，页面显示 5 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为快餐与简餐的候选。",
-      "reviewSummary": "携程公开页列出 3 分及 5 条公开评价。",
-      "mapQuery": "新丰小吃(湖墅南路分店) 杭州市湖墅南路212号",
-      "sources": [
-        {
-          "name": "携程美食·新丰小吃(湖墅南路分店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E6%96%B0%E4%B8%B0%E5%B0%8F%E5%90%83(%E6%B9%96%E5%A2%85%E5%8D%97%E8%B7%AF%E5%88%86%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E6%B9%96%E5%A2%85%E5%8D%97%E8%B7%AF212%E5%8F%B7",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-10-06",
-      "rating": "3（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 15,
-        "currency": "CNY",
-        "label": "人均 ¥15",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 15,
-          "currency": "CNY",
-          "label": "人均 ¥15",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-          "verifiedAt": "2026-10-06"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-06",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "卤蛋",
-          "price": null
-        },
-        {
-          "name": "赤豆汤",
-          "price": null
-        },
-        {
-          "name": "鸭血汤",
-          "price": null
-        },
-        {
-          "name": "香菇菜包",
-          "price": null
-        },
-        {
-          "name": "新丰菜包",
-          "price": null
-        },
-        {
-          "name": "炸酱面",
-          "price": null
-        },
-        {
-          "name": "鸡粒包",
-          "price": null
-        },
-        {
-          "name": "鲜肉锅贴",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 3,
-        "count": 5,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1tx3d12000se7q460C645_D_750_450_Q90.webp?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-06",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/131068688.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-06"
-      },
-      "recommendationScore": 61,
-      "recommendationBreakdown": {
-        "rating": 24,
-        "reviewSample": 6.5,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 216
     },
     {
       "id": "xinfeng-hushunan",
@@ -51117,7 +48803,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 217,
+      "recommendationRank": 207,
       "averageSpendSources": [
         {
           "amount": 15,
@@ -51243,7 +48929,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 218
+      "recommendationRank": 208
     }
   ],
   "pendingRestaurants": [
