@@ -12521,121 +12521,6 @@
       "recommendationRank": 106
     },
     {
-      "id": "crawl-11890612",
-      "name": "上喜西餐厅(香江国际店)",
-      "category": "异国风味与自助餐",
-      "district": "杭州",
-      "address": "杭州市太和街道太和大道南段香江国际4楼(体育馆对面)",
-      "price": "¥¥",
-      "description": "携程美食公开页收录的西餐，人均 ¥57，页面显示 7 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为异国风味与自助餐的候选。",
-      "reviewSummary": "携程公开页列出 4.5 分及 7 条公开评价。",
-      "mapQuery": "上喜西餐厅(香江国际店) 杭州市太和街道太和大道南段香江国际4楼(体育馆对面)",
-      "sources": [
-        {
-          "name": "携程美食·上喜西餐厅(香江国际店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/11890612.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E4%B8%8A%E5%96%9C%E8%A5%BF%E9%A4%90%E5%8E%85(%E9%A6%99%E6%B1%9F%E5%9B%BD%E9%99%85%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%A4%AA%E5%92%8C%E8%A1%97%E9%81%93%E5%A4%AA%E5%92%8C%E5%A4%A7%E9%81%93%E5%8D%97%E6%AE%B5%E9%A6%99%E6%B1%9F%E5%9B%BD%E9%99%854%E6%A5%BC(%E4%BD%93%E8%82%B2%E9%A6%86%E5%AF%B9%E9%9D%A2)",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-10-06",
-      "rating": "4.5（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 57,
-        "currency": "CNY",
-        "label": "人均 ¥57",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/11890612.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 57,
-          "currency": "CNY",
-          "label": "人均 ¥57",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/11890612.html",
-          "verifiedAt": "2026-10-06"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-06",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "水果沙拉",
-          "price": null
-        },
-        {
-          "name": "香辣牛肉披萨",
-          "price": null
-        },
-        {
-          "name": "鸡米花",
-          "price": null
-        },
-        {
-          "name": "海鲜乌冬面",
-          "price": null
-        },
-        {
-          "name": "儿童菲力牛排",
-          "price": null
-        },
-        {
-          "name": "铁板口口脆",
-          "price": null
-        },
-        {
-          "name": "仔薯排骨芝士焗饭",
-          "price": null
-        },
-        {
-          "name": "新奥尔良烤翅",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 4.5,
-        "count": 7,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/11890612.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1tx6q12000sofqf6tB25C_D_750_450_Q90.webp?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/11890612.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-06",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/11890612.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-06"
-      },
-      "recommendationScore": 74,
-      "recommendationBreakdown": {
-        "rating": 36,
-        "reviewSample": 7.5,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 107
-    },
-    {
       "id": "crawl-133654588",
       "name": "丁兰君尚云郦酒店·樊楼中餐厅",
       "category": "江浙菜与本帮菜",
@@ -12752,7 +12637,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 108
+      "recommendationRank": 107
     },
     {
       "id": "289-vegetarian-noodles",
@@ -12855,7 +12740,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 109,
+      "recommendationRank": 108,
       "averageSpendSources": [
         {
           "amount": 40,
@@ -12974,7 +12859,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 110,
+      "recommendationRank": 109,
       "averageSpendSources": [
         {
           "amount": 121,
@@ -13109,7 +12994,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 111
+      "recommendationRank": 110
     },
     {
       "id": "xiaowu-shentangqiao",
@@ -13212,7 +13097,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 112,
+      "recommendationRank": 111,
       "averageSpendSources": [
         {
           "amount": 75,
@@ -13343,7 +13228,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 113
+      "recommendationRank": 112
     },
     {
       "id": "crawl-77850429",
@@ -13461,7 +13346,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 114
+      "recommendationRank": 113
     },
     {
       "id": "crawl-118714445",
@@ -13576,7 +13461,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 115
+      "recommendationRank": 114
     },
     {
       "id": "crawl-25033250",
@@ -13691,7 +13576,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 116
+      "recommendationRank": 115
     },
     {
       "id": "crawl-25043983",
@@ -13806,7 +13691,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 117
+      "recommendationRank": 116
     },
     {
       "id": "crawl-121686370",
@@ -13921,7 +13806,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 118
+      "recommendationRank": 117
     },
     {
       "id": "crawl-136602839",
@@ -14036,7 +13921,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 119
+      "recommendationRank": 118
     },
     {
       "id": "crawl-132458591",
@@ -14155,7 +14040,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 120
+      "recommendationRank": 119
     },
     {
       "id": "crawl-22806185",
@@ -14274,7 +14159,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 121
+      "recommendationRank": 120
     },
     {
       "id": "crawl-62782636",
@@ -14389,7 +14274,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 122
+      "recommendationRank": 121
     },
     {
       "id": "crawl-7017437",
@@ -14504,7 +14389,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 123
+      "recommendationRank": 122
     },
     {
       "id": "crawl-118710324",
@@ -14623,7 +14508,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 124
+      "recommendationRank": 123
     },
     {
       "id": "mingrenmingjia-sandun",
@@ -14726,7 +14611,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 125,
+      "recommendationRank": 124,
       "averageSpendSources": [
         {
           "amount": 117,
@@ -14845,7 +14730,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 126,
+      "recommendationRank": 125,
       "averageSpendSources": [
         {
           "amount": 88,
@@ -14980,7 +14865,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 127
+      "recommendationRank": 126
     },
     {
       "id": "huge-mantoushan",
@@ -15083,7 +14968,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 128,
+      "recommendationRank": 127,
       "averageSpendSources": [
         {
           "amount": 117,
@@ -15214,7 +15099,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 129
+      "recommendationRank": 128
     },
     {
       "id": "crawl-19821479",
@@ -15329,7 +15214,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 130
+      "recommendationRank": 129
     },
     {
       "id": "crawl-15461095",
@@ -15444,7 +15329,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 131
+      "recommendationRank": 130
     },
     {
       "id": "crawl-17022269",
@@ -15563,7 +15448,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 132
+      "recommendationRank": 131
     },
     {
       "id": "crawl-79043221",
@@ -15682,7 +15567,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 133
+      "recommendationRank": 132
     },
     {
       "id": "yuqianjin-wulin",
@@ -15784,7 +15669,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 134,
+      "recommendationRank": 133,
       "averageSpendSources": [
         {
           "amount": 79,
@@ -15915,7 +15800,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 135
+      "recommendationRank": 134
     },
     {
       "id": "crawl-7093299",
@@ -16030,7 +15915,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 136
+      "recommendationRank": 135
     },
     {
       "id": "qingchun-pumen-baileqiao",
@@ -16133,7 +16018,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 137,
+      "recommendationRank": 136,
       "averageSpendSources": [
         {
           "amount": 107,
@@ -16252,7 +16137,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 138,
+      "recommendationRank": 137,
       "averageSpendSources": [
         {
           "amount": 35,
@@ -16385,7 +16270,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 139
+      "recommendationRank": 138
     },
     {
       "id": "crawl-22806184",
@@ -16502,7 +16387,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 140
+      "recommendationRank": 139
     },
     {
       "id": "crawl-129551726",
@@ -16619,7 +16504,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 141
+      "recommendationRank": 140
     },
     {
       "id": "crawl-152942210",
@@ -16736,7 +16621,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 142
+      "recommendationRank": 141
     },
     {
       "id": "shirichang-lingyin",
@@ -16837,7 +16722,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 143,
+      "recommendationRank": 142,
       "averageSpendSources": [
         {
           "amount": 189,
@@ -16954,7 +16839,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 144,
+      "recommendationRank": 143,
       "averageSpendSources": [
         {
           "amount": 92,
@@ -17087,7 +16972,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 145
+      "recommendationRank": 144
     },
     {
       "id": "crawl-5492085",
@@ -17202,7 +17087,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 146
+      "recommendationRank": 145
     },
     {
       "id": "crawl-78702792",
@@ -17317,7 +17202,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 147
+      "recommendationRank": 146
     },
     {
       "id": "crawl-24579148",
@@ -17436,7 +17321,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 148
+      "recommendationRank": 147
     },
     {
       "id": "crawl-132104658",
@@ -17551,7 +17436,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 149
+      "recommendationRank": 148
     },
     {
       "id": "benzhi2-coffee",
@@ -17654,7 +17539,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 150,
+      "recommendationRank": 149,
       "averageSpendSources": [
         {
           "amount": 26,
@@ -17785,7 +17670,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 151
+      "recommendationRank": 150
     },
     {
       "id": "crawl-25040635",
@@ -17904,7 +17789,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 152
+      "recommendationRank": 151
     },
     {
       "id": "niuyizu-zijingang",
@@ -18007,7 +17892,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 153,
+      "recommendationRank": 152,
       "averageSpendSources": [
         {
           "amount": 66,
@@ -18142,7 +18027,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 154
+      "recommendationRank": 153
     },
     {
       "id": "haidilao-gonglian",
@@ -18245,7 +18130,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 155,
+      "recommendationRank": 154,
       "averageSpendSources": [
         {
           "amount": 110,
@@ -18364,7 +18249,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 156,
+      "recommendationRank": 155,
       "averageSpendSources": [
         {
           "amount": 42,
@@ -18483,7 +18368,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 157,
+      "recommendationRank": 156,
       "averageSpendSources": [
         {
           "amount": 83,
@@ -18602,7 +18487,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 158,
+      "recommendationRank": 157,
       "averageSpendSources": [
         {
           "amount": 20,
@@ -18721,7 +18606,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 159,
+      "recommendationRank": 158,
       "averageSpendSources": [
         {
           "amount": 28,
@@ -18840,7 +18725,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 160,
+      "recommendationRank": 159,
       "averageSpendSources": [
         {
           "amount": 20,
@@ -18975,122 +18860,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 161
-    },
-    {
-      "id": "crawl-16718583",
-      "name": "缤堂café(香江国际店)",
-      "category": "异国风味与自助餐",
-      "district": "杭州",
-      "address": "杭州市太和大道南段体育馆旁香江国际5楼",
-      "price": "¥¥",
-      "description": "携程美食公开页收录的西餐，人均 ¥62，页面显示 8 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为异国风味与自助餐的候选。",
-      "reviewSummary": "携程公开页列出 4 分及 8 条公开评价。",
-      "mapQuery": "缤堂café(香江国际店) 杭州市太和大道南段体育馆旁香江国际5楼",
-      "sources": [
-        {
-          "name": "携程美食·缤堂café(香江国际店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/16718583.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E7%BC%A4%E5%A0%82caf%C3%A9(%E9%A6%99%E6%B1%9F%E5%9B%BD%E9%99%85%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%A4%AA%E5%92%8C%E5%A4%A7%E9%81%93%E5%8D%97%E6%AE%B5%E4%BD%93%E8%82%B2%E9%A6%86%E6%97%81%E9%A6%99%E6%B1%9F%E5%9B%BD%E9%99%855%E6%A5%BC",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-10-06",
-      "rating": "4（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 62,
-        "currency": "CNY",
-        "label": "人均 ¥62",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/16718583.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 62,
-          "currency": "CNY",
-          "label": "人均 ¥62",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/16718583.html",
-          "verifiedAt": "2026-10-06"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-06",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "菠萝面包",
-          "price": null
-        },
-        {
-          "name": "黑胡椒汁",
-          "price": null
-        },
-        {
-          "name": "番茄蛋花汤",
-          "price": null
-        },
-        {
-          "name": "水果布切塔",
-          "price": null
-        },
-        {
-          "name": "牛肉披萨",
-          "price": null
-        },
-        {
-          "name": "西冷牛排",
-          "price": null
-        },
-        {
-          "name": "煲仔饭",
-          "price": null
-        },
-        {
-          "name": "芒果提拉米苏",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 4,
-        "count": 8,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/16718583.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1tx3712000sofqf6x33A1_D_750_450_Q90.webp?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/16718583.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-06",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/16718583.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-06"
-      },
-      "recommendationScore": 70,
-      "recommendationBreakdown": {
-        "rating": 32,
-        "reviewSample": 8,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 162
+      "recommendationRank": 160
     },
     {
       "id": "crawl-16475762",
@@ -19205,7 +18975,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 163
+      "recommendationRank": 161
     },
     {
       "id": "luckin-infoport6",
@@ -19308,7 +19078,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 164,
+      "recommendationRank": 162,
       "averageSpendSources": [
         {
           "amount": 15,
@@ -19427,7 +19197,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 165,
+      "recommendationRank": 163,
       "averageSpendSources": [
         {
           "amount": 20,
@@ -19558,7 +19328,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 166
+      "recommendationRank": 164
     },
     {
       "id": "crawl-129454350",
@@ -19673,7 +19443,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 167
+      "recommendationRank": 165
     },
     {
       "id": "crawl-134824435",
@@ -19792,7 +19562,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 168
+      "recommendationRank": 166
     },
     {
       "id": "crawl-134051023",
@@ -19911,7 +19681,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 169
+      "recommendationRank": 167
     },
     {
       "id": "laoxie-chaozhou-huazhong",
@@ -20014,7 +19784,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 170,
+      "recommendationRank": 168,
       "averageSpendSources": [
         {
           "amount": 110,
@@ -20132,7 +19902,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 171,
+      "recommendationRank": 169,
       "averageSpendSources": [
         {
           "amount": 98,
@@ -20247,7 +20017,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 172,
+      "recommendationRank": 170,
       "averageSpendSources": [
         {
           "amount": 20,
@@ -20378,7 +20148,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 173
+      "recommendationRank": 171
     },
     {
       "id": "crawl-130074775",
@@ -20493,7 +20263,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 174
+      "recommendationRank": 172
     },
     {
       "id": "mstand-xiaoshan-mixc",
@@ -20596,7 +20366,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 175,
+      "recommendationRank": 173,
       "averageSpendSources": [
         {
           "amount": 36,
@@ -20727,7 +20497,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 176
+      "recommendationRank": 174
     },
     {
       "id": "xiaochujiang-feihong",
@@ -20830,7 +20600,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 177,
+      "recommendationRank": 175,
       "averageSpendSources": [
         {
           "amount": 73,
@@ -20965,7 +20735,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 178
+      "recommendationRank": 176
     },
     {
       "id": "waipojia-hubin-b",
@@ -21068,7 +20838,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 179,
+      "recommendationRank": 177,
       "averageSpendSources": [
         {
           "amount": 54,
@@ -21187,7 +20957,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 180,
+      "recommendationRank": 178,
       "averageSpendSources": [
         {
           "amount": 262,
@@ -21318,7 +21088,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 181
+      "recommendationRank": 179
     },
     {
       "id": "crawl-132658276",
@@ -21433,7 +21203,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 182
+      "recommendationRank": 180
     },
     {
       "id": "crawl-134163376",
@@ -21548,7 +21318,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 183
+      "recommendationRank": 181
     },
     {
       "id": "crawl-131113884",
@@ -21663,7 +21433,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 184
+      "recommendationRank": 182
     },
     {
       "id": "crawl-134855662",
@@ -21778,7 +21548,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 185
+      "recommendationRank": 183
     },
     {
       "id": "crawl-11572795",
@@ -21893,7 +21663,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 186
+      "recommendationRank": 184
     },
     {
       "id": "shuzhongqian-liangzhu",
@@ -21995,7 +21765,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 187,
+      "recommendationRank": 185,
       "averageSpendSources": [
         {
           "amount": 57,
@@ -22130,7 +21900,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 188
+      "recommendationRank": 186
     },
     {
       "id": "missdu-qingshan",
@@ -22233,7 +22003,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 189,
+      "recommendationRank": 187,
       "averageSpendSources": [
         {
           "amount": 18,
@@ -22352,7 +22122,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 190,
+      "recommendationRank": 188,
       "averageSpendSources": [
         {
           "amount": 26,
@@ -22471,7 +22241,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 191,
+      "recommendationRank": 189,
       "averageSpendSources": [
         {
           "amount": 72,
@@ -22590,7 +22360,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 192,
+      "recommendationRank": 190,
       "averageSpendSources": [
         {
           "amount": 72,
@@ -22709,7 +22479,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 193,
+      "recommendationRank": 191,
       "averageSpendSources": [
         {
           "amount": 53,
@@ -22828,7 +22598,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 194
+      "recommendationRank": 192
     },
     {
       "id": "xinfeng-baoshu",
@@ -22931,7 +22701,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 195,
+      "recommendationRank": 193,
       "averageSpendSources": [
         {
           "amount": 19,
@@ -23062,7 +22832,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 196
+      "recommendationRank": 194
     },
     {
       "id": "luckin-501",
@@ -23163,7 +22933,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 197,
+      "recommendationRank": 195,
       "averageSpendSources": [
         {
           "amount": 13,
@@ -23282,7 +23052,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 198,
+      "recommendationRank": 196,
       "averageSpendSources": [
         {
           "amount": 43,
@@ -23400,7 +23170,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 199,
+      "recommendationRank": 197,
       "averageSpendSources": [
         {
           "amount": 94,
@@ -23531,7 +23301,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 200
+      "recommendationRank": 198
     },
     {
       "id": "juying-daguan",
@@ -23634,7 +23404,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 201,
+      "recommendationRank": 199,
       "averageSpendSources": [
         {
           "amount": 25,
@@ -23765,7 +23535,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 202
+      "recommendationRank": 200
     },
     {
       "id": "crawl-134043441",
@@ -23882,7 +23652,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 203
+      "recommendationRank": 201
     },
     {
       "id": "crawl-118714516",
@@ -23999,7 +23769,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 204
+      "recommendationRank": 202
     },
     {
       "id": "crawl-78971066",
@@ -24116,7 +23886,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 205
+      "recommendationRank": 203
     },
     {
       "id": "xinfeng-huansha",
@@ -24219,7 +23989,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 206,
+      "recommendationRank": 204,
       "averageSpendSources": [
         {
           "amount": 18,
@@ -24338,7 +24108,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 207,
+      "recommendationRank": 205,
       "averageSpendSources": [
         {
           "amount": 15,
@@ -24464,7 +24234,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 208
+      "recommendationRank": 206
     }
   ],
   "verifiedRestaurants": [
@@ -36986,121 +36756,6 @@
       "recommendationRank": 106
     },
     {
-      "id": "crawl-11890612",
-      "name": "上喜西餐厅(香江国际店)",
-      "category": "异国风味与自助餐",
-      "district": "杭州",
-      "address": "杭州市太和街道太和大道南段香江国际4楼(体育馆对面)",
-      "price": "¥¥",
-      "description": "携程美食公开页收录的西餐，人均 ¥57，页面显示 7 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为异国风味与自助餐的候选。",
-      "reviewSummary": "携程公开页列出 4.5 分及 7 条公开评价。",
-      "mapQuery": "上喜西餐厅(香江国际店) 杭州市太和街道太和大道南段香江国际4楼(体育馆对面)",
-      "sources": [
-        {
-          "name": "携程美食·上喜西餐厅(香江国际店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/11890612.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E4%B8%8A%E5%96%9C%E8%A5%BF%E9%A4%90%E5%8E%85(%E9%A6%99%E6%B1%9F%E5%9B%BD%E9%99%85%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%A4%AA%E5%92%8C%E8%A1%97%E9%81%93%E5%A4%AA%E5%92%8C%E5%A4%A7%E9%81%93%E5%8D%97%E6%AE%B5%E9%A6%99%E6%B1%9F%E5%9B%BD%E9%99%854%E6%A5%BC(%E4%BD%93%E8%82%B2%E9%A6%86%E5%AF%B9%E9%9D%A2)",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-10-06",
-      "rating": "4.5（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 57,
-        "currency": "CNY",
-        "label": "人均 ¥57",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/11890612.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 57,
-          "currency": "CNY",
-          "label": "人均 ¥57",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/11890612.html",
-          "verifiedAt": "2026-10-06"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-06",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "水果沙拉",
-          "price": null
-        },
-        {
-          "name": "香辣牛肉披萨",
-          "price": null
-        },
-        {
-          "name": "鸡米花",
-          "price": null
-        },
-        {
-          "name": "海鲜乌冬面",
-          "price": null
-        },
-        {
-          "name": "儿童菲力牛排",
-          "price": null
-        },
-        {
-          "name": "铁板口口脆",
-          "price": null
-        },
-        {
-          "name": "仔薯排骨芝士焗饭",
-          "price": null
-        },
-        {
-          "name": "新奥尔良烤翅",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 4.5,
-        "count": 7,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/11890612.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1tx6q12000sofqf6tB25C_D_750_450_Q90.webp?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/11890612.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-06",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/11890612.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-06"
-      },
-      "recommendationScore": 74,
-      "recommendationBreakdown": {
-        "rating": 36,
-        "reviewSample": 7.5,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 107
-    },
-    {
       "id": "crawl-133654588",
       "name": "丁兰君尚云郦酒店·樊楼中餐厅",
       "category": "江浙菜与本帮菜",
@@ -37217,7 +36872,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 108
+      "recommendationRank": 107
     },
     {
       "id": "289-vegetarian-noodles",
@@ -37320,7 +36975,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 109,
+      "recommendationRank": 108,
       "averageSpendSources": [
         {
           "amount": 40,
@@ -37439,7 +37094,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 110,
+      "recommendationRank": 109,
       "averageSpendSources": [
         {
           "amount": 121,
@@ -37574,7 +37229,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 111
+      "recommendationRank": 110
     },
     {
       "id": "xiaowu-shentangqiao",
@@ -37677,7 +37332,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 112,
+      "recommendationRank": 111,
       "averageSpendSources": [
         {
           "amount": 75,
@@ -37808,7 +37463,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 113
+      "recommendationRank": 112
     },
     {
       "id": "crawl-77850429",
@@ -37926,7 +37581,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 114
+      "recommendationRank": 113
     },
     {
       "id": "crawl-118714445",
@@ -38041,7 +37696,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 115
+      "recommendationRank": 114
     },
     {
       "id": "crawl-25033250",
@@ -38156,7 +37811,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 116
+      "recommendationRank": 115
     },
     {
       "id": "crawl-25043983",
@@ -38271,7 +37926,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 117
+      "recommendationRank": 116
     },
     {
       "id": "crawl-121686370",
@@ -38386,7 +38041,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 118
+      "recommendationRank": 117
     },
     {
       "id": "crawl-136602839",
@@ -38501,7 +38156,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 119
+      "recommendationRank": 118
     },
     {
       "id": "crawl-132458591",
@@ -38620,7 +38275,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 120
+      "recommendationRank": 119
     },
     {
       "id": "crawl-22806185",
@@ -38739,7 +38394,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 121
+      "recommendationRank": 120
     },
     {
       "id": "crawl-62782636",
@@ -38854,7 +38509,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 122
+      "recommendationRank": 121
     },
     {
       "id": "crawl-7017437",
@@ -38969,7 +38624,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 123
+      "recommendationRank": 122
     },
     {
       "id": "crawl-118710324",
@@ -39088,7 +38743,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 124
+      "recommendationRank": 123
     },
     {
       "id": "mingrenmingjia-sandun",
@@ -39191,7 +38846,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 125,
+      "recommendationRank": 124,
       "averageSpendSources": [
         {
           "amount": 117,
@@ -39310,7 +38965,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 126,
+      "recommendationRank": 125,
       "averageSpendSources": [
         {
           "amount": 88,
@@ -39445,7 +39100,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 127
+      "recommendationRank": 126
     },
     {
       "id": "huge-mantoushan",
@@ -39548,7 +39203,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 128,
+      "recommendationRank": 127,
       "averageSpendSources": [
         {
           "amount": 117,
@@ -39679,7 +39334,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 129
+      "recommendationRank": 128
     },
     {
       "id": "crawl-19821479",
@@ -39794,7 +39449,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 130
+      "recommendationRank": 129
     },
     {
       "id": "crawl-15461095",
@@ -39909,7 +39564,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 131
+      "recommendationRank": 130
     },
     {
       "id": "crawl-17022269",
@@ -40028,7 +39683,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 132
+      "recommendationRank": 131
     },
     {
       "id": "crawl-79043221",
@@ -40147,7 +39802,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 133
+      "recommendationRank": 132
     },
     {
       "id": "yuqianjin-wulin",
@@ -40249,7 +39904,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 134,
+      "recommendationRank": 133,
       "averageSpendSources": [
         {
           "amount": 79,
@@ -40380,7 +40035,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 135
+      "recommendationRank": 134
     },
     {
       "id": "crawl-7093299",
@@ -40495,7 +40150,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 136
+      "recommendationRank": 135
     },
     {
       "id": "qingchun-pumen-baileqiao",
@@ -40598,7 +40253,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 137,
+      "recommendationRank": 136,
       "averageSpendSources": [
         {
           "amount": 107,
@@ -40717,7 +40372,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 138,
+      "recommendationRank": 137,
       "averageSpendSources": [
         {
           "amount": 35,
@@ -40850,7 +40505,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 139
+      "recommendationRank": 138
     },
     {
       "id": "crawl-22806184",
@@ -40967,7 +40622,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 140
+      "recommendationRank": 139
     },
     {
       "id": "crawl-129551726",
@@ -41084,7 +40739,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 141
+      "recommendationRank": 140
     },
     {
       "id": "crawl-152942210",
@@ -41201,7 +40856,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 142
+      "recommendationRank": 141
     },
     {
       "id": "shirichang-lingyin",
@@ -41302,7 +40957,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 143,
+      "recommendationRank": 142,
       "averageSpendSources": [
         {
           "amount": 189,
@@ -41419,7 +41074,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 144,
+      "recommendationRank": 143,
       "averageSpendSources": [
         {
           "amount": 92,
@@ -41552,7 +41207,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 145
+      "recommendationRank": 144
     },
     {
       "id": "crawl-5492085",
@@ -41667,7 +41322,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 146
+      "recommendationRank": 145
     },
     {
       "id": "crawl-78702792",
@@ -41782,7 +41437,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 147
+      "recommendationRank": 146
     },
     {
       "id": "crawl-24579148",
@@ -41901,7 +41556,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 148
+      "recommendationRank": 147
     },
     {
       "id": "crawl-132104658",
@@ -42016,7 +41671,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 149
+      "recommendationRank": 148
     },
     {
       "id": "benzhi2-coffee",
@@ -42119,7 +41774,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 150,
+      "recommendationRank": 149,
       "averageSpendSources": [
         {
           "amount": 26,
@@ -42250,7 +41905,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 151
+      "recommendationRank": 150
     },
     {
       "id": "crawl-25040635",
@@ -42369,7 +42024,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 152
+      "recommendationRank": 151
     },
     {
       "id": "niuyizu-zijingang",
@@ -42472,7 +42127,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 153,
+      "recommendationRank": 152,
       "averageSpendSources": [
         {
           "amount": 66,
@@ -42607,7 +42262,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 154
+      "recommendationRank": 153
     },
     {
       "id": "haidilao-gonglian",
@@ -42710,7 +42365,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 155,
+      "recommendationRank": 154,
       "averageSpendSources": [
         {
           "amount": 110,
@@ -42829,7 +42484,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 156,
+      "recommendationRank": 155,
       "averageSpendSources": [
         {
           "amount": 42,
@@ -42948,7 +42603,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 157,
+      "recommendationRank": 156,
       "averageSpendSources": [
         {
           "amount": 83,
@@ -43067,7 +42722,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 158,
+      "recommendationRank": 157,
       "averageSpendSources": [
         {
           "amount": 20,
@@ -43186,7 +42841,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 159,
+      "recommendationRank": 158,
       "averageSpendSources": [
         {
           "amount": 28,
@@ -43305,7 +42960,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 160,
+      "recommendationRank": 159,
       "averageSpendSources": [
         {
           "amount": 20,
@@ -43440,122 +43095,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 161
-    },
-    {
-      "id": "crawl-16718583",
-      "name": "缤堂café(香江国际店)",
-      "category": "异国风味与自助餐",
-      "district": "杭州",
-      "address": "杭州市太和大道南段体育馆旁香江国际5楼",
-      "price": "¥¥",
-      "description": "携程美食公开页收录的西餐，人均 ¥62，页面显示 8 条公开点评。",
-      "recommendationReason": "该店在公开页面上的评分、人均和推荐菜均可溯源复核，适合作为异国风味与自助餐的候选。",
-      "reviewSummary": "携程公开页列出 4 分及 8 条公开评价。",
-      "mapQuery": "缤堂café(香江国际店) 杭州市太和大道南段体育馆旁香江国际5楼",
-      "sources": [
-        {
-          "name": "携程美食·缤堂café(香江国际店)",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/16718583.html",
-          "type": "地址、人均、菜单与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E7%BC%A4%E5%A0%82caf%C3%A9(%E9%A6%99%E6%B1%9F%E5%9B%BD%E9%99%85%E5%BA%97)%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%A4%AA%E5%92%8C%E5%A4%A7%E9%81%93%E5%8D%97%E6%AE%B5%E4%BD%93%E8%82%B2%E9%A6%86%E6%97%81%E9%A6%99%E6%B1%9F%E5%9B%BD%E9%99%855%E6%A5%BC",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-10-06",
-      "rating": "4（携程公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 62,
-        "currency": "CNY",
-        "label": "人均 ¥62",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/16718583.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "averageSpendSources": [
-        {
-          "amount": 62,
-          "currency": "CNY",
-          "label": "人均 ¥62",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/16718583.html",
-          "verifiedAt": "2026-10-06"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-10-06",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "featuredDishes": [
-        {
-          "name": "菠萝面包",
-          "price": null
-        },
-        {
-          "name": "黑胡椒汁",
-          "price": null
-        },
-        {
-          "name": "番茄蛋花汤",
-          "price": null
-        },
-        {
-          "name": "水果布切塔",
-          "price": null
-        },
-        {
-          "name": "牛肉披萨",
-          "price": null
-        },
-        {
-          "name": "西冷牛排",
-          "price": null
-        },
-        {
-          "name": "煲仔饭",
-          "price": null
-        },
-        {
-          "name": "芒果提拉米苏",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 4,
-        "count": 8,
-        "snippets": [],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/16718583.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/1tx3712000sofqf6x33A1_D_750_450_Q90.webp?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/16718583.html",
-        "verifiedAt": "2026-10-06"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-10-06",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/16718583.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-10-06"
-      },
-      "recommendationScore": 70,
-      "recommendationBreakdown": {
-        "rating": 32,
-        "reviewSample": 8,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 10
-      },
-      "recommendationRank": 162
+      "recommendationRank": 160
     },
     {
       "id": "crawl-16475762",
@@ -43670,7 +43210,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 163
+      "recommendationRank": 161
     },
     {
       "id": "luckin-infoport6",
@@ -43773,7 +43313,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 164,
+      "recommendationRank": 162,
       "averageSpendSources": [
         {
           "amount": 15,
@@ -43892,7 +43432,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 165,
+      "recommendationRank": 163,
       "averageSpendSources": [
         {
           "amount": 20,
@@ -44023,7 +43563,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 166
+      "recommendationRank": 164
     },
     {
       "id": "crawl-129454350",
@@ -44138,7 +43678,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 167
+      "recommendationRank": 165
     },
     {
       "id": "crawl-134824435",
@@ -44257,7 +43797,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 168
+      "recommendationRank": 166
     },
     {
       "id": "crawl-134051023",
@@ -44376,7 +43916,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 169
+      "recommendationRank": 167
     },
     {
       "id": "laoxie-chaozhou-huazhong",
@@ -44479,7 +44019,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 170,
+      "recommendationRank": 168,
       "averageSpendSources": [
         {
           "amount": 110,
@@ -44597,7 +44137,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 171,
+      "recommendationRank": 169,
       "averageSpendSources": [
         {
           "amount": 98,
@@ -44712,7 +44252,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 172,
+      "recommendationRank": 170,
       "averageSpendSources": [
         {
           "amount": 20,
@@ -44843,7 +44383,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 173
+      "recommendationRank": 171
     },
     {
       "id": "crawl-130074775",
@@ -44958,7 +44498,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 174
+      "recommendationRank": 172
     },
     {
       "id": "mstand-xiaoshan-mixc",
@@ -45061,7 +44601,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 175,
+      "recommendationRank": 173,
       "averageSpendSources": [
         {
           "amount": 36,
@@ -45192,7 +44732,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 176
+      "recommendationRank": 174
     },
     {
       "id": "xiaochujiang-feihong",
@@ -45295,7 +44835,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 177,
+      "recommendationRank": 175,
       "averageSpendSources": [
         {
           "amount": 73,
@@ -45430,7 +44970,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 178
+      "recommendationRank": 176
     },
     {
       "id": "waipojia-hubin-b",
@@ -45533,7 +45073,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 179,
+      "recommendationRank": 177,
       "averageSpendSources": [
         {
           "amount": 54,
@@ -45652,7 +45192,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 180,
+      "recommendationRank": 178,
       "averageSpendSources": [
         {
           "amount": 262,
@@ -45783,7 +45323,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 181
+      "recommendationRank": 179
     },
     {
       "id": "crawl-132658276",
@@ -45898,7 +45438,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 182
+      "recommendationRank": 180
     },
     {
       "id": "crawl-134163376",
@@ -46013,7 +45553,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 183
+      "recommendationRank": 181
     },
     {
       "id": "crawl-131113884",
@@ -46128,7 +45668,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 184
+      "recommendationRank": 182
     },
     {
       "id": "crawl-134855662",
@@ -46243,7 +45783,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 185
+      "recommendationRank": 183
     },
     {
       "id": "crawl-11572795",
@@ -46358,7 +45898,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 186
+      "recommendationRank": 184
     },
     {
       "id": "shuzhongqian-liangzhu",
@@ -46460,7 +46000,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 187,
+      "recommendationRank": 185,
       "averageSpendSources": [
         {
           "amount": 57,
@@ -46595,7 +46135,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 188
+      "recommendationRank": 186
     },
     {
       "id": "missdu-qingshan",
@@ -46698,7 +46238,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 189,
+      "recommendationRank": 187,
       "averageSpendSources": [
         {
           "amount": 18,
@@ -46817,7 +46357,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 190,
+      "recommendationRank": 188,
       "averageSpendSources": [
         {
           "amount": 26,
@@ -46936,7 +46476,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 191,
+      "recommendationRank": 189,
       "averageSpendSources": [
         {
           "amount": 72,
@@ -47055,7 +46595,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 192,
+      "recommendationRank": 190,
       "averageSpendSources": [
         {
           "amount": 72,
@@ -47174,7 +46714,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 193,
+      "recommendationRank": 191,
       "averageSpendSources": [
         {
           "amount": 53,
@@ -47293,7 +46833,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 194
+      "recommendationRank": 192
     },
     {
       "id": "xinfeng-baoshu",
@@ -47396,7 +46936,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 195,
+      "recommendationRank": 193,
       "averageSpendSources": [
         {
           "amount": 19,
@@ -47527,7 +47067,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 196
+      "recommendationRank": 194
     },
     {
       "id": "luckin-501",
@@ -47628,7 +47168,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 197,
+      "recommendationRank": 195,
       "averageSpendSources": [
         {
           "amount": 13,
@@ -47747,7 +47287,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 198,
+      "recommendationRank": 196,
       "averageSpendSources": [
         {
           "amount": 43,
@@ -47865,7 +47405,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 199,
+      "recommendationRank": 197,
       "averageSpendSources": [
         {
           "amount": 94,
@@ -47996,7 +47536,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 200
+      "recommendationRank": 198
     },
     {
       "id": "juying-daguan",
@@ -48099,7 +47639,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 201,
+      "recommendationRank": 199,
       "averageSpendSources": [
         {
           "amount": 25,
@@ -48230,7 +47770,7 @@
         "sources": 5,
         "freshness": 10
       },
-      "recommendationRank": 202
+      "recommendationRank": 200
     },
     {
       "id": "crawl-134043441",
@@ -48347,7 +47887,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 203
+      "recommendationRank": 201
     },
     {
       "id": "crawl-118714516",
@@ -48464,7 +48004,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 204
+      "recommendationRank": 202
     },
     {
       "id": "crawl-78971066",
@@ -48581,7 +48121,7 @@
         "sources": 5,
         "freshness": 9.8
       },
-      "recommendationRank": 205
+      "recommendationRank": 203
     },
     {
       "id": "xinfeng-huansha",
@@ -48684,7 +48224,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 206,
+      "recommendationRank": 204,
       "averageSpendSources": [
         {
           "amount": 18,
@@ -48803,7 +48343,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 207,
+      "recommendationRank": 205,
       "averageSpendSources": [
         {
           "amount": 15,
@@ -48929,7 +48469,7 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 208
+      "recommendationRank": 206
     }
   ],
   "pendingRestaurants": [
