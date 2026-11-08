@@ -1,6 +1,6 @@
 {
   "siteName": "杭州美食推荐",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
   "sourcePolicy": "公开来源交叉核验；未完成核验的内容不展示",
   "restaurants": [
     {
@@ -128,11 +128,11 @@
         "reviewSample": 25,
         "featuredDishes": 15,
         "sources": 7.5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 1,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -262,11 +262,11 @@
         "reviewSample": 24.8,
         "featuredDishes": 15,
         "sources": 7.5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 2,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -389,7 +389,7 @@
         "reviewSample": 25,
         "featuredDishes": 15,
         "sources": 10,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 3,
       "detailVerification": {
@@ -400,7 +400,7 @@
         "lastSuccessfulAt": "2026-11-05"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -525,7 +525,7 @@
       },
       "recommendationRank": 4,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -650,7 +650,7 @@
       },
       "recommendationRank": 5,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -775,7 +775,7 @@
       },
       "recommendationRank": 6,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -900,7 +900,7 @@
       },
       "recommendationRank": 7,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -1025,7 +1025,7 @@
       },
       "recommendationRank": 8,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -1135,11 +1135,11 @@
         "reviewSample": 25,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 9,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -1264,7 +1264,7 @@
       },
       "recommendationRank": 10,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -1396,11 +1396,11 @@
         "reviewSample": 21.8,
         "featuredDishes": 15,
         "sources": 7.5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 11,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -1529,7 +1529,7 @@
       },
       "recommendationRank": 12,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -1654,7 +1654,7 @@
       },
       "recommendationRank": 13,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -1773,7 +1773,7 @@
         "reviewSample": 19.8,
         "featuredDishes": 15,
         "sources": 7.5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 14,
       "detailVerification": {
@@ -1784,7 +1784,7 @@
         "lastSuccessfulAt": "2026-11-05"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -1909,7 +1909,7 @@
       },
       "recommendationRank": 15,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -2034,7 +2034,7 @@
       },
       "recommendationRank": 16,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -2159,7 +2159,7 @@
       },
       "recommendationRank": 17,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -2284,7 +2284,7 @@
       },
       "recommendationRank": 18,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -2402,7 +2402,7 @@
         "reviewSample": 18.6,
         "featuredDishes": 15,
         "sources": 7.5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 19,
       "detailVerification": {
@@ -2413,7 +2413,7 @@
         "lastSuccessfulAt": "2026-11-05"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -2538,7 +2538,7 @@
       },
       "recommendationRank": 20,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -2663,7 +2663,7 @@
       },
       "recommendationRank": 21,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -2788,7 +2788,7 @@
       },
       "recommendationRank": 22,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -2913,7 +2913,7 @@
       },
       "recommendationRank": 23,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -3038,7 +3038,7 @@
       },
       "recommendationRank": 24,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -3163,7 +3163,7 @@
       },
       "recommendationRank": 25,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -3288,7 +3288,7 @@
       },
       "recommendationRank": 26,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -3413,7 +3413,7 @@
       },
       "recommendationRank": 27,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -3534,7 +3534,7 @@
       },
       "recommendationRank": 28,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -3659,7 +3659,7 @@
       },
       "recommendationRank": 29,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -3783,7 +3783,7 @@
       },
       "recommendationRank": 30,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -3908,7 +3908,7 @@
       },
       "recommendationRank": 31,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -4033,7 +4033,7 @@
       },
       "recommendationRank": 32,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -4158,7 +4158,7 @@
       },
       "recommendationRank": 33,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -4283,7 +4283,7 @@
       },
       "recommendationRank": 34,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -4408,7 +4408,7 @@
       },
       "recommendationRank": 35,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -4513,7 +4513,7 @@
         "reviewSample": 15,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 36,
       "averageSpendSources": [
@@ -4533,7 +4533,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -4658,7 +4658,7 @@
       },
       "recommendationRank": 37,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -4783,7 +4783,7 @@
       },
       "recommendationRank": 38,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -4908,7 +4908,7 @@
       },
       "recommendationRank": 39,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -5032,7 +5032,7 @@
       },
       "recommendationRank": 40,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -5157,7 +5157,7 @@
       },
       "recommendationRank": 41,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -5282,7 +5282,7 @@
       },
       "recommendationRank": 42,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -5407,7 +5407,7 @@
       },
       "recommendationRank": 43,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -5532,7 +5532,7 @@
       },
       "recommendationRank": 44,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -5657,7 +5657,7 @@
       },
       "recommendationRank": 45,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -5782,7 +5782,7 @@
       },
       "recommendationRank": 46,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -5887,7 +5887,7 @@
         "reviewSample": 14.3,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 47,
       "averageSpendSources": [
@@ -5907,7 +5907,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -6032,7 +6032,7 @@
       },
       "recommendationRank": 48,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -6137,7 +6137,7 @@
         "reviewSample": 13.2,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 49,
       "averageSpendSources": [
@@ -6157,7 +6157,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -6282,7 +6282,7 @@
       },
       "recommendationRank": 50,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -6407,7 +6407,7 @@
       },
       "recommendationRank": 51,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -6532,7 +6532,7 @@
       },
       "recommendationRank": 52,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -6656,7 +6656,7 @@
       },
       "recommendationRank": 53,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -6781,7 +6781,7 @@
       },
       "recommendationRank": 54,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -6905,7 +6905,7 @@
       },
       "recommendationRank": 55,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -7030,7 +7030,7 @@
       },
       "recommendationRank": 56,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -7159,7 +7159,7 @@
         "lastSuccessfulAt": "2026-11-05"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -7290,7 +7290,7 @@
       },
       "recommendationRank": 58,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -7414,7 +7414,7 @@
       },
       "recommendationRank": 59,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -7539,7 +7539,7 @@
       },
       "recommendationRank": 60,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -7664,7 +7664,7 @@
       },
       "recommendationRank": 61,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -7789,7 +7789,7 @@
       },
       "recommendationRank": 62,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -7914,7 +7914,7 @@
       },
       "recommendationRank": 63,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -8039,7 +8039,7 @@
       },
       "recommendationRank": 64,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -8164,11 +8164,11 @@
         "reviewSample": 11.9,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 65,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -8293,7 +8293,7 @@
       },
       "recommendationRank": 66,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -8410,11 +8410,11 @@
         "reviewSample": 16.2,
         "featuredDishes": 7.5,
         "sources": 10,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 67,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -8539,7 +8539,7 @@
       },
       "recommendationRank": 68,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -8662,7 +8662,7 @@
       },
       "recommendationRank": 69,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -8787,7 +8787,7 @@
       },
       "recommendationRank": 70,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -8912,7 +8912,7 @@
       },
       "recommendationRank": 71,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -9017,7 +9017,7 @@
         "reviewSample": 8,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 72,
       "averageSpendSources": [
@@ -9037,7 +9037,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -9162,7 +9162,7 @@
       },
       "recommendationRank": 73,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -9287,7 +9287,7 @@
       },
       "recommendationRank": 74,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -9392,7 +9392,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 75,
       "averageSpendSources": [
@@ -9412,7 +9412,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -9517,7 +9517,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 76,
       "averageSpendSources": [
@@ -9537,7 +9537,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -9642,7 +9642,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 77,
       "averageSpendSources": [
@@ -9662,7 +9662,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -9787,7 +9787,7 @@
       },
       "recommendationRank": 78,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -9912,7 +9912,7 @@
       },
       "recommendationRank": 79,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -10037,7 +10037,7 @@
       },
       "recommendationRank": 80,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -10162,7 +10162,7 @@
       },
       "recommendationRank": 81,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -10267,7 +10267,7 @@
         "reviewSample": 7,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 82,
       "averageSpendSources": [
@@ -10287,7 +10287,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -10412,7 +10412,7 @@
       },
       "recommendationRank": 83,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -10517,7 +10517,7 @@
         "reviewSample": 7,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 84,
       "averageSpendSources": [
@@ -10537,7 +10537,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -10642,7 +10642,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 85,
       "averageSpendSources": [
@@ -10662,7 +10662,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -10767,7 +10767,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 86,
       "averageSpendSources": [
@@ -10787,7 +10787,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -10912,7 +10912,7 @@
       },
       "recommendationRank": 87,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -11017,7 +11017,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 88,
       "averageSpendSources": [
@@ -11037,7 +11037,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -11162,7 +11162,7 @@
       },
       "recommendationRank": 89,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -11287,7 +11287,7 @@
       },
       "recommendationRank": 90,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -11412,7 +11412,7 @@
       },
       "recommendationRank": 91,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -11537,7 +11537,7 @@
       },
       "recommendationRank": 92,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -11660,7 +11660,7 @@
       },
       "recommendationRank": 93,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -11785,7 +11785,7 @@
       },
       "recommendationRank": 94,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -11910,7 +11910,7 @@
       },
       "recommendationRank": 95,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -12035,7 +12035,7 @@
       },
       "recommendationRank": 96,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -12140,7 +12140,7 @@
         "reviewSample": 7,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 97,
       "averageSpendSources": [
@@ -12160,7 +12160,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -12265,7 +12265,7 @@
         "reviewSample": 7,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 98,
       "averageSpendSources": [
@@ -12285,7 +12285,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -12410,7 +12410,7 @@
       },
       "recommendationRank": 99,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -12535,7 +12535,7 @@
       },
       "recommendationRank": 100,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -12640,7 +12640,7 @@
         "reviewSample": 5.8,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 101,
       "averageSpendSources": [
@@ -12660,7 +12660,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -12785,7 +12785,7 @@
       },
       "recommendationRank": 102,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -12909,7 +12909,7 @@
       },
       "recommendationRank": 103,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -13032,7 +13032,7 @@
       },
       "recommendationRank": 104,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -13156,7 +13156,7 @@
       },
       "recommendationRank": 105,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -13281,7 +13281,7 @@
       },
       "recommendationRank": 106,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -13405,7 +13405,7 @@
       },
       "recommendationRank": 107,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -13530,7 +13530,7 @@
       },
       "recommendationRank": 108,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -13655,7 +13655,7 @@
       },
       "recommendationRank": 109,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -13780,7 +13780,7 @@
       },
       "recommendationRank": 110,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -13885,7 +13885,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 111,
       "averageSpendSources": [
@@ -13905,7 +13905,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -14010,7 +14010,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 112,
       "averageSpendSources": [
@@ -14030,7 +14030,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -14155,7 +14155,7 @@
       },
       "recommendationRank": 113,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -14260,7 +14260,7 @@
         "reviewSample": 5.8,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 114,
       "averageSpendSources": [
@@ -14280,7 +14280,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -14405,7 +14405,7 @@
       },
       "recommendationRank": 115,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -14528,7 +14528,7 @@
       },
       "recommendationRank": 116,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -14653,7 +14653,7 @@
       },
       "recommendationRank": 117,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -14778,7 +14778,7 @@
       },
       "recommendationRank": 118,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -14903,7 +14903,7 @@
       },
       "recommendationRank": 119,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -15007,7 +15007,7 @@
         "reviewSample": 7.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 120,
       "averageSpendSources": [
@@ -15027,7 +15027,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -15152,7 +15152,7 @@
       },
       "recommendationRank": 121,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -15277,7 +15277,7 @@
       },
       "recommendationRank": 122,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -15402,7 +15402,7 @@
       },
       "recommendationRank": 123,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -15527,257 +15527,7 @@
       },
       "recommendationRank": 124,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
-        "via": "amap-adcode",
-        "adcode": "",
-        "note": "高德未收录同名门店，保留待抽查"
-      }
-    },
-    {
-      "id": "qingchun-pumen-baileqiao",
-      "name": "庆春朴门",
-      "category": "素食、轻食与创意餐厅",
-      "district": "西湖区",
-      "address": "杭州市西湖区灵隐支路白乐桥181号",
-      "price": "¥¥",
-      "description": "庭院式创意素食餐厅，以菌菇、时蔬和杭州元素重新组合素食菜品。",
-      "recommendationReason": "适合约会、家庭聚餐或希望体验精致素食与庭院环境的食客。",
-      "reviewSummary": "携程门店页列出白乐桥181号，并收录推荐菜、营业时间和公开点评。",
-      "mapQuery": "庆春朴门 杭州市西湖区灵隐支路白乐桥181号",
-      "sources": [
-        {
-          "name": "携程美食·庆春朴门",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
-          "type": "地址与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E5%BA%86%E6%98%A5%E6%9C%B4%E9%97%A8%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E8%A5%BF%E6%B9%96%E5%8C%BA%E7%81%B5%E9%9A%90%E6%94%AF%E8%B7%AF%E7%99%BD%E4%B9%90%E6%A1%A5181%E5%8F%B7",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-09-28",
-      "rating": "公开评分以来源页面实时显示为准",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 107,
-        "currency": "CNY",
-        "label": "人均 ¥107",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
-        "verifiedAt": "2026-11-05"
-      },
-      "featuredDishes": [
-        {
-          "name": "黑松露炒饭",
-          "price": null
-        },
-        {
-          "name": "桂花荔浦芋头",
-          "price": null
-        },
-        {
-          "name": "泰式冬阴功汤",
-          "price": null
-        },
-        {
-          "name": "糖醋莲藕",
-          "price": "¥ 26"
-        },
-        {
-          "name": "木姜子油拌苗菜",
-          "price": null
-        },
-        {
-          "name": "榛果米浆",
-          "price": null
-        },
-        {
-          "name": "有机石磨黑麦馄饨",
-          "price": null
-        },
-        {
-          "name": "黑松露小笼包",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 4.5,
-        "count": 4,
-        "snippets": [
-          "订好赴杭机票后，真“朴门”便第一时间将庆春朴门的灵隐店加入了打卡计划中。 🌿 迎着杭城深秋的薄雾，从龙井一路骑行前往灵隐。灵隐支路上各色食肆茶馆鳞次栉比，沿着路一番寻找，终是看到那副熟悉的招牌静静地立在路旁。品牌对禅意的诠释在这家首店体现得淋漓尽致——走入大门的木门，沿着石板路走入餐厅，院内栽种的树木将餐厅的灯光藏匿在树影之下，仅凭地上的石灯照射着路面。餐厅外是一片沙海，被餐厅内的灯光照得明亮，如果是白天抵达则更能体会到那一丝禅意。 🍲 桂花荔浦芋头 这家店使用的是冷做的方式，入口的一瞬间冰凉的口感激发了桂花酱的甜，比热的更能感受到桂花酱那丝清甜。榄菜苦瓜 生苦瓜带着强烈的清脆口感，入口能感受到丰沛的汁水在嘴里迸发，榄菜主要选用的是浸泡榄菜的油，带着榄菜的香气和油润的口感，这道菜主要看的是食材的选材，店家只是简单做了食材的搭配，没能看见太多的研发痕迹。红油榆耳 店员介绍榆耳是榆树上生长的菌菇类食材，肥厚的榆耳口感扎实，只是调味的红油滋味略显寡淡，整体只吃到红油的油润感，少了一丝盐味。佛陀饭 各色蔬菜碎和坚果进行搭配的一款饭，香油和酱油调配的酱汁滋味恰到好处，吃起来有一丝油润和微微的甜感。笋干 是本次最让人惊艳的菜品，红线椒为整道菜提供微辣的底味，金不换带来了丰富的香气，笋排口感扎实，酱汁口味适中。庆春米糕 口感粘度较高，内馅的红豆沙带着一丝椰香，但是口味偏甜且油腻，略显一般。 这一次杭城的庆春朴门体验，有令人惊艳的菜品，也有没有达到预期的菜品。看到此次冬季出新，期待品尝到惊艳的仿荤菜品，结果菜单上皆是常规的菜品。",
-          "自从大蔬无界从杭州消失以后，庆春食堂就在杭城素食界独领风骚，新年才伊始，就连续开出了两家新店，这家坐落在景区的朴门，绝对是重磅出击！ 目前餐厅暂行会员预约制，想要去这里的小伙伴记得提前跟店长预约哟！！ 📍位置：灵隐支路白乐桥181号 🌿环境：倾巨资打造的庭院，不漂亮怎么可能，卡座包厢都禅意十足，在这里吃饭就是种享受。 🛎服务：不论是入门的迎宾，还是卡座包厢宾至如归的服务，都是非常令人满意的。 「泰式冬阴功汤」 这道菜就不用说了，庆春家的必点招牌菜，不完全照搬泰国的冬阴功汤，以酸爽鲜香为特色，好喝到欲罢不能，我是蛮喜欢的，每回去都会点！ 「泰式芒果彩米饭」 米饭颜色五彩缤纷，视觉上就很出彩，口感上不输阵十分软糯，芒果则很鲜甜，也是值得推荐的~ 「佛陀碗」 颜值也是一等一的高，摆盘精细，色彩搭配的漂亮，吃之前需要搅拌均匀，第一次尝试，味道还挺不错的呢！ 「香蘭薏米水」 一上来就仙气飘飘，仪式感就很棒！做得很醇厚，比常规版更浓郁，也是点击率很高的饮品之一~ 天然手工，质朴本味的素食，用心专研的菜式，让宾客连吃素食都能吃得很惊喜很开心，这也是我喜欢它家的原因~",
-          "前滩一家比较不错的素食餐厅，味道不错，清淡，健康，养生，还能看看前滩美景，作为比较多，基本不需要等位，然后黑松露炒饭也很好吃，肉串也做出来美味，烧烤的感觉，唯一就是大堂位置比较吵闹，也没有买单优惠，其他还可以"
-        ],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
-        "verifiedAt": "2026-11-05"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/01A2q120008ss7jqwBF24_D_750_450_Q90.jpg?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
-        "verifiedAt": "2026-11-05"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-11-05",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-11-05"
-      },
-      "recommendationScore": 71,
-      "recommendationBreakdown": {
-        "rating": 36,
-        "reviewSample": 5.8,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 8.7
-      },
-      "recommendationRank": 125,
-      "averageSpendSources": [
-        {
-          "amount": 107,
-          "currency": "CNY",
-          "label": "人均 ¥107",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
-          "verifiedAt": "2026-11-05"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-11-05",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "locationCheck": {
-        "checkedAt": "2026-11-07",
-        "via": "amap-adcode",
-        "adcode": "",
-        "note": "高德未收录同名门店，保留待抽查"
-      }
-    },
-    {
-      "id": "suxin-cuiyuan",
-      "name": "素心素食（翠苑店）",
-      "category": "素食、轻食与创意餐厅",
-      "district": "西湖区",
-      "address": "杭州市西湖区文一路294号城西商贸城附房二层216室",
-      "price": "¥",
-      "description": "翠苑一带的素食自助餐厅。",
-      "recommendationReason": "适合日常午餐和希望菜品选择较多的素食者。",
-      "reviewSummary": "Trip.com列出二层216室、4.5分、营业时段和公开评价。",
-      "mapQuery": "素心素食（翠苑店） 杭州市西湖区文一路294号城西商贸城附房二层216室",
-      "sources": [
-        {
-          "name": "Trip.com·素心素食（翠苑店）",
-          "url": "https://us.trip.com/restaurant/china/hangzhou/detail/restaurant-122673244/",
-          "type": "地址与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E7%B4%A0%E5%BF%83%E7%B4%A0%E9%A3%9F%EF%BC%88%E7%BF%A0%E8%8B%91%E5%BA%97%EF%BC%89%20%E6%9D%AD%E5%B7%9E",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-09-28",
-      "rating": "4.5（Trip.com公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 35,
-        "currency": "CNY",
-        "label": "人均 ¥35",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/122673244.html",
-        "verifiedAt": "2026-11-05"
-      },
-      "featuredDishes": [
-        {
-          "name": "炸锅巴",
-          "price": null
-        },
-        {
-          "name": "麻辣香锅",
-          "price": null
-        },
-        {
-          "name": "素肉沫拌面",
-          "price": null
-        },
-        {
-          "name": "素牛肉干",
-          "price": null
-        },
-        {
-          "name": "素食火锅",
-          "price": null
-        },
-        {
-          "name": "海苔手卷",
-          "price": null
-        },
-        {
-          "name": "素布朗尼卷",
-          "price": null
-        },
-        {
-          "name": "手卷寿司",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 4.5,
-        "count": 4,
-        "snippets": [
-          "烧香团队晚餐，70人左右，能用吗，怎么联系",
-          "就在公司附近，中午经常去吃，挺不错的",
-          "面包种类还算丰富 吃的人很多的"
-        ],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/122673244.html",
-        "verifiedAt": "2026-11-05"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/10030y000000mfrofF5B4_D_750_450_Q90.jpg?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/122673244.html",
-        "verifiedAt": "2026-11-05"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-11-05",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/122673244.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-11-05"
-      },
-      "recommendationScore": 71,
-      "recommendationBreakdown": {
-        "rating": 36,
-        "reviewSample": 5.8,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 8.7
-      },
-      "recommendationRank": 126,
-      "averageSpendSources": [
-        {
-          "amount": 35,
-          "currency": "CNY",
-          "label": "人均 ¥35",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/122673244.html",
-          "verifiedAt": "2026-11-05"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-11-05",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -15898,9 +15648,9 @@
         "sources": 5,
         "freshness": 8.7
       },
-      "recommendationRank": 127,
+      "recommendationRank": 125,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -16021,9 +15771,9 @@
         "sources": 5,
         "freshness": 8.7
       },
-      "recommendationRank": 128,
+      "recommendationRank": 126,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -16144,9 +15894,9 @@
         "sources": 5,
         "freshness": 8.7
       },
-      "recommendationRank": 129,
+      "recommendationRank": 127,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -16267,9 +16017,9 @@
         "sources": 5,
         "freshness": 8.7
       },
-      "recommendationRank": 130,
+      "recommendationRank": 128,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -16372,9 +16122,9 @@
         "reviewSample": 2.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
-      "recommendationRank": 131,
+      "recommendationRank": 129,
       "averageSpendSources": [
         {
           "amount": 189,
@@ -16392,7 +16142,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -16495,9 +16245,9 @@
         "reviewSample": 2.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
-      "recommendationRank": 132,
+      "recommendationRank": 130,
       "averageSpendSources": [
         {
           "amount": 92,
@@ -16515,7 +16265,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -16636,9 +16386,9 @@
         "sources": 5,
         "freshness": 8.9
       },
-      "recommendationRank": 133,
+      "recommendationRank": 131,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -16759,9 +16509,9 @@
         "sources": 5,
         "freshness": 8.7
       },
-      "recommendationRank": 134,
+      "recommendationRank": 132,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -16884,9 +16634,9 @@
         "sources": 5,
         "freshness": 8.7
       },
-      "recommendationRank": 135,
+      "recommendationRank": 133,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -16991,9 +16741,9 @@
         "reviewSample": 7,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
-      "recommendationRank": 136,
+      "recommendationRank": 134,
       "averageSpendSources": [
         {
           "amount": 26,
@@ -17011,7 +16761,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -17134,9 +16884,9 @@
         "sources": 5,
         "freshness": 8.9
       },
-      "recommendationRank": 137,
+      "recommendationRank": 135,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -17259,9 +17009,9 @@
         "sources": 5,
         "freshness": 8.7
       },
-      "recommendationRank": 138,
+      "recommendationRank": 136,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -17366,9 +17116,9 @@
         "reviewSample": 7,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
-      "recommendationRank": 139,
+      "recommendationRank": 137,
       "averageSpendSources": [
         {
           "amount": 66,
@@ -17386,7 +17136,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -17509,9 +17259,9 @@
         "sources": 5,
         "freshness": 8.7
       },
-      "recommendationRank": 140,
+      "recommendationRank": 138,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -17616,9 +17366,9 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
-      "recommendationRank": 141,
+      "recommendationRank": 139,
       "averageSpendSources": [
         {
           "amount": 110,
@@ -17636,7 +17386,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -17755,9 +17505,9 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 142,
+      "recommendationRank": 140,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -17862,9 +17612,9 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
-      "recommendationRank": 143,
+      "recommendationRank": 141,
       "averageSpendSources": [
         {
           "amount": 42,
@@ -17882,7 +17632,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -17987,9 +17737,9 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
-      "recommendationRank": 144,
+      "recommendationRank": 142,
       "averageSpendSources": [
         {
           "amount": 83,
@@ -18007,7 +17757,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -18112,9 +17862,9 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
-      "recommendationRank": 145,
+      "recommendationRank": 143,
       "averageSpendSources": [
         {
           "amount": 20,
@@ -18132,7 +17882,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -18237,9 +17987,9 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
-      "recommendationRank": 146,
+      "recommendationRank": 144,
       "averageSpendSources": [
         {
           "amount": 28,
@@ -18257,7 +18007,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -18362,9 +18112,9 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
-      "recommendationRank": 147,
+      "recommendationRank": 145,
       "averageSpendSources": [
         {
           "amount": 20,
@@ -18382,7 +18132,257 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
+        "via": "amap-adcode",
+        "adcode": "",
+        "note": "高德未收录同名门店，保留待抽查"
+      }
+    },
+    {
+      "id": "qingchun-pumen-baileqiao",
+      "name": "庆春朴门",
+      "category": "素食、轻食与创意餐厅",
+      "district": "西湖区",
+      "address": "杭州市西湖区灵隐支路白乐桥181号",
+      "price": "¥¥",
+      "description": "庭院式创意素食餐厅，以菌菇、时蔬和杭州元素重新组合素食菜品。",
+      "recommendationReason": "适合约会、家庭聚餐或希望体验精致素食与庭院环境的食客。",
+      "reviewSummary": "携程门店页列出白乐桥181号，并收录推荐菜、营业时间和公开点评。",
+      "mapQuery": "庆春朴门 杭州市西湖区灵隐支路白乐桥181号",
+      "sources": [
+        {
+          "name": "携程美食·庆春朴门",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
+          "type": "地址与公开评价"
+        },
+        {
+          "name": "高德地图·门店查询",
+          "url": "https://www.amap.com/search?query=%E5%BA%86%E6%98%A5%E6%9C%B4%E9%97%A8%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E8%A5%BF%E6%B9%96%E5%8C%BA%E7%81%B5%E9%9A%90%E6%94%AF%E8%B7%AF%E7%99%BD%E4%B9%90%E6%A1%A5181%E5%8F%B7",
+          "type": "地图与实时资料"
+        }
+      ],
+      "verifiedAt": "2026-09-28",
+      "rating": "公开评分以来源页面实时显示为准",
+      "verificationStatus": "verified",
+      "averageSpend": {
+        "amount": 107,
+        "currency": "CNY",
+        "label": "人均 ¥107",
+        "sourceName": "携程美食公开餐厅页",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
+        "verifiedAt": "2026-11-05"
+      },
+      "featuredDishes": [
+        {
+          "name": "黑松露炒饭",
+          "price": null
+        },
+        {
+          "name": "桂花荔浦芋头",
+          "price": null
+        },
+        {
+          "name": "泰式冬阴功汤",
+          "price": null
+        },
+        {
+          "name": "糖醋莲藕",
+          "price": "¥ 26"
+        },
+        {
+          "name": "木姜子油拌苗菜",
+          "price": null
+        },
+        {
+          "name": "榛果米浆",
+          "price": null
+        },
+        {
+          "name": "有机石磨黑麦馄饨",
+          "price": null
+        },
+        {
+          "name": "黑松露小笼包",
+          "price": null
+        }
+      ],
+      "reviewInfo": {
+        "rating": 4.5,
+        "count": 4,
+        "snippets": [
+          "订好赴杭机票后，真“朴门”便第一时间将庆春朴门的灵隐店加入了打卡计划中。 🌿 迎着杭城深秋的薄雾，从龙井一路骑行前往灵隐。灵隐支路上各色食肆茶馆鳞次栉比，沿着路一番寻找，终是看到那副熟悉的招牌静静地立在路旁。品牌对禅意的诠释在这家首店体现得淋漓尽致——走入大门的木门，沿着石板路走入餐厅，院内栽种的树木将餐厅的灯光藏匿在树影之下，仅凭地上的石灯照射着路面。餐厅外是一片沙海，被餐厅内的灯光照得明亮，如果是白天抵达则更能体会到那一丝禅意。 🍲 桂花荔浦芋头 这家店使用的是冷做的方式，入口的一瞬间冰凉的口感激发了桂花酱的甜，比热的更能感受到桂花酱那丝清甜。榄菜苦瓜 生苦瓜带着强烈的清脆口感，入口能感受到丰沛的汁水在嘴里迸发，榄菜主要选用的是浸泡榄菜的油，带着榄菜的香气和油润的口感，这道菜主要看的是食材的选材，店家只是简单做了食材的搭配，没能看见太多的研发痕迹。红油榆耳 店员介绍榆耳是榆树上生长的菌菇类食材，肥厚的榆耳口感扎实，只是调味的红油滋味略显寡淡，整体只吃到红油的油润感，少了一丝盐味。佛陀饭 各色蔬菜碎和坚果进行搭配的一款饭，香油和酱油调配的酱汁滋味恰到好处，吃起来有一丝油润和微微的甜感。笋干 是本次最让人惊艳的菜品，红线椒为整道菜提供微辣的底味，金不换带来了丰富的香气，笋排口感扎实，酱汁口味适中。庆春米糕 口感粘度较高，内馅的红豆沙带着一丝椰香，但是口味偏甜且油腻，略显一般。 这一次杭城的庆春朴门体验，有令人惊艳的菜品，也有没有达到预期的菜品。看到此次冬季出新，期待品尝到惊艳的仿荤菜品，结果菜单上皆是常规的菜品。",
+          "自从大蔬无界从杭州消失以后，庆春食堂就在杭城素食界独领风骚，新年才伊始，就连续开出了两家新店，这家坐落在景区的朴门，绝对是重磅出击！ 目前餐厅暂行会员预约制，想要去这里的小伙伴记得提前跟店长预约哟！！ 📍位置：灵隐支路白乐桥181号 🌿环境：倾巨资打造的庭院，不漂亮怎么可能，卡座包厢都禅意十足，在这里吃饭就是种享受。 🛎服务：不论是入门的迎宾，还是卡座包厢宾至如归的服务，都是非常令人满意的。 「泰式冬阴功汤」 这道菜就不用说了，庆春家的必点招牌菜，不完全照搬泰国的冬阴功汤，以酸爽鲜香为特色，好喝到欲罢不能，我是蛮喜欢的，每回去都会点！ 「泰式芒果彩米饭」 米饭颜色五彩缤纷，视觉上就很出彩，口感上不输阵十分软糯，芒果则很鲜甜，也是值得推荐的~ 「佛陀碗」 颜值也是一等一的高，摆盘精细，色彩搭配的漂亮，吃之前需要搅拌均匀，第一次尝试，味道还挺不错的呢！ 「香蘭薏米水」 一上来就仙气飘飘，仪式感就很棒！做得很醇厚，比常规版更浓郁，也是点击率很高的饮品之一~ 天然手工，质朴本味的素食，用心专研的菜式，让宾客连吃素食都能吃得很惊喜很开心，这也是我喜欢它家的原因~",
+          "前滩一家比较不错的素食餐厅，味道不错，清淡，健康，养生，还能看看前滩美景，作为比较多，基本不需要等位，然后黑松露炒饭也很好吃，肉串也做出来美味，烧烤的感觉，唯一就是大堂位置比较吵闹，也没有买单优惠，其他还可以"
+        ],
+        "sourceName": "携程美食公开用户点评",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
+        "verifiedAt": "2026-11-05"
+      },
+      "image": {
+        "url": "https://dimg04.c-ctrip.com/images/01A2q120008ss7jqwBF24_D_750_450_Q90.jpg?proc=autoorient",
+        "sourceName": "携程美食公开餐厅图片",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
+        "verifiedAt": "2026-11-05"
+      },
+      "detailVerification": {
+        "checkedAt": "2026-11-05",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
+        "status": "verified",
+        "method": "public-source-extraction",
+        "lastSuccessfulAt": "2026-11-05"
+      },
+      "recommendationScore": 70,
+      "recommendationBreakdown": {
+        "rating": 36,
+        "reviewSample": 5.8,
+        "featuredDishes": 15,
+        "sources": 5,
+        "freshness": 8.6
+      },
+      "recommendationRank": 146,
+      "averageSpendSources": [
+        {
+          "amount": 107,
+          "currency": "CNY",
+          "label": "人均 ¥107",
+          "sourceName": "携程美食公开餐厅页",
+          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
+          "verifiedAt": "2026-11-05"
+        }
+      ],
+      "spendVerification": {
+        "checkedAt": "2026-11-05",
+        "sourcesChecked": 1,
+        "status": "verified",
+        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
+      },
+      "locationCheck": {
+        "checkedAt": "2026-11-08",
+        "via": "amap-adcode",
+        "adcode": "",
+        "note": "高德未收录同名门店，保留待抽查"
+      }
+    },
+    {
+      "id": "suxin-cuiyuan",
+      "name": "素心素食（翠苑店）",
+      "category": "素食、轻食与创意餐厅",
+      "district": "西湖区",
+      "address": "杭州市西湖区文一路294号城西商贸城附房二层216室",
+      "price": "¥",
+      "description": "翠苑一带的素食自助餐厅。",
+      "recommendationReason": "适合日常午餐和希望菜品选择较多的素食者。",
+      "reviewSummary": "Trip.com列出二层216室、4.5分、营业时段和公开评价。",
+      "mapQuery": "素心素食（翠苑店） 杭州市西湖区文一路294号城西商贸城附房二层216室",
+      "sources": [
+        {
+          "name": "Trip.com·素心素食（翠苑店）",
+          "url": "https://us.trip.com/restaurant/china/hangzhou/detail/restaurant-122673244/",
+          "type": "地址与公开评价"
+        },
+        {
+          "name": "高德地图·门店查询",
+          "url": "https://www.amap.com/search?query=%E7%B4%A0%E5%BF%83%E7%B4%A0%E9%A3%9F%EF%BC%88%E7%BF%A0%E8%8B%91%E5%BA%97%EF%BC%89%20%E6%9D%AD%E5%B7%9E",
+          "type": "地图与实时资料"
+        }
+      ],
+      "verifiedAt": "2026-09-28",
+      "rating": "4.5（Trip.com公开评分，可能随时间变化）",
+      "verificationStatus": "verified",
+      "averageSpend": {
+        "amount": 35,
+        "currency": "CNY",
+        "label": "人均 ¥35",
+        "sourceName": "携程美食公开餐厅页",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/122673244.html",
+        "verifiedAt": "2026-11-05"
+      },
+      "featuredDishes": [
+        {
+          "name": "炸锅巴",
+          "price": null
+        },
+        {
+          "name": "麻辣香锅",
+          "price": null
+        },
+        {
+          "name": "素肉沫拌面",
+          "price": null
+        },
+        {
+          "name": "素牛肉干",
+          "price": null
+        },
+        {
+          "name": "素食火锅",
+          "price": null
+        },
+        {
+          "name": "海苔手卷",
+          "price": null
+        },
+        {
+          "name": "素布朗尼卷",
+          "price": null
+        },
+        {
+          "name": "手卷寿司",
+          "price": null
+        }
+      ],
+      "reviewInfo": {
+        "rating": 4.5,
+        "count": 4,
+        "snippets": [
+          "烧香团队晚餐，70人左右，能用吗，怎么联系",
+          "就在公司附近，中午经常去吃，挺不错的",
+          "面包种类还算丰富 吃的人很多的"
+        ],
+        "sourceName": "携程美食公开用户点评",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/122673244.html",
+        "verifiedAt": "2026-11-05"
+      },
+      "image": {
+        "url": "https://dimg04.c-ctrip.com/images/10030y000000mfrofF5B4_D_750_450_Q90.jpg?proc=autoorient",
+        "sourceName": "携程美食公开餐厅图片",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/122673244.html",
+        "verifiedAt": "2026-11-05"
+      },
+      "detailVerification": {
+        "checkedAt": "2026-11-05",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/122673244.html",
+        "status": "verified",
+        "method": "public-source-extraction",
+        "lastSuccessfulAt": "2026-11-05"
+      },
+      "recommendationScore": 70,
+      "recommendationBreakdown": {
+        "rating": 36,
+        "reviewSample": 5.8,
+        "featuredDishes": 15,
+        "sources": 5,
+        "freshness": 8.6
+      },
+      "recommendationRank": 147,
+      "averageSpendSources": [
+        {
+          "amount": 35,
+          "currency": "CNY",
+          "label": "人均 ¥35",
+          "sourceName": "携程美食公开餐厅页",
+          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/122673244.html",
+          "verifiedAt": "2026-11-05"
+        }
+      ],
+      "spendVerification": {
+        "checkedAt": "2026-11-05",
+        "sourcesChecked": 1,
+        "status": "verified",
+        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
+      },
+      "locationCheck": {
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -18507,7 +18507,7 @@
       },
       "recommendationRank": 148,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -18632,7 +18632,7 @@
       },
       "recommendationRank": 149,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -18737,7 +18737,7 @@
         "reviewSample": 7.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 150,
       "averageSpendSources": [
@@ -18757,7 +18757,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -18862,7 +18862,7 @@
         "reviewSample": 7,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 151,
       "averageSpendSources": [
@@ -18882,7 +18882,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -19007,7 +19007,7 @@
       },
       "recommendationRank": 152,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -19132,7 +19132,7 @@
       },
       "recommendationRank": 153,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -19257,7 +19257,7 @@
       },
       "recommendationRank": 154,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -19362,7 +19362,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 155,
       "averageSpendSources": [
@@ -19382,7 +19382,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -19486,7 +19486,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 156,
       "averageSpendSources": [
@@ -19506,7 +19506,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -19607,7 +19607,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 157,
       "averageSpendSources": [
@@ -19627,7 +19627,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -19752,7 +19752,7 @@
       },
       "recommendationRank": 158,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -19857,7 +19857,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 159,
       "averageSpendSources": [
@@ -19877,7 +19877,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -19982,7 +19982,7 @@
         "reviewSample": 9,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 160,
       "averageSpendSources": [
@@ -20002,7 +20002,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -20127,7 +20127,7 @@
       },
       "recommendationRank": 161,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -20232,7 +20232,7 @@
         "reviewSample": 7.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 162,
       "averageSpendSources": [
@@ -20252,7 +20252,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -20357,7 +20357,7 @@
         "reviewSample": 7,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 163,
       "averageSpendSources": [
@@ -20377,7 +20377,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -20502,7 +20502,7 @@
       },
       "recommendationRank": 164,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -20606,7 +20606,7 @@
         "reviewSample": 5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 165,
       "averageSpendSources": [
@@ -20626,7 +20626,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -20731,7 +20731,7 @@
         "reviewSample": 7.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 166,
       "averageSpendSources": [
@@ -20751,7 +20751,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -20856,7 +20856,7 @@
         "reviewSample": 7.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 167,
       "averageSpendSources": [
@@ -20876,7 +20876,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -21001,7 +21001,7 @@
       },
       "recommendationRank": 168,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -21106,7 +21106,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 169,
       "averageSpendSources": [
@@ -21126,7 +21126,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -21251,7 +21251,7 @@
       },
       "recommendationRank": 170,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -21376,7 +21376,7 @@
       },
       "recommendationRank": 171,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -21481,7 +21481,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 172,
       "averageSpendSources": [
@@ -21501,132 +21501,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
-        "via": "amap-adcode",
-        "adcode": "",
-        "note": "高德未收录同名门店，保留待抽查"
-      }
-    },
-    {
-      "id": "zhizhu-tianzhulu",
-      "name": "知竹（天竺路店）",
-      "category": "素食、轻食与创意餐厅",
-      "district": "西湖区",
-      "address": "杭州市西湖区西湖街道天竺路69号",
-      "price": "¥",
-      "description": "灵隐天竺路上的素面与素点小馆，供应菌菇面、素烧卖和手工麻糍。",
-      "recommendationReason": "适合一人食或灵隐游览途中想吃轻量素食的食客。",
-      "reviewSummary": "携程门店页列出天竺路69号，并有菜单、营业时间与公开食客点评。",
-      "mapQuery": "知竹（天竺路店） 杭州市西湖区西湖街道天竺路69号",
-      "sources": [
-        {
-          "name": "携程美食·知竹天竺路店",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/1445060/77907781.html",
-          "type": "地址与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E7%9F%A5%E7%AB%B9%EF%BC%88%E5%A4%A9%E7%AB%BA%E8%B7%AF%E5%BA%97%EF%BC%89%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E8%A5%BF%E6%B9%96%E5%8C%BA%E8%A5%BF%E6%B9%96%E8%A1%97%E9%81%93%E5%A4%A9%E7%AB%BA%E8%B7%AF69%E5%8F%B7",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-09-28",
-      "rating": "公开评分以来源页面实时显示为准",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 53,
-        "currency": "CNY",
-        "label": "人均 ¥53",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/77907781.html",
-        "verifiedAt": "2026-11-05"
-      },
-      "featuredDishes": [
-        {
-          "name": "知味拌面",
-          "price": null
-        },
-        {
-          "name": "牛肝菌面",
-          "price": null
-        },
-        {
-          "name": "山菇手擀面",
-          "price": null
-        },
-        {
-          "name": "宝师父炸酱面",
-          "price": null
-        },
-        {
-          "name": "手工麻糍",
-          "price": null
-        },
-        {
-          "name": "鲜橙芒果汁",
-          "price": null
-        },
-        {
-          "name": "青梅豆糕",
-          "price": null
-        },
-        {
-          "name": "手工藤椒烧卖",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 4,
-        "count": 4,
-        "snippets": [
-          "灵隐山脚，沿着青石板小道漫步步行街。小店藏在步行街一隅，并不显眼。有一角写着供僧名牌，老板娘说店里的素食都是免费供给给僧人们的，结善缘。 「山菇手擀面」 山菇、海米、枸杞佐以香料的汤头特别鲜甜，完全不输给各种肉汤。手擀面有蔬菜汁在里面，绿色的看着就很健康。面条筋道有一点，不是特别足，有点软糯的感觉。 店里还有年糕、小粽子、素饺，品种特别丰富～一人食吃不了那么多，其他客人点了还给我蹭了几张照片，都是善良友好的人呢！",
-          "超级好吃推荐👍👍👍 老板人也超级好 在那里附近租的充电宝 没有归还成功 打电话给老板 老板特意跑出去给弄好的 真是超赞的👍👍👍",
-          "挺有意境的一家素菜馆 环境很棒 小院不大～但温暖备至，身兼数职的院子主人是个小姑娘 菜品做的非常精致 是我喜欢的类型 素菜荤做 很棒！"
-        ],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/77907781.html",
-        "verifiedAt": "2026-11-05"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/0106x120009uotc80BC51_D_750_450_Q90.png?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/77907781.html",
-        "verifiedAt": "2026-11-05"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-11-05",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/77907781.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-11-05"
-      },
-      "recommendationScore": 67,
-      "recommendationBreakdown": {
-        "rating": 32,
-        "reviewSample": 5.8,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 8.7
-      },
-      "recommendationRank": 173,
-      "averageSpendSources": [
-        {
-          "amount": 53,
-          "currency": "CNY",
-          "label": "人均 ¥53",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/77907781.html",
-          "verifiedAt": "2026-11-05"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-11-05",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -21731,9 +21606,9 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
-      "recommendationRank": 174,
+      "recommendationRank": 173,
       "averageSpendSources": [
         {
           "amount": 19,
@@ -21751,7 +21626,132 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
+        "via": "amap-adcode",
+        "adcode": "",
+        "note": "高德未收录同名门店，保留待抽查"
+      }
+    },
+    {
+      "id": "zhizhu-tianzhulu",
+      "name": "知竹（天竺路店）",
+      "category": "素食、轻食与创意餐厅",
+      "district": "西湖区",
+      "address": "杭州市西湖区西湖街道天竺路69号",
+      "price": "¥",
+      "description": "灵隐天竺路上的素面与素点小馆，供应菌菇面、素烧卖和手工麻糍。",
+      "recommendationReason": "适合一人食或灵隐游览途中想吃轻量素食的食客。",
+      "reviewSummary": "携程门店页列出天竺路69号，并有菜单、营业时间与公开食客点评。",
+      "mapQuery": "知竹（天竺路店） 杭州市西湖区西湖街道天竺路69号",
+      "sources": [
+        {
+          "name": "携程美食·知竹天竺路店",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/1445060/77907781.html",
+          "type": "地址与公开评价"
+        },
+        {
+          "name": "高德地图·门店查询",
+          "url": "https://www.amap.com/search?query=%E7%9F%A5%E7%AB%B9%EF%BC%88%E5%A4%A9%E7%AB%BA%E8%B7%AF%E5%BA%97%EF%BC%89%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E8%A5%BF%E6%B9%96%E5%8C%BA%E8%A5%BF%E6%B9%96%E8%A1%97%E9%81%93%E5%A4%A9%E7%AB%BA%E8%B7%AF69%E5%8F%B7",
+          "type": "地图与实时资料"
+        }
+      ],
+      "verifiedAt": "2026-09-28",
+      "rating": "公开评分以来源页面实时显示为准",
+      "verificationStatus": "verified",
+      "averageSpend": {
+        "amount": 53,
+        "currency": "CNY",
+        "label": "人均 ¥53",
+        "sourceName": "携程美食公开餐厅页",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/77907781.html",
+        "verifiedAt": "2026-11-05"
+      },
+      "featuredDishes": [
+        {
+          "name": "知味拌面",
+          "price": null
+        },
+        {
+          "name": "牛肝菌面",
+          "price": null
+        },
+        {
+          "name": "山菇手擀面",
+          "price": null
+        },
+        {
+          "name": "宝师父炸酱面",
+          "price": null
+        },
+        {
+          "name": "手工麻糍",
+          "price": null
+        },
+        {
+          "name": "鲜橙芒果汁",
+          "price": null
+        },
+        {
+          "name": "青梅豆糕",
+          "price": null
+        },
+        {
+          "name": "手工藤椒烧卖",
+          "price": null
+        }
+      ],
+      "reviewInfo": {
+        "rating": 4,
+        "count": 4,
+        "snippets": [
+          "灵隐山脚，沿着青石板小道漫步步行街。小店藏在步行街一隅，并不显眼。有一角写着供僧名牌，老板娘说店里的素食都是免费供给给僧人们的，结善缘。 「山菇手擀面」 山菇、海米、枸杞佐以香料的汤头特别鲜甜，完全不输给各种肉汤。手擀面有蔬菜汁在里面，绿色的看着就很健康。面条筋道有一点，不是特别足，有点软糯的感觉。 店里还有年糕、小粽子、素饺，品种特别丰富～一人食吃不了那么多，其他客人点了还给我蹭了几张照片，都是善良友好的人呢！",
+          "超级好吃推荐👍👍👍 老板人也超级好 在那里附近租的充电宝 没有归还成功 打电话给老板 老板特意跑出去给弄好的 真是超赞的👍👍👍",
+          "挺有意境的一家素菜馆 环境很棒 小院不大～但温暖备至，身兼数职的院子主人是个小姑娘 菜品做的非常精致 是我喜欢的类型 素菜荤做 很棒！"
+        ],
+        "sourceName": "携程美食公开用户点评",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/77907781.html",
+        "verifiedAt": "2026-11-05"
+      },
+      "image": {
+        "url": "https://dimg04.c-ctrip.com/images/0106x120009uotc80BC51_D_750_450_Q90.png?proc=autoorient",
+        "sourceName": "携程美食公开餐厅图片",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/77907781.html",
+        "verifiedAt": "2026-11-05"
+      },
+      "detailVerification": {
+        "checkedAt": "2026-11-05",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/77907781.html",
+        "status": "verified",
+        "method": "public-source-extraction",
+        "lastSuccessfulAt": "2026-11-05"
+      },
+      "recommendationScore": 66,
+      "recommendationBreakdown": {
+        "rating": 32,
+        "reviewSample": 5.8,
+        "featuredDishes": 15,
+        "sources": 5,
+        "freshness": 8.6
+      },
+      "recommendationRank": 174,
+      "averageSpendSources": [
+        {
+          "amount": 53,
+          "currency": "CNY",
+          "label": "人均 ¥53",
+          "sourceName": "携程美食公开餐厅页",
+          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/77907781.html",
+          "verifiedAt": "2026-11-05"
+        }
+      ],
+      "spendVerification": {
+        "checkedAt": "2026-11-05",
+        "sourcesChecked": 1,
+        "status": "verified",
+        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
+      },
+      "locationCheck": {
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -21854,7 +21854,7 @@
         "reviewSample": 5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 175,
       "averageSpendSources": [
@@ -21874,7 +21874,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -21979,7 +21979,7 @@
         "reviewSample": 5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 176,
       "averageSpendSources": [
@@ -21999,7 +21999,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -22103,7 +22103,7 @@
         "reviewSample": 4,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 177,
       "averageSpendSources": [
@@ -22123,7 +22123,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -22228,7 +22228,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 178,
       "averageSpendSources": [
@@ -22248,7 +22248,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -22373,7 +22373,7 @@
       },
       "recommendationRank": 179,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -22496,7 +22496,7 @@
       },
       "recommendationRank": 180,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -22619,7 +22619,7 @@
       },
       "recommendationRank": 181,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -22742,7 +22742,7 @@
       },
       "recommendationRank": 182,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -22865,7 +22865,7 @@
       },
       "recommendationRank": 183,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -22970,7 +22970,7 @@
         "reviewSample": 7,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 184,
       "averageSpendSources": [
@@ -22990,7 +22990,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -23115,7 +23115,7 @@
       },
       "recommendationRank": 185,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -23220,7 +23220,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 186,
       "averageSpendSources": [
@@ -23240,7 +23240,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -23352,11 +23352,11 @@
         "reviewSample": 0,
         "featuredDishes": 11.3,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 187,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -148889,11 +148889,11 @@
         "reviewSample": 25,
         "featuredDishes": 15,
         "sources": 7.5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 1,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -149023,11 +149023,11 @@
         "reviewSample": 24.8,
         "featuredDishes": 15,
         "sources": 7.5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 2,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -149150,7 +149150,7 @@
         "reviewSample": 25,
         "featuredDishes": 15,
         "sources": 10,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 3,
       "detailVerification": {
@@ -149161,7 +149161,7 @@
         "lastSuccessfulAt": "2026-11-05"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -149286,7 +149286,7 @@
       },
       "recommendationRank": 4,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -149411,7 +149411,7 @@
       },
       "recommendationRank": 5,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -149536,7 +149536,7 @@
       },
       "recommendationRank": 6,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -149661,7 +149661,7 @@
       },
       "recommendationRank": 7,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -149786,7 +149786,7 @@
       },
       "recommendationRank": 8,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -149896,11 +149896,11 @@
         "reviewSample": 25,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 9,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -150025,7 +150025,7 @@
       },
       "recommendationRank": 10,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -150157,11 +150157,11 @@
         "reviewSample": 21.8,
         "featuredDishes": 15,
         "sources": 7.5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 11,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -150290,7 +150290,7 @@
       },
       "recommendationRank": 12,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -150415,7 +150415,7 @@
       },
       "recommendationRank": 13,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -150534,7 +150534,7 @@
         "reviewSample": 19.8,
         "featuredDishes": 15,
         "sources": 7.5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 14,
       "detailVerification": {
@@ -150545,7 +150545,7 @@
         "lastSuccessfulAt": "2026-11-05"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -150670,7 +150670,7 @@
       },
       "recommendationRank": 15,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -150795,7 +150795,7 @@
       },
       "recommendationRank": 16,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -150920,7 +150920,7 @@
       },
       "recommendationRank": 17,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -151045,7 +151045,7 @@
       },
       "recommendationRank": 18,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -151163,7 +151163,7 @@
         "reviewSample": 18.6,
         "featuredDishes": 15,
         "sources": 7.5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 19,
       "detailVerification": {
@@ -151174,7 +151174,7 @@
         "lastSuccessfulAt": "2026-11-05"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -151299,7 +151299,7 @@
       },
       "recommendationRank": 20,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -151424,7 +151424,7 @@
       },
       "recommendationRank": 21,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -151549,7 +151549,7 @@
       },
       "recommendationRank": 22,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -151674,7 +151674,7 @@
       },
       "recommendationRank": 23,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -151799,7 +151799,7 @@
       },
       "recommendationRank": 24,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -151924,7 +151924,7 @@
       },
       "recommendationRank": 25,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -152049,7 +152049,7 @@
       },
       "recommendationRank": 26,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -152174,7 +152174,7 @@
       },
       "recommendationRank": 27,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -152295,7 +152295,7 @@
       },
       "recommendationRank": 28,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -152420,7 +152420,7 @@
       },
       "recommendationRank": 29,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -152544,7 +152544,7 @@
       },
       "recommendationRank": 30,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -152669,7 +152669,7 @@
       },
       "recommendationRank": 31,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -152794,7 +152794,7 @@
       },
       "recommendationRank": 32,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -152919,7 +152919,7 @@
       },
       "recommendationRank": 33,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -153044,7 +153044,7 @@
       },
       "recommendationRank": 34,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -153169,7 +153169,7 @@
       },
       "recommendationRank": 35,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -153274,7 +153274,7 @@
         "reviewSample": 15,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 36,
       "averageSpendSources": [
@@ -153294,7 +153294,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -153419,7 +153419,7 @@
       },
       "recommendationRank": 37,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -153544,7 +153544,7 @@
       },
       "recommendationRank": 38,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -153669,7 +153669,7 @@
       },
       "recommendationRank": 39,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -153793,7 +153793,7 @@
       },
       "recommendationRank": 40,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -153918,7 +153918,7 @@
       },
       "recommendationRank": 41,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -154043,7 +154043,7 @@
       },
       "recommendationRank": 42,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -154168,7 +154168,7 @@
       },
       "recommendationRank": 43,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -154293,7 +154293,7 @@
       },
       "recommendationRank": 44,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -154418,7 +154418,7 @@
       },
       "recommendationRank": 45,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -154543,7 +154543,7 @@
       },
       "recommendationRank": 46,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -154648,7 +154648,7 @@
         "reviewSample": 14.3,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 47,
       "averageSpendSources": [
@@ -154668,7 +154668,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -154793,7 +154793,7 @@
       },
       "recommendationRank": 48,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -154898,7 +154898,7 @@
         "reviewSample": 13.2,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 49,
       "averageSpendSources": [
@@ -154918,7 +154918,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -155043,7 +155043,7 @@
       },
       "recommendationRank": 50,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -155168,7 +155168,7 @@
       },
       "recommendationRank": 51,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -155293,7 +155293,7 @@
       },
       "recommendationRank": 52,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -155417,7 +155417,7 @@
       },
       "recommendationRank": 53,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -155542,7 +155542,7 @@
       },
       "recommendationRank": 54,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -155666,7 +155666,7 @@
       },
       "recommendationRank": 55,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -155791,7 +155791,7 @@
       },
       "recommendationRank": 56,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -155920,7 +155920,7 @@
         "lastSuccessfulAt": "2026-11-05"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -156051,7 +156051,7 @@
       },
       "recommendationRank": 58,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -156175,7 +156175,7 @@
       },
       "recommendationRank": 59,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -156300,7 +156300,7 @@
       },
       "recommendationRank": 60,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -156425,7 +156425,7 @@
       },
       "recommendationRank": 61,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -156550,7 +156550,7 @@
       },
       "recommendationRank": 62,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -156675,7 +156675,7 @@
       },
       "recommendationRank": 63,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -156800,7 +156800,7 @@
       },
       "recommendationRank": 64,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -156925,11 +156925,11 @@
         "reviewSample": 11.9,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 65,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -157054,7 +157054,7 @@
       },
       "recommendationRank": 66,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -157171,11 +157171,11 @@
         "reviewSample": 16.2,
         "featuredDishes": 7.5,
         "sources": 10,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 67,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -157300,7 +157300,7 @@
       },
       "recommendationRank": 68,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -157423,7 +157423,7 @@
       },
       "recommendationRank": 69,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -157548,7 +157548,7 @@
       },
       "recommendationRank": 70,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -157673,7 +157673,7 @@
       },
       "recommendationRank": 71,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -157778,7 +157778,7 @@
         "reviewSample": 8,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 72,
       "averageSpendSources": [
@@ -157798,7 +157798,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -157923,7 +157923,7 @@
       },
       "recommendationRank": 73,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -158048,7 +158048,7 @@
       },
       "recommendationRank": 74,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -158153,7 +158153,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 75,
       "averageSpendSources": [
@@ -158173,7 +158173,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -158278,7 +158278,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 76,
       "averageSpendSources": [
@@ -158298,7 +158298,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -158403,7 +158403,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 77,
       "averageSpendSources": [
@@ -158423,7 +158423,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -158548,7 +158548,7 @@
       },
       "recommendationRank": 78,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -158673,7 +158673,7 @@
       },
       "recommendationRank": 79,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -158798,7 +158798,7 @@
       },
       "recommendationRank": 80,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -158923,7 +158923,7 @@
       },
       "recommendationRank": 81,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -159028,7 +159028,7 @@
         "reviewSample": 7,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 82,
       "averageSpendSources": [
@@ -159048,7 +159048,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -159173,7 +159173,7 @@
       },
       "recommendationRank": 83,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -159278,7 +159278,7 @@
         "reviewSample": 7,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 84,
       "averageSpendSources": [
@@ -159298,7 +159298,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -159403,7 +159403,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 85,
       "averageSpendSources": [
@@ -159423,7 +159423,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -159528,7 +159528,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 86,
       "averageSpendSources": [
@@ -159548,7 +159548,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -159673,7 +159673,7 @@
       },
       "recommendationRank": 87,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -159778,7 +159778,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 88,
       "averageSpendSources": [
@@ -159798,7 +159798,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -159923,7 +159923,7 @@
       },
       "recommendationRank": 89,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -160048,7 +160048,7 @@
       },
       "recommendationRank": 90,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -160173,7 +160173,7 @@
       },
       "recommendationRank": 91,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -160298,7 +160298,7 @@
       },
       "recommendationRank": 92,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -160421,7 +160421,7 @@
       },
       "recommendationRank": 93,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -160546,7 +160546,7 @@
       },
       "recommendationRank": 94,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -160671,7 +160671,7 @@
       },
       "recommendationRank": 95,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -160796,7 +160796,7 @@
       },
       "recommendationRank": 96,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -160901,7 +160901,7 @@
         "reviewSample": 7,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 97,
       "averageSpendSources": [
@@ -160921,7 +160921,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -161026,7 +161026,7 @@
         "reviewSample": 7,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 98,
       "averageSpendSources": [
@@ -161046,7 +161046,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -161171,7 +161171,7 @@
       },
       "recommendationRank": 99,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -161296,7 +161296,7 @@
       },
       "recommendationRank": 100,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -161401,7 +161401,7 @@
         "reviewSample": 5.8,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 101,
       "averageSpendSources": [
@@ -161421,7 +161421,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -161546,7 +161546,7 @@
       },
       "recommendationRank": 102,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -161670,7 +161670,7 @@
       },
       "recommendationRank": 103,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -161793,7 +161793,7 @@
       },
       "recommendationRank": 104,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -161917,7 +161917,7 @@
       },
       "recommendationRank": 105,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -162042,7 +162042,7 @@
       },
       "recommendationRank": 106,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -162166,7 +162166,7 @@
       },
       "recommendationRank": 107,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -162291,7 +162291,7 @@
       },
       "recommendationRank": 108,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -162416,7 +162416,7 @@
       },
       "recommendationRank": 109,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -162541,7 +162541,7 @@
       },
       "recommendationRank": 110,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -162646,7 +162646,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 111,
       "averageSpendSources": [
@@ -162666,7 +162666,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -162771,7 +162771,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 112,
       "averageSpendSources": [
@@ -162791,7 +162791,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -162916,7 +162916,7 @@
       },
       "recommendationRank": 113,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -163021,7 +163021,7 @@
         "reviewSample": 5.8,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 114,
       "averageSpendSources": [
@@ -163041,7 +163041,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -163166,7 +163166,7 @@
       },
       "recommendationRank": 115,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -163289,7 +163289,7 @@
       },
       "recommendationRank": 116,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -163414,7 +163414,7 @@
       },
       "recommendationRank": 117,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -163539,7 +163539,7 @@
       },
       "recommendationRank": 118,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -163664,7 +163664,7 @@
       },
       "recommendationRank": 119,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -163768,7 +163768,7 @@
         "reviewSample": 7.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 120,
       "averageSpendSources": [
@@ -163788,7 +163788,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -163913,7 +163913,7 @@
       },
       "recommendationRank": 121,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -164038,7 +164038,7 @@
       },
       "recommendationRank": 122,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -164163,7 +164163,7 @@
       },
       "recommendationRank": 123,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -164288,257 +164288,7 @@
       },
       "recommendationRank": 124,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
-        "via": "amap-adcode",
-        "adcode": "",
-        "note": "高德未收录同名门店，保留待抽查"
-      }
-    },
-    {
-      "id": "qingchun-pumen-baileqiao",
-      "name": "庆春朴门",
-      "category": "素食、轻食与创意餐厅",
-      "district": "西湖区",
-      "address": "杭州市西湖区灵隐支路白乐桥181号",
-      "price": "¥¥",
-      "description": "庭院式创意素食餐厅，以菌菇、时蔬和杭州元素重新组合素食菜品。",
-      "recommendationReason": "适合约会、家庭聚餐或希望体验精致素食与庭院环境的食客。",
-      "reviewSummary": "携程门店页列出白乐桥181号，并收录推荐菜、营业时间和公开点评。",
-      "mapQuery": "庆春朴门 杭州市西湖区灵隐支路白乐桥181号",
-      "sources": [
-        {
-          "name": "携程美食·庆春朴门",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
-          "type": "地址与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E5%BA%86%E6%98%A5%E6%9C%B4%E9%97%A8%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E8%A5%BF%E6%B9%96%E5%8C%BA%E7%81%B5%E9%9A%90%E6%94%AF%E8%B7%AF%E7%99%BD%E4%B9%90%E6%A1%A5181%E5%8F%B7",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-09-28",
-      "rating": "公开评分以来源页面实时显示为准",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 107,
-        "currency": "CNY",
-        "label": "人均 ¥107",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
-        "verifiedAt": "2026-11-05"
-      },
-      "featuredDishes": [
-        {
-          "name": "黑松露炒饭",
-          "price": null
-        },
-        {
-          "name": "桂花荔浦芋头",
-          "price": null
-        },
-        {
-          "name": "泰式冬阴功汤",
-          "price": null
-        },
-        {
-          "name": "糖醋莲藕",
-          "price": "¥ 26"
-        },
-        {
-          "name": "木姜子油拌苗菜",
-          "price": null
-        },
-        {
-          "name": "榛果米浆",
-          "price": null
-        },
-        {
-          "name": "有机石磨黑麦馄饨",
-          "price": null
-        },
-        {
-          "name": "黑松露小笼包",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 4.5,
-        "count": 4,
-        "snippets": [
-          "订好赴杭机票后，真“朴门”便第一时间将庆春朴门的灵隐店加入了打卡计划中。 🌿 迎着杭城深秋的薄雾，从龙井一路骑行前往灵隐。灵隐支路上各色食肆茶馆鳞次栉比，沿着路一番寻找，终是看到那副熟悉的招牌静静地立在路旁。品牌对禅意的诠释在这家首店体现得淋漓尽致——走入大门的木门，沿着石板路走入餐厅，院内栽种的树木将餐厅的灯光藏匿在树影之下，仅凭地上的石灯照射着路面。餐厅外是一片沙海，被餐厅内的灯光照得明亮，如果是白天抵达则更能体会到那一丝禅意。 🍲 桂花荔浦芋头 这家店使用的是冷做的方式，入口的一瞬间冰凉的口感激发了桂花酱的甜，比热的更能感受到桂花酱那丝清甜。榄菜苦瓜 生苦瓜带着强烈的清脆口感，入口能感受到丰沛的汁水在嘴里迸发，榄菜主要选用的是浸泡榄菜的油，带着榄菜的香气和油润的口感，这道菜主要看的是食材的选材，店家只是简单做了食材的搭配，没能看见太多的研发痕迹。红油榆耳 店员介绍榆耳是榆树上生长的菌菇类食材，肥厚的榆耳口感扎实，只是调味的红油滋味略显寡淡，整体只吃到红油的油润感，少了一丝盐味。佛陀饭 各色蔬菜碎和坚果进行搭配的一款饭，香油和酱油调配的酱汁滋味恰到好处，吃起来有一丝油润和微微的甜感。笋干 是本次最让人惊艳的菜品，红线椒为整道菜提供微辣的底味，金不换带来了丰富的香气，笋排口感扎实，酱汁口味适中。庆春米糕 口感粘度较高，内馅的红豆沙带着一丝椰香，但是口味偏甜且油腻，略显一般。 这一次杭城的庆春朴门体验，有令人惊艳的菜品，也有没有达到预期的菜品。看到此次冬季出新，期待品尝到惊艳的仿荤菜品，结果菜单上皆是常规的菜品。",
-          "自从大蔬无界从杭州消失以后，庆春食堂就在杭城素食界独领风骚，新年才伊始，就连续开出了两家新店，这家坐落在景区的朴门，绝对是重磅出击！ 目前餐厅暂行会员预约制，想要去这里的小伙伴记得提前跟店长预约哟！！ 📍位置：灵隐支路白乐桥181号 🌿环境：倾巨资打造的庭院，不漂亮怎么可能，卡座包厢都禅意十足，在这里吃饭就是种享受。 🛎服务：不论是入门的迎宾，还是卡座包厢宾至如归的服务，都是非常令人满意的。 「泰式冬阴功汤」 这道菜就不用说了，庆春家的必点招牌菜，不完全照搬泰国的冬阴功汤，以酸爽鲜香为特色，好喝到欲罢不能，我是蛮喜欢的，每回去都会点！ 「泰式芒果彩米饭」 米饭颜色五彩缤纷，视觉上就很出彩，口感上不输阵十分软糯，芒果则很鲜甜，也是值得推荐的~ 「佛陀碗」 颜值也是一等一的高，摆盘精细，色彩搭配的漂亮，吃之前需要搅拌均匀，第一次尝试，味道还挺不错的呢！ 「香蘭薏米水」 一上来就仙气飘飘，仪式感就很棒！做得很醇厚，比常规版更浓郁，也是点击率很高的饮品之一~ 天然手工，质朴本味的素食，用心专研的菜式，让宾客连吃素食都能吃得很惊喜很开心，这也是我喜欢它家的原因~",
-          "前滩一家比较不错的素食餐厅，味道不错，清淡，健康，养生，还能看看前滩美景，作为比较多，基本不需要等位，然后黑松露炒饭也很好吃，肉串也做出来美味，烧烤的感觉，唯一就是大堂位置比较吵闹，也没有买单优惠，其他还可以"
-        ],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
-        "verifiedAt": "2026-11-05"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/01A2q120008ss7jqwBF24_D_750_450_Q90.jpg?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
-        "verifiedAt": "2026-11-05"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-11-05",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-11-05"
-      },
-      "recommendationScore": 71,
-      "recommendationBreakdown": {
-        "rating": 36,
-        "reviewSample": 5.8,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 8.7
-      },
-      "recommendationRank": 125,
-      "averageSpendSources": [
-        {
-          "amount": 107,
-          "currency": "CNY",
-          "label": "人均 ¥107",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
-          "verifiedAt": "2026-11-05"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-11-05",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "locationCheck": {
-        "checkedAt": "2026-11-07",
-        "via": "amap-adcode",
-        "adcode": "",
-        "note": "高德未收录同名门店，保留待抽查"
-      }
-    },
-    {
-      "id": "suxin-cuiyuan",
-      "name": "素心素食（翠苑店）",
-      "category": "素食、轻食与创意餐厅",
-      "district": "西湖区",
-      "address": "杭州市西湖区文一路294号城西商贸城附房二层216室",
-      "price": "¥",
-      "description": "翠苑一带的素食自助餐厅。",
-      "recommendationReason": "适合日常午餐和希望菜品选择较多的素食者。",
-      "reviewSummary": "Trip.com列出二层216室、4.5分、营业时段和公开评价。",
-      "mapQuery": "素心素食（翠苑店） 杭州市西湖区文一路294号城西商贸城附房二层216室",
-      "sources": [
-        {
-          "name": "Trip.com·素心素食（翠苑店）",
-          "url": "https://us.trip.com/restaurant/china/hangzhou/detail/restaurant-122673244/",
-          "type": "地址与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E7%B4%A0%E5%BF%83%E7%B4%A0%E9%A3%9F%EF%BC%88%E7%BF%A0%E8%8B%91%E5%BA%97%EF%BC%89%20%E6%9D%AD%E5%B7%9E",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-09-28",
-      "rating": "4.5（Trip.com公开评分，可能随时间变化）",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 35,
-        "currency": "CNY",
-        "label": "人均 ¥35",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/122673244.html",
-        "verifiedAt": "2026-11-05"
-      },
-      "featuredDishes": [
-        {
-          "name": "炸锅巴",
-          "price": null
-        },
-        {
-          "name": "麻辣香锅",
-          "price": null
-        },
-        {
-          "name": "素肉沫拌面",
-          "price": null
-        },
-        {
-          "name": "素牛肉干",
-          "price": null
-        },
-        {
-          "name": "素食火锅",
-          "price": null
-        },
-        {
-          "name": "海苔手卷",
-          "price": null
-        },
-        {
-          "name": "素布朗尼卷",
-          "price": null
-        },
-        {
-          "name": "手卷寿司",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 4.5,
-        "count": 4,
-        "snippets": [
-          "烧香团队晚餐，70人左右，能用吗，怎么联系",
-          "就在公司附近，中午经常去吃，挺不错的",
-          "面包种类还算丰富 吃的人很多的"
-        ],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/122673244.html",
-        "verifiedAt": "2026-11-05"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/10030y000000mfrofF5B4_D_750_450_Q90.jpg?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/122673244.html",
-        "verifiedAt": "2026-11-05"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-11-05",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/122673244.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-11-05"
-      },
-      "recommendationScore": 71,
-      "recommendationBreakdown": {
-        "rating": 36,
-        "reviewSample": 5.8,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 8.7
-      },
-      "recommendationRank": 126,
-      "averageSpendSources": [
-        {
-          "amount": 35,
-          "currency": "CNY",
-          "label": "人均 ¥35",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/122673244.html",
-          "verifiedAt": "2026-11-05"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-11-05",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -164659,9 +164409,9 @@
         "sources": 5,
         "freshness": 8.7
       },
-      "recommendationRank": 127,
+      "recommendationRank": 125,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -164782,9 +164532,9 @@
         "sources": 5,
         "freshness": 8.7
       },
-      "recommendationRank": 128,
+      "recommendationRank": 126,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -164905,9 +164655,9 @@
         "sources": 5,
         "freshness": 8.7
       },
-      "recommendationRank": 129,
+      "recommendationRank": 127,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -165028,9 +164778,9 @@
         "sources": 5,
         "freshness": 8.7
       },
-      "recommendationRank": 130,
+      "recommendationRank": 128,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -165133,9 +164883,9 @@
         "reviewSample": 2.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
-      "recommendationRank": 131,
+      "recommendationRank": 129,
       "averageSpendSources": [
         {
           "amount": 189,
@@ -165153,7 +164903,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -165256,9 +165006,9 @@
         "reviewSample": 2.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
-      "recommendationRank": 132,
+      "recommendationRank": 130,
       "averageSpendSources": [
         {
           "amount": 92,
@@ -165276,7 +165026,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -165397,9 +165147,9 @@
         "sources": 5,
         "freshness": 8.9
       },
-      "recommendationRank": 133,
+      "recommendationRank": 131,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -165520,9 +165270,9 @@
         "sources": 5,
         "freshness": 8.7
       },
-      "recommendationRank": 134,
+      "recommendationRank": 132,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -165645,9 +165395,9 @@
         "sources": 5,
         "freshness": 8.7
       },
-      "recommendationRank": 135,
+      "recommendationRank": 133,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -165752,9 +165502,9 @@
         "reviewSample": 7,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
-      "recommendationRank": 136,
+      "recommendationRank": 134,
       "averageSpendSources": [
         {
           "amount": 26,
@@ -165772,7 +165522,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -165895,9 +165645,9 @@
         "sources": 5,
         "freshness": 8.9
       },
-      "recommendationRank": 137,
+      "recommendationRank": 135,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -166020,9 +165770,9 @@
         "sources": 5,
         "freshness": 8.7
       },
-      "recommendationRank": 138,
+      "recommendationRank": 136,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -166127,9 +165877,9 @@
         "reviewSample": 7,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
-      "recommendationRank": 139,
+      "recommendationRank": 137,
       "averageSpendSources": [
         {
           "amount": 66,
@@ -166147,7 +165897,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -166270,9 +166020,9 @@
         "sources": 5,
         "freshness": 8.7
       },
-      "recommendationRank": 140,
+      "recommendationRank": 138,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -166377,9 +166127,9 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
-      "recommendationRank": 141,
+      "recommendationRank": 139,
       "averageSpendSources": [
         {
           "amount": 110,
@@ -166397,7 +166147,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -166516,9 +166266,9 @@
         "sources": 5,
         "freshness": 9.7
       },
-      "recommendationRank": 142,
+      "recommendationRank": 140,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -166623,9 +166373,9 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
-      "recommendationRank": 143,
+      "recommendationRank": 141,
       "averageSpendSources": [
         {
           "amount": 42,
@@ -166643,7 +166393,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -166748,9 +166498,9 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
-      "recommendationRank": 144,
+      "recommendationRank": 142,
       "averageSpendSources": [
         {
           "amount": 83,
@@ -166768,7 +166518,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -166873,9 +166623,9 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
-      "recommendationRank": 145,
+      "recommendationRank": 143,
       "averageSpendSources": [
         {
           "amount": 20,
@@ -166893,7 +166643,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -166998,9 +166748,9 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
-      "recommendationRank": 146,
+      "recommendationRank": 144,
       "averageSpendSources": [
         {
           "amount": 28,
@@ -167018,7 +166768,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -167123,9 +166873,9 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
-      "recommendationRank": 147,
+      "recommendationRank": 145,
       "averageSpendSources": [
         {
           "amount": 20,
@@ -167143,7 +166893,257 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
+        "via": "amap-adcode",
+        "adcode": "",
+        "note": "高德未收录同名门店，保留待抽查"
+      }
+    },
+    {
+      "id": "qingchun-pumen-baileqiao",
+      "name": "庆春朴门",
+      "category": "素食、轻食与创意餐厅",
+      "district": "西湖区",
+      "address": "杭州市西湖区灵隐支路白乐桥181号",
+      "price": "¥¥",
+      "description": "庭院式创意素食餐厅，以菌菇、时蔬和杭州元素重新组合素食菜品。",
+      "recommendationReason": "适合约会、家庭聚餐或希望体验精致素食与庭院环境的食客。",
+      "reviewSummary": "携程门店页列出白乐桥181号，并收录推荐菜、营业时间和公开点评。",
+      "mapQuery": "庆春朴门 杭州市西湖区灵隐支路白乐桥181号",
+      "sources": [
+        {
+          "name": "携程美食·庆春朴门",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
+          "type": "地址与公开评价"
+        },
+        {
+          "name": "高德地图·门店查询",
+          "url": "https://www.amap.com/search?query=%E5%BA%86%E6%98%A5%E6%9C%B4%E9%97%A8%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E8%A5%BF%E6%B9%96%E5%8C%BA%E7%81%B5%E9%9A%90%E6%94%AF%E8%B7%AF%E7%99%BD%E4%B9%90%E6%A1%A5181%E5%8F%B7",
+          "type": "地图与实时资料"
+        }
+      ],
+      "verifiedAt": "2026-09-28",
+      "rating": "公开评分以来源页面实时显示为准",
+      "verificationStatus": "verified",
+      "averageSpend": {
+        "amount": 107,
+        "currency": "CNY",
+        "label": "人均 ¥107",
+        "sourceName": "携程美食公开餐厅页",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
+        "verifiedAt": "2026-11-05"
+      },
+      "featuredDishes": [
+        {
+          "name": "黑松露炒饭",
+          "price": null
+        },
+        {
+          "name": "桂花荔浦芋头",
+          "price": null
+        },
+        {
+          "name": "泰式冬阴功汤",
+          "price": null
+        },
+        {
+          "name": "糖醋莲藕",
+          "price": "¥ 26"
+        },
+        {
+          "name": "木姜子油拌苗菜",
+          "price": null
+        },
+        {
+          "name": "榛果米浆",
+          "price": null
+        },
+        {
+          "name": "有机石磨黑麦馄饨",
+          "price": null
+        },
+        {
+          "name": "黑松露小笼包",
+          "price": null
+        }
+      ],
+      "reviewInfo": {
+        "rating": 4.5,
+        "count": 4,
+        "snippets": [
+          "订好赴杭机票后，真“朴门”便第一时间将庆春朴门的灵隐店加入了打卡计划中。 🌿 迎着杭城深秋的薄雾，从龙井一路骑行前往灵隐。灵隐支路上各色食肆茶馆鳞次栉比，沿着路一番寻找，终是看到那副熟悉的招牌静静地立在路旁。品牌对禅意的诠释在这家首店体现得淋漓尽致——走入大门的木门，沿着石板路走入餐厅，院内栽种的树木将餐厅的灯光藏匿在树影之下，仅凭地上的石灯照射着路面。餐厅外是一片沙海，被餐厅内的灯光照得明亮，如果是白天抵达则更能体会到那一丝禅意。 🍲 桂花荔浦芋头 这家店使用的是冷做的方式，入口的一瞬间冰凉的口感激发了桂花酱的甜，比热的更能感受到桂花酱那丝清甜。榄菜苦瓜 生苦瓜带着强烈的清脆口感，入口能感受到丰沛的汁水在嘴里迸发，榄菜主要选用的是浸泡榄菜的油，带着榄菜的香气和油润的口感，这道菜主要看的是食材的选材，店家只是简单做了食材的搭配，没能看见太多的研发痕迹。红油榆耳 店员介绍榆耳是榆树上生长的菌菇类食材，肥厚的榆耳口感扎实，只是调味的红油滋味略显寡淡，整体只吃到红油的油润感，少了一丝盐味。佛陀饭 各色蔬菜碎和坚果进行搭配的一款饭，香油和酱油调配的酱汁滋味恰到好处，吃起来有一丝油润和微微的甜感。笋干 是本次最让人惊艳的菜品，红线椒为整道菜提供微辣的底味，金不换带来了丰富的香气，笋排口感扎实，酱汁口味适中。庆春米糕 口感粘度较高，内馅的红豆沙带着一丝椰香，但是口味偏甜且油腻，略显一般。 这一次杭城的庆春朴门体验，有令人惊艳的菜品，也有没有达到预期的菜品。看到此次冬季出新，期待品尝到惊艳的仿荤菜品，结果菜单上皆是常规的菜品。",
+          "自从大蔬无界从杭州消失以后，庆春食堂就在杭城素食界独领风骚，新年才伊始，就连续开出了两家新店，这家坐落在景区的朴门，绝对是重磅出击！ 目前餐厅暂行会员预约制，想要去这里的小伙伴记得提前跟店长预约哟！！ 📍位置：灵隐支路白乐桥181号 🌿环境：倾巨资打造的庭院，不漂亮怎么可能，卡座包厢都禅意十足，在这里吃饭就是种享受。 🛎服务：不论是入门的迎宾，还是卡座包厢宾至如归的服务，都是非常令人满意的。 「泰式冬阴功汤」 这道菜就不用说了，庆春家的必点招牌菜，不完全照搬泰国的冬阴功汤，以酸爽鲜香为特色，好喝到欲罢不能，我是蛮喜欢的，每回去都会点！ 「泰式芒果彩米饭」 米饭颜色五彩缤纷，视觉上就很出彩，口感上不输阵十分软糯，芒果则很鲜甜，也是值得推荐的~ 「佛陀碗」 颜值也是一等一的高，摆盘精细，色彩搭配的漂亮，吃之前需要搅拌均匀，第一次尝试，味道还挺不错的呢！ 「香蘭薏米水」 一上来就仙气飘飘，仪式感就很棒！做得很醇厚，比常规版更浓郁，也是点击率很高的饮品之一~ 天然手工，质朴本味的素食，用心专研的菜式，让宾客连吃素食都能吃得很惊喜很开心，这也是我喜欢它家的原因~",
+          "前滩一家比较不错的素食餐厅，味道不错，清淡，健康，养生，还能看看前滩美景，作为比较多，基本不需要等位，然后黑松露炒饭也很好吃，肉串也做出来美味，烧烤的感觉，唯一就是大堂位置比较吵闹，也没有买单优惠，其他还可以"
+        ],
+        "sourceName": "携程美食公开用户点评",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
+        "verifiedAt": "2026-11-05"
+      },
+      "image": {
+        "url": "https://dimg04.c-ctrip.com/images/01A2q120008ss7jqwBF24_D_750_450_Q90.jpg?proc=autoorient",
+        "sourceName": "携程美食公开餐厅图片",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
+        "verifiedAt": "2026-11-05"
+      },
+      "detailVerification": {
+        "checkedAt": "2026-11-05",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
+        "status": "verified",
+        "method": "public-source-extraction",
+        "lastSuccessfulAt": "2026-11-05"
+      },
+      "recommendationScore": 70,
+      "recommendationBreakdown": {
+        "rating": 36,
+        "reviewSample": 5.8,
+        "featuredDishes": 15,
+        "sources": 5,
+        "freshness": 8.6
+      },
+      "recommendationRank": 146,
+      "averageSpendSources": [
+        {
+          "amount": 107,
+          "currency": "CNY",
+          "label": "人均 ¥107",
+          "sourceName": "携程美食公开餐厅页",
+          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/25044096.html",
+          "verifiedAt": "2026-11-05"
+        }
+      ],
+      "spendVerification": {
+        "checkedAt": "2026-11-05",
+        "sourcesChecked": 1,
+        "status": "verified",
+        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
+      },
+      "locationCheck": {
+        "checkedAt": "2026-11-08",
+        "via": "amap-adcode",
+        "adcode": "",
+        "note": "高德未收录同名门店，保留待抽查"
+      }
+    },
+    {
+      "id": "suxin-cuiyuan",
+      "name": "素心素食（翠苑店）",
+      "category": "素食、轻食与创意餐厅",
+      "district": "西湖区",
+      "address": "杭州市西湖区文一路294号城西商贸城附房二层216室",
+      "price": "¥",
+      "description": "翠苑一带的素食自助餐厅。",
+      "recommendationReason": "适合日常午餐和希望菜品选择较多的素食者。",
+      "reviewSummary": "Trip.com列出二层216室、4.5分、营业时段和公开评价。",
+      "mapQuery": "素心素食（翠苑店） 杭州市西湖区文一路294号城西商贸城附房二层216室",
+      "sources": [
+        {
+          "name": "Trip.com·素心素食（翠苑店）",
+          "url": "https://us.trip.com/restaurant/china/hangzhou/detail/restaurant-122673244/",
+          "type": "地址与公开评价"
+        },
+        {
+          "name": "高德地图·门店查询",
+          "url": "https://www.amap.com/search?query=%E7%B4%A0%E5%BF%83%E7%B4%A0%E9%A3%9F%EF%BC%88%E7%BF%A0%E8%8B%91%E5%BA%97%EF%BC%89%20%E6%9D%AD%E5%B7%9E",
+          "type": "地图与实时资料"
+        }
+      ],
+      "verifiedAt": "2026-09-28",
+      "rating": "4.5（Trip.com公开评分，可能随时间变化）",
+      "verificationStatus": "verified",
+      "averageSpend": {
+        "amount": 35,
+        "currency": "CNY",
+        "label": "人均 ¥35",
+        "sourceName": "携程美食公开餐厅页",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/122673244.html",
+        "verifiedAt": "2026-11-05"
+      },
+      "featuredDishes": [
+        {
+          "name": "炸锅巴",
+          "price": null
+        },
+        {
+          "name": "麻辣香锅",
+          "price": null
+        },
+        {
+          "name": "素肉沫拌面",
+          "price": null
+        },
+        {
+          "name": "素牛肉干",
+          "price": null
+        },
+        {
+          "name": "素食火锅",
+          "price": null
+        },
+        {
+          "name": "海苔手卷",
+          "price": null
+        },
+        {
+          "name": "素布朗尼卷",
+          "price": null
+        },
+        {
+          "name": "手卷寿司",
+          "price": null
+        }
+      ],
+      "reviewInfo": {
+        "rating": 4.5,
+        "count": 4,
+        "snippets": [
+          "烧香团队晚餐，70人左右，能用吗，怎么联系",
+          "就在公司附近，中午经常去吃，挺不错的",
+          "面包种类还算丰富 吃的人很多的"
+        ],
+        "sourceName": "携程美食公开用户点评",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/122673244.html",
+        "verifiedAt": "2026-11-05"
+      },
+      "image": {
+        "url": "https://dimg04.c-ctrip.com/images/10030y000000mfrofF5B4_D_750_450_Q90.jpg?proc=autoorient",
+        "sourceName": "携程美食公开餐厅图片",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/122673244.html",
+        "verifiedAt": "2026-11-05"
+      },
+      "detailVerification": {
+        "checkedAt": "2026-11-05",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/122673244.html",
+        "status": "verified",
+        "method": "public-source-extraction",
+        "lastSuccessfulAt": "2026-11-05"
+      },
+      "recommendationScore": 70,
+      "recommendationBreakdown": {
+        "rating": 36,
+        "reviewSample": 5.8,
+        "featuredDishes": 15,
+        "sources": 5,
+        "freshness": 8.6
+      },
+      "recommendationRank": 147,
+      "averageSpendSources": [
+        {
+          "amount": 35,
+          "currency": "CNY",
+          "label": "人均 ¥35",
+          "sourceName": "携程美食公开餐厅页",
+          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/122673244.html",
+          "verifiedAt": "2026-11-05"
+        }
+      ],
+      "spendVerification": {
+        "checkedAt": "2026-11-05",
+        "sourcesChecked": 1,
+        "status": "verified",
+        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
+      },
+      "locationCheck": {
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -167268,7 +167268,7 @@
       },
       "recommendationRank": 148,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -167393,7 +167393,7 @@
       },
       "recommendationRank": 149,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -167498,7 +167498,7 @@
         "reviewSample": 7.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 150,
       "averageSpendSources": [
@@ -167518,7 +167518,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -167623,7 +167623,7 @@
         "reviewSample": 7,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 151,
       "averageSpendSources": [
@@ -167643,7 +167643,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -167768,7 +167768,7 @@
       },
       "recommendationRank": 152,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -167893,7 +167893,7 @@
       },
       "recommendationRank": 153,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -168018,7 +168018,7 @@
       },
       "recommendationRank": 154,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -168123,7 +168123,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 155,
       "averageSpendSources": [
@@ -168143,7 +168143,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -168247,7 +168247,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 156,
       "averageSpendSources": [
@@ -168267,7 +168267,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -168368,7 +168368,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 157,
       "averageSpendSources": [
@@ -168388,7 +168388,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -168513,7 +168513,7 @@
       },
       "recommendationRank": 158,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -168618,7 +168618,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 159,
       "averageSpendSources": [
@@ -168638,7 +168638,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -168743,7 +168743,7 @@
         "reviewSample": 9,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 160,
       "averageSpendSources": [
@@ -168763,7 +168763,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -168888,7 +168888,7 @@
       },
       "recommendationRank": 161,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -168993,7 +168993,7 @@
         "reviewSample": 7.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 162,
       "averageSpendSources": [
@@ -169013,7 +169013,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -169118,7 +169118,7 @@
         "reviewSample": 7,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 163,
       "averageSpendSources": [
@@ -169138,7 +169138,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -169263,7 +169263,7 @@
       },
       "recommendationRank": 164,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -169367,7 +169367,7 @@
         "reviewSample": 5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 165,
       "averageSpendSources": [
@@ -169387,7 +169387,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -169492,7 +169492,7 @@
         "reviewSample": 7.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 166,
       "averageSpendSources": [
@@ -169512,7 +169512,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -169617,7 +169617,7 @@
         "reviewSample": 7.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 167,
       "averageSpendSources": [
@@ -169637,7 +169637,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -169762,7 +169762,7 @@
       },
       "recommendationRank": 168,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -169867,7 +169867,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 169,
       "averageSpendSources": [
@@ -169887,7 +169887,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -170012,7 +170012,7 @@
       },
       "recommendationRank": 170,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -170137,7 +170137,7 @@
       },
       "recommendationRank": 171,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -170242,7 +170242,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 172,
       "averageSpendSources": [
@@ -170262,132 +170262,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
-        "via": "amap-adcode",
-        "adcode": "",
-        "note": "高德未收录同名门店，保留待抽查"
-      }
-    },
-    {
-      "id": "zhizhu-tianzhulu",
-      "name": "知竹（天竺路店）",
-      "category": "素食、轻食与创意餐厅",
-      "district": "西湖区",
-      "address": "杭州市西湖区西湖街道天竺路69号",
-      "price": "¥",
-      "description": "灵隐天竺路上的素面与素点小馆，供应菌菇面、素烧卖和手工麻糍。",
-      "recommendationReason": "适合一人食或灵隐游览途中想吃轻量素食的食客。",
-      "reviewSummary": "携程门店页列出天竺路69号，并有菜单、营业时间与公开食客点评。",
-      "mapQuery": "知竹（天竺路店） 杭州市西湖区西湖街道天竺路69号",
-      "sources": [
-        {
-          "name": "携程美食·知竹天竺路店",
-          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/1445060/77907781.html",
-          "type": "地址与公开评价"
-        },
-        {
-          "name": "高德地图·门店查询",
-          "url": "https://www.amap.com/search?query=%E7%9F%A5%E7%AB%B9%EF%BC%88%E5%A4%A9%E7%AB%BA%E8%B7%AF%E5%BA%97%EF%BC%89%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E8%A5%BF%E6%B9%96%E5%8C%BA%E8%A5%BF%E6%B9%96%E8%A1%97%E9%81%93%E5%A4%A9%E7%AB%BA%E8%B7%AF69%E5%8F%B7",
-          "type": "地图与实时资料"
-        }
-      ],
-      "verifiedAt": "2026-09-28",
-      "rating": "公开评分以来源页面实时显示为准",
-      "verificationStatus": "verified",
-      "averageSpend": {
-        "amount": 53,
-        "currency": "CNY",
-        "label": "人均 ¥53",
-        "sourceName": "携程美食公开餐厅页",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/77907781.html",
-        "verifiedAt": "2026-11-05"
-      },
-      "featuredDishes": [
-        {
-          "name": "知味拌面",
-          "price": null
-        },
-        {
-          "name": "牛肝菌面",
-          "price": null
-        },
-        {
-          "name": "山菇手擀面",
-          "price": null
-        },
-        {
-          "name": "宝师父炸酱面",
-          "price": null
-        },
-        {
-          "name": "手工麻糍",
-          "price": null
-        },
-        {
-          "name": "鲜橙芒果汁",
-          "price": null
-        },
-        {
-          "name": "青梅豆糕",
-          "price": null
-        },
-        {
-          "name": "手工藤椒烧卖",
-          "price": null
-        }
-      ],
-      "reviewInfo": {
-        "rating": 4,
-        "count": 4,
-        "snippets": [
-          "灵隐山脚，沿着青石板小道漫步步行街。小店藏在步行街一隅，并不显眼。有一角写着供僧名牌，老板娘说店里的素食都是免费供给给僧人们的，结善缘。 「山菇手擀面」 山菇、海米、枸杞佐以香料的汤头特别鲜甜，完全不输给各种肉汤。手擀面有蔬菜汁在里面，绿色的看着就很健康。面条筋道有一点，不是特别足，有点软糯的感觉。 店里还有年糕、小粽子、素饺，品种特别丰富～一人食吃不了那么多，其他客人点了还给我蹭了几张照片，都是善良友好的人呢！",
-          "超级好吃推荐👍👍👍 老板人也超级好 在那里附近租的充电宝 没有归还成功 打电话给老板 老板特意跑出去给弄好的 真是超赞的👍👍👍",
-          "挺有意境的一家素菜馆 环境很棒 小院不大～但温暖备至，身兼数职的院子主人是个小姑娘 菜品做的非常精致 是我喜欢的类型 素菜荤做 很棒！"
-        ],
-        "sourceName": "携程美食公开用户点评",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/77907781.html",
-        "verifiedAt": "2026-11-05"
-      },
-      "image": {
-        "url": "https://dimg04.c-ctrip.com/images/0106x120009uotc80BC51_D_750_450_Q90.png?proc=autoorient",
-        "sourceName": "携程美食公开餐厅图片",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/77907781.html",
-        "verifiedAt": "2026-11-05"
-      },
-      "detailVerification": {
-        "checkedAt": "2026-11-05",
-        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/77907781.html",
-        "status": "verified",
-        "method": "public-source-extraction",
-        "lastSuccessfulAt": "2026-11-05"
-      },
-      "recommendationScore": 67,
-      "recommendationBreakdown": {
-        "rating": 32,
-        "reviewSample": 5.8,
-        "featuredDishes": 15,
-        "sources": 5,
-        "freshness": 8.7
-      },
-      "recommendationRank": 173,
-      "averageSpendSources": [
-        {
-          "amount": 53,
-          "currency": "CNY",
-          "label": "人均 ¥53",
-          "sourceName": "携程美食公开餐厅页",
-          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/77907781.html",
-          "verifiedAt": "2026-11-05"
-        }
-      ],
-      "spendVerification": {
-        "checkedAt": "2026-11-05",
-        "sourcesChecked": 1,
-        "status": "verified",
-        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
-      },
-      "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -170492,9 +170367,9 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
-      "recommendationRank": 174,
+      "recommendationRank": 173,
       "averageSpendSources": [
         {
           "amount": 19,
@@ -170512,7 +170387,132 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
+        "via": "amap-adcode",
+        "adcode": "",
+        "note": "高德未收录同名门店，保留待抽查"
+      }
+    },
+    {
+      "id": "zhizhu-tianzhulu",
+      "name": "知竹（天竺路店）",
+      "category": "素食、轻食与创意餐厅",
+      "district": "西湖区",
+      "address": "杭州市西湖区西湖街道天竺路69号",
+      "price": "¥",
+      "description": "灵隐天竺路上的素面与素点小馆，供应菌菇面、素烧卖和手工麻糍。",
+      "recommendationReason": "适合一人食或灵隐游览途中想吃轻量素食的食客。",
+      "reviewSummary": "携程门店页列出天竺路69号，并有菜单、营业时间与公开食客点评。",
+      "mapQuery": "知竹（天竺路店） 杭州市西湖区西湖街道天竺路69号",
+      "sources": [
+        {
+          "name": "携程美食·知竹天竺路店",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/1445060/77907781.html",
+          "type": "地址与公开评价"
+        },
+        {
+          "name": "高德地图·门店查询",
+          "url": "https://www.amap.com/search?query=%E7%9F%A5%E7%AB%B9%EF%BC%88%E5%A4%A9%E7%AB%BA%E8%B7%AF%E5%BA%97%EF%BC%89%20%E6%9D%AD%E5%B7%9E%E5%B8%82%E8%A5%BF%E6%B9%96%E5%8C%BA%E8%A5%BF%E6%B9%96%E8%A1%97%E9%81%93%E5%A4%A9%E7%AB%BA%E8%B7%AF69%E5%8F%B7",
+          "type": "地图与实时资料"
+        }
+      ],
+      "verifiedAt": "2026-09-28",
+      "rating": "公开评分以来源页面实时显示为准",
+      "verificationStatus": "verified",
+      "averageSpend": {
+        "amount": 53,
+        "currency": "CNY",
+        "label": "人均 ¥53",
+        "sourceName": "携程美食公开餐厅页",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/77907781.html",
+        "verifiedAt": "2026-11-05"
+      },
+      "featuredDishes": [
+        {
+          "name": "知味拌面",
+          "price": null
+        },
+        {
+          "name": "牛肝菌面",
+          "price": null
+        },
+        {
+          "name": "山菇手擀面",
+          "price": null
+        },
+        {
+          "name": "宝师父炸酱面",
+          "price": null
+        },
+        {
+          "name": "手工麻糍",
+          "price": null
+        },
+        {
+          "name": "鲜橙芒果汁",
+          "price": null
+        },
+        {
+          "name": "青梅豆糕",
+          "price": null
+        },
+        {
+          "name": "手工藤椒烧卖",
+          "price": null
+        }
+      ],
+      "reviewInfo": {
+        "rating": 4,
+        "count": 4,
+        "snippets": [
+          "灵隐山脚，沿着青石板小道漫步步行街。小店藏在步行街一隅，并不显眼。有一角写着供僧名牌，老板娘说店里的素食都是免费供给给僧人们的，结善缘。 「山菇手擀面」 山菇、海米、枸杞佐以香料的汤头特别鲜甜，完全不输给各种肉汤。手擀面有蔬菜汁在里面，绿色的看着就很健康。面条筋道有一点，不是特别足，有点软糯的感觉。 店里还有年糕、小粽子、素饺，品种特别丰富～一人食吃不了那么多，其他客人点了还给我蹭了几张照片，都是善良友好的人呢！",
+          "超级好吃推荐👍👍👍 老板人也超级好 在那里附近租的充电宝 没有归还成功 打电话给老板 老板特意跑出去给弄好的 真是超赞的👍👍👍",
+          "挺有意境的一家素菜馆 环境很棒 小院不大～但温暖备至，身兼数职的院子主人是个小姑娘 菜品做的非常精致 是我喜欢的类型 素菜荤做 很棒！"
+        ],
+        "sourceName": "携程美食公开用户点评",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/77907781.html",
+        "verifiedAt": "2026-11-05"
+      },
+      "image": {
+        "url": "https://dimg04.c-ctrip.com/images/0106x120009uotc80BC51_D_750_450_Q90.png?proc=autoorient",
+        "sourceName": "携程美食公开餐厅图片",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/77907781.html",
+        "verifiedAt": "2026-11-05"
+      },
+      "detailVerification": {
+        "checkedAt": "2026-11-05",
+        "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/77907781.html",
+        "status": "verified",
+        "method": "public-source-extraction",
+        "lastSuccessfulAt": "2026-11-05"
+      },
+      "recommendationScore": 66,
+      "recommendationBreakdown": {
+        "rating": 32,
+        "reviewSample": 5.8,
+        "featuredDishes": 15,
+        "sources": 5,
+        "freshness": 8.6
+      },
+      "recommendationRank": 174,
+      "averageSpendSources": [
+        {
+          "amount": 53,
+          "currency": "CNY",
+          "label": "人均 ¥53",
+          "sourceName": "携程美食公开餐厅页",
+          "sourceUrl": "https://gs.ctrip.com/html5/you/foods/fooddetail/14/77907781.html",
+          "verifiedAt": "2026-11-05"
+        }
+      ],
+      "spendVerification": {
+        "checkedAt": "2026-11-05",
+        "sourcesChecked": 1,
+        "status": "verified",
+        "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
+      },
+      "locationCheck": {
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -170615,7 +170615,7 @@
         "reviewSample": 5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 175,
       "averageSpendSources": [
@@ -170635,7 +170635,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -170740,7 +170740,7 @@
         "reviewSample": 5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 176,
       "averageSpendSources": [
@@ -170760,7 +170760,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -170864,7 +170864,7 @@
         "reviewSample": 4,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 177,
       "averageSpendSources": [
@@ -170884,7 +170884,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -170989,7 +170989,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 178,
       "averageSpendSources": [
@@ -171009,7 +171009,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -171134,7 +171134,7 @@
       },
       "recommendationRank": 179,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -171257,7 +171257,7 @@
       },
       "recommendationRank": 180,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -171380,7 +171380,7 @@
       },
       "recommendationRank": 181,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -171503,7 +171503,7 @@
       },
       "recommendationRank": 182,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -171626,7 +171626,7 @@
       },
       "recommendationRank": 183,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -171731,7 +171731,7 @@
         "reviewSample": 7,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 184,
       "averageSpendSources": [
@@ -171751,7 +171751,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -171876,7 +171876,7 @@
       },
       "recommendationRank": 185,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -171981,7 +171981,7 @@
         "reviewSample": 6.5,
         "featuredDishes": 15,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 186,
       "averageSpendSources": [
@@ -172001,7 +172001,7 @@
         "notes": "仅保留来源页面明确标注的人均金额；不同平台金额并列展示。"
       },
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
@@ -172113,11 +172113,11 @@
         "reviewSample": 0,
         "featuredDishes": 11.3,
         "sources": 5,
-        "freshness": 8.7
+        "freshness": 8.6
       },
       "recommendationRank": 187,
       "locationCheck": {
-        "checkedAt": "2026-11-07",
+        "checkedAt": "2026-11-08",
         "via": "amap-adcode",
         "adcode": "",
         "note": "高德未收录同名门店，保留待抽查"
